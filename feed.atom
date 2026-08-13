@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://addskimmilk.github.io/tesco/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2026-08-13T12:14:37.646Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
+    <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
+        <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
+        <link href="https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"/>
+        <updated>2026-08-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript]]></title>
+        <id>6a7d0b557863edaa10c98875</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/"/>
+        <updated>2026-08-13T00:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution]]></title>
+        <id>6a7ce718716450a8062b0352</id>
+        <link href="https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/"/>
+        <updated>2026-08-12T21:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc]]></summary>
+        <author>
+            <name>Mohammed Fahd Abrah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent with Per-User OAuth Access [Full Handbook]]]></title>
+        <id>6a7c95758a35a7792fd567c3</id>
+        <link href="https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/"/>
+        <updated>2026-08-12T15:47:01.000Z</updated>
+        <summary type="html"><![CDATA[When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl]]></summary>
+        <author>
+            <name>Saif Ali Shaik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Browser-Based PDF Filter Studio with JavaScript]]></title>
+        <id>6a7c94929716b929062beeb1</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/"/>
+        <updated>2026-08-12T15:43:14.000Z</updated>
+        <summary type="html"><![CDATA[PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
+        <id>6a7b522a304c202420dfd496</id>
+        <link href="https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/"/>
+        <updated>2026-08-11T16:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect]]></title>
+        <id>6a7b52064ac8f18a2a936e46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/"/>
+        <updated>2026-08-11T16:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
+        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
+        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
+        <updated>2026-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications]]></title>
+        <id>6a7a662d92a5f4f663b525f9</id>
+        <link href="https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/"/>
+        <updated>2026-08-11T00:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your Side Project Seen and Gain Paying Users]]></title>
+        <id>6a7a38d57c96966272403ab6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/"/>
+        <updated>2026-08-10T20:47:17.000Z</updated>
+        <summary type="html"><![CDATA[In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d]]></summary>
+        <author>
+            <name>George Field</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]]]></title>
+        <id>6a7a37b45687127b2dce7c6e</id>
+        <link href="https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/"/>
+        <updated>2026-08-10T20:42:28.000Z</updated>
+        <summary type="html"><![CDATA[The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age]]></title>
+        <id>6a79dcd1e93f9db759fd99d6</id>
+        <link href="https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/"/>
+        <updated>2026-08-10T14:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr]]></summary>
+        <author>
+            <name>Jesutoni Aderibigbe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
+        <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
+        <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
+        <updated>2026-08-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jad Joubran)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
+        <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
+        <updated>2026-07-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bull And Bear Case For Digital Design In The Age Of AI]]></title>
+        <id>https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/</id>
+        <link href="https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"/>
+        <updated>2026-07-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Budd)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking Outside The Box: Digital Design In The AI Era]]></title>
+        <id>https://smashingmagazine.com/2026/07/digital-design-ai-era/</id>
+        <link href="https://smashingmagazine.com/2026/07/digital-design-ai-era/"/>
+        <updated>2026-07-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs]]></title>
+        <id>https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/</id>
+        <link href="https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"/>
+        <updated>2026-07-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
+        <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
+        <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
+        <updated>2026-07-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
+        <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
+        <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
+        <updated>2026-07-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+</feed>
