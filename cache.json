@@ -227,21 +227,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
-          "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
-          "publishedOn": "2026-07-17T08:00:00.000Z",
-          "wordCount": 5184,
-          "title": "When It Makes Sense To “Block” The Main Thread",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
         }
       ]
     },
