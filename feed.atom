@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T00:35:48.188Z</updated>
+    <updated>2026-08-18T00:35:26.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Subqueries in SQL]]></title>
+        <id>6a837db5b64d34f31873c306</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/"/>
+        <updated>2026-08-17T21:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries]]></summary>
+        <author>
+            <name>Abdullah Rufai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale LLM Inference for AI Agents Using vLLM]]></title>
+        <id>6a8373e0eb96152ac540effb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/"/>
+        <updated>2026-08-17T20:49:36.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
+        <id>https://css-tricks.com/?p=396545</id>
+        <link href="https://css-tricks.com/dark-mode-toggles-two-states-are-enough/"/>
+        <updated>2026-08-17T14:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.
+Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents]]></title>
+        <id>6a831663dcf9ac784c9eae7d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/"/>
+        <updated>2026-08-17T14:10:43.000Z</updated>
+        <summary type="html"><![CDATA[You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python]]></title>
         <id>6a7f44fc58366ecdaf016624</id>
