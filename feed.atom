@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T00:35:26.817Z</updated>
+    <updated>2026-08-19T00:36:06.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap]]></title>
+        <id>6a848de33638e739c70ebce3</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/"/>
+        <updated>2026-08-18T16:52:51.000Z</updated>
+        <summary type="html"><![CDATA[I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build More Accessible Websites with WCAG 2.2]]></title>
+        <id>6a84895dd197512208831afc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/"/>
+        <updated>2026-08-18T16:33:33.000Z</updated>
+        <summary type="html"><![CDATA[A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might]]></summary>
+        <author>
+            <name>Aiyedogbon Abraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]]]></title>
+        <id>6a8482d8953b2a189a16bd2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/"/>
+        <updated>2026-08-18T16:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work with Subqueries in SQL]]></title>
         <id>6a837db5b64d34f31873c306</id>

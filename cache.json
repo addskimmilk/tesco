@@ -246,6 +246,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a848de33638e739c70ebce3",
+          "author": "Md. Fahim Bin Amin",
+          "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
+          "link": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
+          "publishedOn": "2026-08-18T16:52:51.000Z",
+          "wordCount": 2624,
+          "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58b79fa2-e0a0-4172-b07f-e3446413eca8.png"
+        },
+        {
+          "id": "6a84895dd197512208831afc",
+          "author": "Aiyedogbon Abraham",
+          "description": "A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might",
+          "link": "https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/",
+          "publishedOn": "2026-08-18T16:33:33.000Z",
+          "wordCount": 6528,
+          "title": "How to Build More Accessible Websites with WCAG 2.2",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5cb22632-e793-40cc-9ded-4b813430e708.png"
+        },
+        {
+          "id": "6a8482d8953b2a189a16bd2c",
+          "author": "Atuoha Anthony",
+          "description": "Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/",
+          "publishedOn": "2026-08-18T16:05:44.000Z",
+          "wordCount": 6936,
+          "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/341d236f-85ed-43be-871d-bf4b3647fa22.png"
+        },
+        {
           "id": "6a837db5b64d34f31873c306",
           "author": "Abdullah Rufai",
           "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
