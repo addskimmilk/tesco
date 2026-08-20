@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396428",
+          "author": "Geoff Graham",
+          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+          "publishedOn": "2026-08-19T14:44:41.000Z",
+          "wordCount": 3540,
+          "title": "CSS Navigation Matching, Early Days",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396623",
+          "author": "Geoff Graham",
+          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-student-plan/",
+          "publishedOn": "2026-08-19T08:50:00.000Z",
+          "wordCount": 2828,
+          "title": "WordPress.com Student Plan",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=396545",
           "author": "Geoff Graham",
           "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -115,16 +135,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
-        },
-        {
-          "id": "http://css-tricks.com/?page_id=244261",
-          "author": "Mojtaba Seyedi",
-          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-          "publishedOn": "2026-07-21T09:39:10.000Z",
-          "wordCount": 4083,
-          "title": "writing-mode",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         }
       ]
     },
@@ -222,21 +232,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
-          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
-          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-          "publishedOn": "2026-07-21T10:00:00.000Z",
-          "wordCount": 8078,
-          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
         }
       ]
     },
@@ -245,6 +240,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a85bc8787783a8685665353",
+          "author": "Beau Carnes",
+          "description": "High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the",
+          "link": "https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/",
+          "publishedOn": "2026-08-19T14:24:07.000Z",
+          "wordCount": 1154,
+          "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e79ad075-fa06-4d0e-bc4a-ee1a8ecee9b1.jpg"
+        },
+        {
+          "id": "6a84d268fa401f6597cd200e",
+          "author": "Vineeth Pawar",
+          "description": "React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc",
+          "link": "https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/",
+          "publishedOn": "2026-08-18T21:45:12.000Z",
+          "wordCount": 7312,
+          "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c3ffaae8-51d5-4add-9a9e-e49443e49746.png"
+        },
         {
           "id": "6a848de33638e739c70ebce3",
           "author": "Md. Fahim Bin Amin",
