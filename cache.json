@@ -144,6 +144,16 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+          "author": "hello@smashingmagazine.com (Johan Grobler)",
+          "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
+          "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+          "publishedOn": "2026-08-20T13:00:00.000Z",
+          "wordCount": 5717,
+          "title": "Timing Charts: A Blueprint For SMIL Animations",
+          "imageUrl": "https:null"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.",
@@ -240,6 +250,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a8743695756ffe127b1cd35",
+          "author": "Vahe Aslanyan",
+          "description": "This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo",
+          "link": "https://www.freecodecamp.org/news/ai-agent-engineers-guide-60-patterns-for-building-autonomous-systems-book/",
+          "publishedOn": "2026-08-20T18:11:53.000Z",
+          "wordCount": 100136,
+          "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/732208be-8a01-43cf-a471-b8d7c8480c83.png"
+        },
+        {
+          "id": "6a873f054742a7cecc0617f4",
+          "author": "RONI DAS",
+          "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
+          "publishedOn": "2026-08-20T17:00:00.000Z",
+          "wordCount": 18989,
+          "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f21a22a9-c9e9-4ed6-899e-60639e8d2c01.png"
+        },
+        {
+          "id": "6a872fd36fe3503416ed20d8",
+          "author": "Manish Shivanandhan",
+          "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
+          "link": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
+          "publishedOn": "2026-08-20T16:48:19.000Z",
+          "wordCount": 4641,
+          "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50037557-d27e-4f8c-bbb0-b9bc78582a5b.png"
+        },
+        {
+          "id": "6a870880307f2374f57c4a18",
+          "author": "Beau Carnes",
+          "description": "Building a basic AI demo with a single completion prompt and simple RAG pipeline is easy, but taking agentic systems into production requires robust system design, reliability engineering, and failure",
+          "link": "https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer/",
+          "publishedOn": "2026-08-20T14:00:32.000Z",
+          "wordCount": 1137,
+          "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e6e59c65-63d6-4d50-b417-9896dcf0edb8.jpg"
+        },
+        {
+          "id": "6a86dfe3a8ecebd3a44ff2f0",
+          "author": "Beau Carnes",
+          "description": "Learning Data Structures and Algorithms (DSA) often feels like facing an challenging wall of complex jargon, syntax, and heavy mathematics. But don't worry because we just posted a course on the freeC",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-visually/",
+          "publishedOn": "2026-08-20T11:07:15.000Z",
+          "wordCount": 1144,
+          "title": "Learn Data Structures and Algorithms Visually",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6b20ee79-20b4-4665-b940-37f3d307835c.jpg"
+        },
         {
           "id": "6a85bc8787783a8685665353",
           "author": "Beau Carnes",
