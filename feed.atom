@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-21T00:38:23.070Z</updated>
+    <updated>2026-08-22T00:35:56.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time]]></title>
+        <id>6a88b8d9225da88c02eee6f5</id>
+        <link href="https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/"/>
+        <updated>2026-08-21T20:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host Odoo: Self-Hosted vs Managed Hosting]]></title>
+        <id>6a888912ca3910a01e7c2f66</id>
+        <link href="https://www.freecodecamp.org/news/how-to-host-odoo/"/>
+        <updated>2026-08-21T17:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Understand a Legacy Codebase Using AI Before Changing it]]></title>
+        <id>6a888892029633fd14697876</id>
+        <link href="https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/"/>
+        <updated>2026-08-21T17:19:14.000Z</updated>
+        <summary type="html"><![CDATA[The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh]]></title>
+        <id>6a88812be09a3c3682f4fe95</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/"/>
+        <updated>2026-08-21T16:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a]]></summary>
+        <author>
+            <name>Ayobami Adejumo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sensors Collect, Process, and Track Data in Wearable Devices]]></title>
+        <id>6a887ddeb55a70d585eec152</id>
+        <link href="https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/"/>
+        <updated>2026-08-21T16:33:34.000Z</updated>
+        <summary type="html"><![CDATA[A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sanitizers Handbook: Memory, Initialization, and Races]]></title>
+        <id>6a887c9d3045236aefcb4a94</id>
+        <link href="https://www.freecodecamp.org/news/the-sanitizers-handbook/"/>
+        <updated>2026-08-21T16:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Some of the most dangerous native failures are produced by programs that appear to be working correctly. The cryptographic operation returns the right ciphertext. The parser rejects malformed input. T]]></summary>
+        <author>
+            <name>Hamdaan Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Two Emotions Can Produce the Exact Same Biometric Signal]]></title>
+        <id>6a887bfc3e750c6752406141</id>
+        <link href="https://www.freecodecamp.org/news/how-wearables-confuse-different-emotions/"/>
+        <updated>2026-08-21T16:25:32.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago I was sitting in a convention center about to deliver a keynote at an event, watching my Oura Ring throw up the same heart rate pattern it shows me when I’m at my Pilates class. Simil]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
+        <id>https://css-tricks.com/?p=396644</id>
+        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
+        <updated>2026-08-21T15:13:03.000Z</updated>
+        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
+Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]]]></title>
         <id>6a8743695756ffe127b1cd35</id>

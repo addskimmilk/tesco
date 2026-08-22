@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396644",
+          "author": "Geoff Graham",
+          "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+          "publishedOn": "2026-08-21T15:13:03.000Z",
+          "wordCount": 3334,
+          "title": "Resolved: CSS Class Prefix Selector",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=396428",
           "author": "Geoff Graham",
           "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -250,6 +260,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a88b8d9225da88c02eee6f5",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit",
+          "link": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
+          "publishedOn": "2026-08-21T20:45:13.000Z",
+          "wordCount": 4351,
+          "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/779882b9-29ec-4337-b3ab-96ccf752638c.png"
+        },
+        {
+          "id": "6a888912ca3910a01e7c2f66",
+          "author": "Abdul Talha",
+          "description": "Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources",
+          "link": "https://www.freecodecamp.org/news/how-to-host-odoo/",
+          "publishedOn": "2026-08-21T17:21:22.000Z",
+          "wordCount": 2995,
+          "title": "How to Host Odoo: Self-Hosted vs Managed Hosting",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/30766bac-af3a-4c24-a544-75846002ce99.png"
+        },
+        {
+          "id": "6a888892029633fd14697876",
+          "author": "Hugo Teijiz",
+          "description": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
+          "link": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
+          "publishedOn": "2026-08-21T17:19:14.000Z",
+          "wordCount": 4383,
+          "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7d94c780-37eb-4bd6-a1e2-da6e25bdfdcb.png"
+        },
+        {
+          "id": "6a88812be09a3c3682f4fe95",
+          "author": "Ayobami Adejumo",
+          "description": "Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a",
+          "link": "https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/",
+          "publishedOn": "2026-08-21T16:47:39.000Z",
+          "wordCount": 4528,
+          "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/425eabfd-bd40-4c0d-b6c3-4f1f7bd53caa.png"
+        },
+        {
+          "id": "6a887ddeb55a70d585eec152",
+          "author": "Reetain Raina",
+          "description": "A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b",
+          "link": "https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/",
+          "publishedOn": "2026-08-21T16:33:34.000Z",
+          "wordCount": 3045,
+          "title": "How Sensors Collect, Process, and Track Data in Wearable Devices",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e0ee25a6-436d-48d6-abca-9519b531707a.png"
+        },
+        {
+          "id": "6a887c9d3045236aefcb4a94",
+          "author": "Hamdaan Ali",
+          "description": "Some of the most dangerous native failures are produced by programs that appear to be working correctly. The cryptographic operation returns the right ciphertext. The parser rejects malformed input. T",
+          "link": "https://www.freecodecamp.org/news/the-sanitizers-handbook/",
+          "publishedOn": "2026-08-21T16:28:13.000Z",
+          "wordCount": 20051,
+          "title": "The Sanitizers Handbook: Memory, Initialization, and Races",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b4ab5b91-c6a8-488d-847e-7ca1e52e5db9.png"
+        },
+        {
+          "id": "6a887bfc3e750c6752406141",
+          "author": "Shradha Puri",
+          "description": "A few months ago I was sitting in a convention center about to deliver a keynote at an event, watching my Oura Ring throw up the same heart rate pattern it shows me when I’m at my Pilates class. Simil",
+          "link": "https://www.freecodecamp.org/news/how-wearables-confuse-different-emotions/",
+          "publishedOn": "2026-08-21T16:25:32.000Z",
+          "wordCount": 2273,
+          "title": "Why Two Emotions Can Produce the Exact Same Biometric Signal",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/415c689f-4087-4b79-b75c-cdc14b9950fc.png"
+        },
         {
           "id": "6a8743695756ffe127b1cd35",
           "author": "Vahe Aslanyan",
