@@ -261,6 +261,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a88c8b8c9a055790ae586e7",
+          "author": "Eva J Patel",
+          "description": "Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca",
+          "link": "https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/",
+          "publishedOn": "2026-08-21T21:52:56.000Z",
+          "wordCount": 7168,
+          "title": "Neural Networks Explained: What They Are and How to Build One in Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e140594f-daab-4c39-8b59-91bc794d6430.png"
+        },
+        {
           "id": "6a88b8d9225da88c02eee6f5",
           "author": "Oluwaseyi Fatunmole",
           "description": "Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T00:35:56.077Z</updated>
+    <updated>2026-08-23T00:38:22.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neural Networks Explained: What They Are and How to Build One in Python]]></title>
+        <id>6a88c8b8c9a055790ae586e7</id>
+        <link href="https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/"/>
+        <updated>2026-08-21T21:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time]]></title>
         <id>6a88b8d9225da88c02eee6f5</id>
