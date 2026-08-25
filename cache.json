@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395401",
+          "author": "Fränk Klein",
+          "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/wordpress-php-block-registration/",
+          "publishedOn": "2026-08-24T13:54:02.000Z",
+          "wordCount": 6762,
+          "title": "WordPress PHP-Only Block Registration",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=396644",
           "author": "Geoff Graham",
           "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -260,6 +270,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a8c8383ca0d5a1002b19fa3",
+          "author": "Chidozie Managwu",
+          "description": "When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re",
+          "link": "https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/",
+          "publishedOn": "2026-08-24T17:46:43.000Z",
+          "wordCount": 2446,
+          "title": "How to Build Referral-Aware Split Payment Flows in Django",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e8f9e07-789d-417b-96af-3a41b327d047.png"
+        },
+        {
+          "id": "6a8c831fe5597860d219d150",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every mobile developer eventually hits the same wall: the app works perfectly when the user is looking at it. But the moment they press the home button, everything stops. A sync that should have compl",
+          "link": "https://www.freecodecamp.org/news/mobile-background-execution-ios-background-modes-android-workmanager-and-background-services-in-dart/",
+          "publishedOn": "2026-08-24T17:45:03.000Z",
+          "wordCount": 5155,
+          "title": "Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2e9b068d-5fec-4228-8a0f-1f34bcd1e5f1.png"
+        },
+        {
+          "id": "6a8c5708cc6859117f26da4f",
+          "author": "GAYATHRI BOLINENI",
+          "description": "When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.",
+          "link": "https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/",
+          "publishedOn": "2026-08-24T14:36:56.000Z",
+          "wordCount": 3987,
+          "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/61896a64-69bb-46cb-87dd-0076c4aa1b50.png"
+        },
+        {
+          "id": "6a8c4f18dbeb4eb3a4b2ed0d",
+          "author": "Chinedu Otutu",
+          "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
+          "link": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
+          "publishedOn": "2026-08-24T14:03:04.000Z",
+          "wordCount": 4528,
+          "title": "How to Build Type-Safe APIs with Hono and Zod",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ce251811-43ad-4e2f-9761-83b6240f718e.jpg"
+        },
+        {
+          "id": "6a8c4969642222471a04f943",
+          "author": "Purity Udeh",
+          "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
+          "publishedOn": "2026-08-22T03:00:00.000Z",
+          "wordCount": 2660,
+          "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dccb28f-d024-4c7a-9ac7-353594572842.png"
+        },
         {
           "id": "6a88c8b8c9a055790ae586e7",
           "author": "Eva J Patel",
