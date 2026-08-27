@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=394713",
+          "author": "Saleh Mubashar",
+          "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+          "publishedOn": "2026-08-26T15:38:41.000Z",
+          "wordCount": 4417,
+          "title": "animation-trigger",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396665",
           "author": "Geoff Graham",
           "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -174,6 +184,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+          "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
+          "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
+          "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+          "publishedOn": "2026-08-26T13:00:00.000Z",
+          "wordCount": 5907,
+          "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
           "author": "hello@smashingmagazine.com (Pierre Burgy)",
           "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
@@ -272,21 +297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
-          "author": "hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)",
-          "description": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
-          "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
-          "publishedOn": "2026-07-28T10:00:00.000Z",
-          "wordCount": 3688,
-          "title": "Thinking Outside The Box: Digital Design In The AI Era",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
         }
       ]
     },
@@ -295,6 +305,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a8f84afb0c3d8eedbfb8fec",
+          "author": "Chudi Nnorukam",
+          "description": "Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c",
+          "link": "https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/",
+          "publishedOn": "2026-08-27T00:28:31.000Z",
+          "wordCount": 5242,
+          "title": "How to Tell If Your Search Console Impressions Came From a Human or a Machine",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7143b3f8-2a39-4095-bcde-6abb456a6a6f.png"
+        },
+        {
+          "id": "6a8f567e6f14ba82479b5901",
+          "author": "Nikhil Adithyan",
+          "description": "Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive",
+          "link": "https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/",
+          "publishedOn": "2026-08-26T21:11:26.000Z",
+          "wordCount": 8743,
+          "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ac2c7aca-36c9-4f25-9872-3f5fb44c70a6.png"
+        },
+        {
+          "id": "6a8f26c8d7f59479db2c21fd",
+          "author": "David Aniebo",
+          "description": "If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/",
+          "publishedOn": "2026-08-26T17:47:52.000Z",
+          "wordCount": 5429,
+          "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ed3602f9-f68c-4917-bc61-338d3ffba6e7.png"
+        },
+        {
+          "id": "6a8f26a0d7f59479db2c2023",
+          "author": "Daniel Nwaneri",
+          "description": "I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug",
+          "link": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/",
+          "publishedOn": "2026-08-26T17:47:12.000Z",
+          "wordCount": 2987,
+          "title": "How to Stop Letting AI Agents Fake Their Own Tests",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/183633e3-b5fb-44cf-a0cb-32fd566ebc33.png"
+        },
         {
           "id": "6a8ddd55902e76128f1985bb",
           "author": "Eva J Patel",

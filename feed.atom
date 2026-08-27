@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T00:37:29.598Z</updated>
+    <updated>2026-08-27T05:35:57.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Tell If Your Search Console Impressions Came From a Human or a Machine]]></title>
+        <id>6a8f84afb0c3d8eedbfb8fec</id>
+        <link href="https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/"/>
+        <updated>2026-08-27T00:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c]]></summary>
+        <author>
+            <name>Chudi Nnorukam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets]]></title>
+        <id>6a8f567e6f14ba82479b5901</id>
+        <link href="https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/"/>
+        <updated>2026-08-26T21:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive]]></summary>
+        <author>
+            <name>Nikhil Adithyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Flashcard Study App with Next.js and MongoDB]]></title>
+        <id>6a8f26c8d7f59479db2c21fd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/"/>
+        <updated>2026-08-26T17:47:52.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t]]></summary>
+        <author>
+            <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Letting AI Agents Fake Their Own Tests]]></title>
+        <id>6a8f26a0d7f59479db2c2023</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/"/>
+        <updated>2026-08-26T17:47:12.000Z</updated>
+        <summary type="html"><![CDATA[I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug]]></summary>
+        <author>
+            <name>Daniel Nwaneri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[animation-trigger]]></title>
+        <id>https://css-tricks.com/?page_id=394713</id>
+        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
+        <updated>2026-08-26T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
+animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
+        <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
+        <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
+        <updated>2026-08-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Meriem Benhabiles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Fix a Leaked API Key: A Developer’s Guide to Git Security]]></title>
         <id>6a8ddd55902e76128f1985bb</id>
@@ -739,16 +800,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         <summary type="html"><![CDATA[As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Budd)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking Outside The Box: Digital Design In The AI Era]]></title>
-        <id>https://smashingmagazine.com/2026/07/digital-design-ai-era/</id>
-        <link href="https://smashingmagazine.com/2026/07/digital-design-ai-era/"/>
-        <updated>2026-07-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)</name>
         </author>
     </entry>
 </feed>
