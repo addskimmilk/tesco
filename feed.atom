@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-28T07:44:06.808Z</updated>
+    <updated>2026-08-29T04:41:05.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Your Tests in Express Using Vitest]]></title>
+        <id>6a91aa2c85465e213741c4de</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/"/>
+        <updated>2026-08-28T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app]]></summary>
+        <author>
+            <name>jabo Landry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved]]></title>
         <id>6a90aca9476c6bda8e12cfef</id>

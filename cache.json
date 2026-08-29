@@ -301,6 +301,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a91aa2c85465e213741c4de",
+          "author": "jabo Landry",
+          "description": "Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/",
+          "publishedOn": "2026-08-28T15:33:00.000Z",
+          "wordCount": 5415,
+          "title": "How to Automate Your Tests in Express Using Vitest",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/098eaca4-3334-4a81-b6f6-ad0b167eee44.png"
+        },
+        {
           "id": "6a90aca9476c6bda8e12cfef",
           "author": "Botao Deng",
           "description": "In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab",
