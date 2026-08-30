@@ -170,21 +170,6 @@
           "wordCount": 4886,
           "title": "Get Ready For the Powerful CSS border-shape Property!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396295",
-          "author": "Daniel Schwarz",
-          "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\nWhat’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-16/",
-          "publishedOn": "2026-07-31T14:06:21.000Z",
-          "wordCount": 3302,
-          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
-            "length": "219450",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
         }
       ]
     },
@@ -277,21 +262,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
-          "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
-          "publishedOn": "2026-07-31T08:00:00.000Z",
-          "wordCount": 4648,
-          "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png"
         }
       ]
     },
