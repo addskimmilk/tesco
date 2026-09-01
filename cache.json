@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396630",
+          "author": "Lee Meyer",
+          "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-random-function-polyfill/",
+          "publishedOn": "2026-08-31T15:12:19.000Z",
+          "wordCount": 6435,
+          "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396738",
+          "author": "Daniel Schwarz",
+          "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-18/",
+          "publishedOn": "2026-08-31T14:08:55.000Z",
+          "wordCount": 3657,
+          "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=395259",
           "author": "Daniel Schwarz",
           "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -169,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+          "publishedOn": "2026-08-31T11:00:00.000Z",
+          "wordCount": 4755,
+          "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
           "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
           "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
@@ -260,6 +295,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6a958dafb6e371335a86ea8c",
+          "author": "Sarvesh Talele",
+          "description": "Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b",
+          "link": "https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/",
+          "publishedOn": "2026-08-31T14:20:31.000Z",
+          "wordCount": 13179,
+          "title": "Learn the AI SDLC – The Complete Guide to Building Agent Skills",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eeed67e6-32c9-45df-a2f4-9894f2e49f00.png"
+        },
+        {
+          "id": "6a958d8401db3f18f07d0b54",
+          "author": "Hugo Teijiz",
+          "description": "The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa",
+          "link": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
+          "publishedOn": "2026-08-31T14:19:48.000Z",
+          "wordCount": 4680,
+          "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50ec1fe6-8e1f-4c42-a8ad-fd52ea0d089d.png"
+        },
+        {
+          "id": "6a9587c15c82cb888f556170",
+          "author": "Gloria Tejuosho",
+          "description": "As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e",
+          "link": "https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/",
+          "publishedOn": "2026-08-31T13:55:13.000Z",
+          "wordCount": 4493,
+          "title": "How to Build API Documentation From Scratch [A Roadmap for Technical Writers]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7f6c4ca5-30ca-42fd-a473-d6262774e149.png"
+        },
         {
           "id": "6a91aa2c85465e213741c4de",
           "author": "jabo Landry",
