@@ -296,6 +296,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a9754cacade799374a0231b",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t",
+          "link": "https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/",
+          "publishedOn": "2026-09-01T22:42:18.000Z",
+          "wordCount": 6045,
+          "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9dac98f7-f9bf-4597-bbd9-95e220cce9ec.png"
+        },
+        {
+          "id": "6a97368f8a7f1f043a223d7c",
+          "author": "Chinedu Otutu",
+          "description": "Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio",
+          "link": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
+          "publishedOn": "2026-09-01T20:33:19.000Z",
+          "wordCount": 2636,
+          "title": "Why You Should Never Send Emails Inside Your API Requests",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8da5a9af-d7e5-4d0e-94cc-a11d24923023.png"
+        },
+        {
+          "id": "6a96f3e0541d63c1fd799f01",
+          "author": "Manish Shivanandhan",
+          "description": "Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t",
+          "link": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
+          "publishedOn": "2026-09-01T15:48:48.000Z",
+          "wordCount": 2277,
+          "title": "How to Protect Your Privacy While Browsing the Web",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7e2faa59-b805-4df1-be97-86c74604f35f.png"
+        },
+        {
+          "id": "6a96f33812e0a826683b9f0f",
+          "author": "Vamsi Vaddavalli",
+          "description": "Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,",
+          "link": "https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/",
+          "publishedOn": "2026-09-01T15:46:00.000Z",
+          "wordCount": 7891,
+          "title": "How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b89c199c-9ec0-48f2-b7ff-193c5b16a1d4.png"
+        },
+        {
+          "id": "6a96f2cfeb26827ea17d08f5",
+          "author": "Eva J Patel",
+          "description": "If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-analysis-agent/",
+          "publishedOn": "2026-09-01T15:44:15.000Z",
+          "wordCount": 7095,
+          "title": "How to Build an AI File Analysis Agent with Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c24acbb2-2ab2-440d-83ae-682183a2f125.png"
+        },
+        {
+          "id": "6a96f19b6bef806c586df810",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta",
+          "link": "https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/",
+          "publishedOn": "2026-09-01T15:39:07.000Z",
+          "wordCount": 3848,
+          "title": "Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9a2d1ff6-84d7-42aa-8654-15df15ad52f8.png"
+        },
+        {
+          "id": "6a96e93c39073a9c1afb3a8d",
+          "author": "Beau Carnes",
+          "description": "Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true",
+          "link": "https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/",
+          "publishedOn": "2026-09-01T15:03:24.000Z",
+          "wordCount": 1136,
+          "title": "Learn Excel Formulas and Functions",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f5f230c-4aae-4416-97d9-87d65a325d5f.jpg"
+        },
+        {
+          "id": "6a95f9a98577dd0ab849ab46",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ",
+          "link": "https://www.freecodecamp.org/news/bloom-filters-explained/",
+          "publishedOn": "2026-08-31T22:01:13.000Z",
+          "wordCount": 4732,
+          "title": "Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e3025afa-a736-4dd0-923b-e6ea8508f030.png"
+        },
+        {
+          "id": "6a95f8e758184cca726442fe",
+          "author": "Caleb Mintoumba",
+          "description": "Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf",
+          "link": "https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/",
+          "publishedOn": "2026-08-31T21:57:59.000Z",
+          "wordCount": 3029,
+          "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b7f594e-36d9-48b5-a1eb-ad2d19f4d253.png"
+        },
+        {
+          "id": "6a95f5263ba1cbee5d13a5bd",
+          "author": "Obum",
+          "description": "Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what",
+          "link": "https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/",
+          "publishedOn": "2026-08-31T21:41:58.000Z",
+          "wordCount": 4131,
+          "title": "What Every Dev Should Know About Tracking Product Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0ba14c8d-47f9-466c-a300-f9838d8ab712.png"
+        },
+        {
           "id": "6a958dafb6e371335a86ea8c",
           "author": "Sarvesh Talele",
           "description": "Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b",
