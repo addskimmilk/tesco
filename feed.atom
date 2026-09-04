@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T01:56:36.526Z</updated>
+    <updated>2026-09-04T01:53:31.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI Systems That Know When They Don't Know: A Practical Guide]]></title>
+        <id>6a99b7e04f56be68c2dd5b74</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-ai-systems-that-know-when-they-don-t-know/"/>
+        <updated>2026-09-03T18:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can synthesize complex corporate data, an]]></summary>
+        <author>
+            <name>Chidiebere Njoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Chips Are Made]]></title>
+        <id>6a9995f0970203e770d14c8d</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-chips-are-made/"/>
+        <updated>2026-09-03T15:44:48.000Z</updated>
+        <summary type="html"><![CDATA[We just published a comprehensive, first-principles course on the semiconductor supply chain on the freeCodeCamp.org YouTube channel. Taught by hardware specialist Kian Kyars, this deep dive explains]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OpenTelemetry Works: A Complete Guide]]></title>
+        <id>6a999540c11d1e5beaccfefc</id>
+        <link href="https://www.freecodecamp.org/news/how-opentelemetry-works/"/>
+        <updated>2026-09-03T15:41:52.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a software developer or DevOps engineer, you've probably come across OpenTelemetry. It comes up a lot, especially when talking about observability, monitoring, or debugging distributed syste]]></summary>
+        <author>
+            <name>Chosen Vincent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Skills in Agentic Flutter Development: A Handbook for Devs]]></title>
+        <id>6a9994ee30c9235bff67094c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-skills-in-agentic-flutter-development-a-handbook-for-devs/"/>
+        <updated>2026-09-03T15:40:30.000Z</updated>
+        <summary type="html"><![CDATA[One of the biggest misconceptions about AI-assisted development is that using AI means giving up the engineering experience you've built over the years. It doesn't. You can take the architecture patte]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Builder Design Pattern: A Better Approach to Complex Object Construction]]></title>
         <id>6a98992c210435845c785935</id>
