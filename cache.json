@@ -286,6 +286,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6a9b2db334fe985abf2f91a9",
+          "author": "Chinedu Otutu",
+          "description": "Scholarship hunting is a research job, not a single search box. You filter awards by field, GPA, citizenship, and deadline. You keep a shortlist. You write notes about essays and recommenders. Then yo",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/",
+          "publishedOn": "2026-09-04T20:44:35.000Z",
+          "wordCount": 6003,
+          "title": "How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bc3b99da-15f4-4366-aede-4a2b567724aa.png"
+        },
+        {
+          "id": "6a9b251247b584b8b59d4b97",
+          "author": "Manish Shivanandhan",
+          "description": "An AI receptionist may sound simple from the outside: a caller speaks, the system responds, and the conversation continues until the caller gets an answer or reaches a person. Behind that conversation",
+          "link": "https://www.freecodecamp.org/news/how-ai-receptionists-work-the-architecture-behind-ai-phone-agents/",
+          "publishedOn": "2026-09-04T20:07:46.000Z",
+          "wordCount": 2894,
+          "title": "How AI Receptionists Work: The Architecture Behind AI Phone Agents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b902c73d-3593-4fe6-8f64-8180636cb58b.png"
+        },
+        {
+          "id": "6a9af102c3078d7ebb3a01fa",
+          "author": "Florian Beijers",
+          "description": "Discord is one of those technologies that came out of nowhere several years ago and is now everywhere. A huge variety of servers around all sorts of communities, efforts, and initiatives have been pop",
+          "link": "https://www.freecodecamp.org/news/using-discord-with-a-screen-reader/",
+          "publishedOn": "2026-09-04T16:25:38.000Z",
+          "wordCount": 2471,
+          "title": "How to Use Discord with a Screen Reader: A Quick Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/364f60fe-def1-4b62-9252-ed59c2b79eb1.png"
+        },
+        {
+          "id": "6a9aefa26eac286787fb7078",
+          "author": "Reetain Raina",
+          "description": "When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin",
+          "link": "https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/",
+          "publishedOn": "2026-09-04T16:19:46.000Z",
+          "wordCount": 3903,
+          "title": "How AI Is Changing Patching and What Devs Need to Know About Exposure Management",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ce5b87e6-1941-493c-a2c9-7822138160d6.png"
+        },
+        {
+          "id": "6a9aee151eb1bdc38db233af",
+          "author": "Rudrendu Paul",
+          "description": "A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese",
+          "link": "https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/",
+          "publishedOn": "2026-09-04T16:13:09.000Z",
+          "wordCount": 8674,
+          "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8e99bfe-2630-487f-9031-319aae986a32.png"
+        },
+        {
+          "id": "6a9a0db7c7c0575bd6526dd2",
+          "author": "Puneet Singh",
+          "description": "Agentic coding tools like Claude Code, OpenAI Codex, Google Antigravity, and Cursor have become ubiquitous for everyday software development. As agentic systems mature, much of the work developers hav",
+          "link": "https://www.freecodecamp.org/news/claude-code-observability-with-opentelemetry/",
+          "publishedOn": "2026-09-04T00:15:51.000Z",
+          "wordCount": 6165,
+          "title": "Claude Code Observability with OpenTelemetry",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2a729ee5-e1b9-4198-91cd-251b9c12867f.png"
+        },
+        {
           "id": "6a99b7e04f56be68c2dd5b74",
           "author": "Chidiebere Njoku",
           "description": "Large Language Models (LLMs) have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can synthesize complex corporate data, an",
