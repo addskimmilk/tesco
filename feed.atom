@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T01:52:19.815Z</updated>
+    <updated>2026-09-06T01:46:42.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -1099,16 +1099,6 @@ SmashingConf Freiburg 2026, September 7-10 originally handwritten and published 
 Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
-        <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
-        <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
-        <updated>2026-08-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jad Joubran)</name>
         </author>
     </entry>
     <entry>

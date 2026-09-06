@@ -262,21 +262,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-          "author": "hello@smashingmagazine.com (Jad Joubran)",
-          "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
-          "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-          "publishedOn": "2026-08-07T13:00:00.000Z",
-          "wordCount": 6281,
-          "title": "How Baseline Can Help You Ship Less JavaScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg"
         }
       ]
     },
