@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T01:46:42.495Z</updated>
+    <updated>2026-09-07T01:43:47.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -1088,28 +1088,6 @@ SmashingConf Freiburg 2026, September 7-10 originally handwritten and published 
         <summary type="html"><![CDATA[Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr]]></summary>
         <author>
             <name>Jesutoni Aderibigbe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=394753</id>
-        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
-        <updated>2026-08-07T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
-Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
-        <id>https://css-tricks.com/?p=396471</id>
-        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
-        <updated>2026-08-06T15:54:52.000Z</updated>
-        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
-2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
