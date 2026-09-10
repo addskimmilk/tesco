@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T02:00:15.456Z</updated>
+    <updated>2026-09-10T01:57:17.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What a Machine Learning Model is and How to Make One]]></title>
+        <id>6aa1b782434f42bd4da9b37c</id>
+        <link href="https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/"/>
+        <updated>2026-09-09T19:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Deployment Checklist That Actually Prevents Production Incidents]]></title>
+        <id>6aa1a7edf42d135b6e7c6de3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/"/>
+        <updated>2026-09-09T18:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface]]></title>
+        <id>6aa1a112cbd6145df593b93b</id>
+        <link href="https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/"/>
+        <updated>2026-09-09T18:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Gradio with Python: A Complete Beginner-to-Advanced Book]]></title>
+        <id>6aa1a0ef2158248eeaf392ca</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/"/>
+        <updated>2026-09-09T18:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python Interactively]]></title>
+        <id>6aa16581cfb9039ff59e60ca</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-interactively/"/>
+        <updated>2026-09-09T13:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
+        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
+        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
+        <updated>2026-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript]]></title>
         <id>6a9f3d3144b92ecc2d3aca7a</id>
@@ -1076,78 +1136,6 @@ Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong
         <summary type="html"><![CDATA[Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r]]></summary>
         <author>
             <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
-        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
-        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
-        <updated>2026-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications]]></title>
-        <id>6a7a662d92a5f4f663b525f9</id>
-        <link href="https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/"/>
-        <updated>2026-08-11T00:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your Side Project Seen and Gain Paying Users]]></title>
-        <id>6a7a38d57c96966272403ab6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/"/>
-        <updated>2026-08-10T20:47:17.000Z</updated>
-        <summary type="html"><![CDATA[In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d]]></summary>
-        <author>
-            <name>George Field</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]]]></title>
-        <id>6a7a37b45687127b2dce7c6e</id>
-        <link href="https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/"/>
-        <updated>2026-08-10T20:42:28.000Z</updated>
-        <summary type="html"><![CDATA[The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animating CSS border-image]]></title>
-        <id>https://css-tricks.com/?p=394978</id>
-        <link href="https://css-tricks.com/animating-css-border-image/"/>
-        <updated>2026-08-10T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
-Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
-        <id>https://css-tricks.com/?p=396506</id>
-        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
-        <updated>2026-08-10T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
-SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age]]></title>
-        <id>6a79dcd1e93f9db759fd99d6</id>
-        <link href="https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/"/>
-        <updated>2026-08-10T14:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr]]></summary>
-        <author>
-            <name>Jesutoni Aderibigbe</name>
         </author>
     </entry>
 </feed>

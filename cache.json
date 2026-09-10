@@ -130,26 +130,6 @@
           "wordCount": 11050,
           "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394978",
-          "author": "Preethi",
-          "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/animating-css-border-image/",
-          "publishedOn": "2026-08-10T15:58:47.000Z",
-          "wordCount": 3834,
-          "title": "Animating CSS border-image",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396506",
-          "author": "Geoff Graham",
-          "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-          "publishedOn": "2026-08-10T15:57:39.000Z",
-          "wordCount": 2698,
-          "title": "SmashingConf Freiburg 2026, September 7-10",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
         }
       ]
     },
@@ -158,6 +138,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
+          "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+          "publishedOn": "2026-09-09T10:00:00.000Z",
+          "wordCount": 4574,
+          "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -227,21 +222,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-          "author": "hello@smashingmagazine.com (Alexey Kopytin)",
-          "description": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
-          "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-          "publishedOn": "2026-08-11T10:00:00.000Z",
-          "wordCount": 4329,
-          "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
         }
       ]
     },
@@ -250,6 +230,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aa1b782434f42bd4da9b37c",
+          "author": "Eva J Patel",
+          "description": "Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math",
+          "link": "https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/",
+          "publishedOn": "2026-09-09T19:46:10.000Z",
+          "wordCount": 6154,
+          "title": "What a Machine Learning Model is and How to Make One",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0b0f8408-22bc-483a-9c7f-9a6db2c37640.png"
+        },
+        {
+          "id": "6aa1a7edf42d135b6e7c6de3",
+          "author": "Manish Shivanandhan",
+          "description": "Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/",
+          "publishedOn": "2026-09-09T18:39:41.000Z",
+          "wordCount": 4123,
+          "title": "How to Build a Deployment Checklist That Actually Prevents Production Incidents",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b2e654b3-dbd0-40af-a21b-c4b63cda4fcb.png"
+        },
+        {
+          "id": "6aa1a112cbd6145df593b93b",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo",
+          "link": "https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/",
+          "publishedOn": "2026-09-09T18:10:26.000Z",
+          "wordCount": 3945,
+          "title": "The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2b0e9823-e943-4665-bc01-4390cf5b6a01.png"
+        },
+        {
+          "id": "6aa1a0ef2158248eeaf392ca",
+          "author": "Eva J Patel",
+          "description": "Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr",
+          "link": "https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/",
+          "publishedOn": "2026-09-09T18:09:51.000Z",
+          "wordCount": 31037,
+          "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06bee29b-16d3-401a-82df-f2b85e655b32.png"
+        },
+        {
+          "id": "6aa16581cfb9039ff59e60ca",
+          "author": "Beau Carnes",
+          "description": "Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We",
+          "link": "https://www.freecodecamp.org/news/learn-python-interactively/",
+          "publishedOn": "2026-09-09T13:56:17.000Z",
+          "wordCount": 1161,
+          "title": "Learn Python Interactively",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/0397654c-b9a3-498d-871e-3d6c1e81416a.jpg"
+        },
         {
           "id": "6a9f3d3144b92ecc2d3aca7a",
           "author": "taimoor bamazai",
@@ -1139,46 +1169,6 @@
           "wordCount": 8122,
           "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/597b4887-5912-4a71-a0c2-ecbf8bdcfb4c.png"
-        },
-        {
-          "id": "6a7a662d92a5f4f663b525f9",
-          "author": "Rudrendu Paul",
-          "description": "Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com",
-          "link": "https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/",
-          "publishedOn": "2026-08-11T00:00:45.000Z",
-          "wordCount": 5329,
-          "title": "Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/37d63c81-8744-46ba-8dcd-da9371817913.png"
-        },
-        {
-          "id": "6a7a38d57c96966272403ab6",
-          "author": "George Field",
-          "description": "In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d",
-          "link": "https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/",
-          "publishedOn": "2026-08-10T20:47:17.000Z",
-          "wordCount": 7731,
-          "title": "How to Get Your Side Project Seen and Gain Paying Users",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/60fc8a1d-6fda-411c-a010-2f2b95e2918b.png"
-        },
-        {
-          "id": "6a7a37b45687127b2dce7c6e",
-          "author": "Ayobami Adejumo",
-          "description": "The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app",
-          "link": "https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/",
-          "publishedOn": "2026-08-10T20:42:28.000Z",
-          "wordCount": 14200,
-          "title": "AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ef79ce3-1581-47f8-b419-5fb8e7afe7d3.png"
-        },
-        {
-          "id": "6a79dcd1e93f9db759fd99d6",
-          "author": "Jesutoni Aderibigbe",
-          "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
-          "link": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
-          "publishedOn": "2026-08-10T14:14:41.000Z",
-          "wordCount": 4601,
-          "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/682cb489-c8fd-4530-9226-357edb4e8c19.png"
         }
       ]
     }
