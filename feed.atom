@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T01:57:17.355Z</updated>
+    <updated>2026-09-11T01:56:01.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Lovable Responsibly]]></title>
+        <id>6aa2d601395968ffa3528970</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/"/>
+        <updated>2026-09-10T16:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Codex Crash Course]]></title>
+        <id>6aa2c85bc40387b2bb1daded</id>
+        <link href="https://www.freecodecamp.org/news/openai-codex-crash-course/"/>
+        <updated>2026-09-10T15:10:19.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Linux Actually Boots: From Firmware to the Login Screen]]></title>
+        <id>6aa1ebfb3cc1af030bd4b974</id>
+        <link href="https://www.freecodecamp.org/news/how-linux-actually-boots-from-firmware-to-the-login-screen/"/>
+        <updated>2026-09-09T23:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Open a terminal on any systemd machine and run this: systemd-analyze On the laptop I'm writing this on, it says: Startup finished in 5.855s (firmware) + 8.469s (loader) + 3.106s (kernel) + 12.181s (u]]></summary>
+        <author>
+            <name>Chris Roy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What a Machine Learning Model is and How to Make One]]></title>
         <id>6aa1b782434f42bd4da9b37c</id>
@@ -1105,37 +1135,6 @@ What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing t
         <summary type="html"><![CDATA[PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i]]></summary>
         <author>
             <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
-        <id>https://css-tricks.com/?p=396255</id>
-        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
-        <updated>2026-08-12T13:43:56.000Z</updated>
-        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
-Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
-        <id>6a7b522a304c202420dfd496</id>
-        <link href="https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/"/>
-        <updated>2026-08-11T16:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect]]></title>
-        <id>6a7b52064ac8f18a2a936e46</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/"/>
-        <updated>2026-08-11T16:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
 </feed>
