@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T02:00:21.017Z</updated>
+    <updated>2026-09-13T01:54:40.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -1125,56 +1125,6 @@ Dark mode toggles: two states are enough originally handwritten and published wi
 What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite]]></title>
-        <id>6a7e4a380ee61c58fa48acb3</id>
-        <link href="https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/"/>
-        <updated>2026-08-13T22:50:32.000Z</updated>
-        <summary type="html"><![CDATA[I have seen legacy migrations considered successful because the old framework disappeared from the repository. Six months later, the team was still dealing with the same coupling, the same unclear bus]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Production-Grade Agents with Pydantic AI]]></title>
-        <id>6a7e49f74e7ef3bb34dc60ba</id>
-        <link href="https://www.freecodecamp.org/news/building-agents-with-pydantic-ai/"/>
-        <updated>2026-08-13T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Building AI agents with raw LLM SDKs works fine for prototypes until you need structured outputs, testable code, and production reliability. The gap shows up in a predictable way. Your notebook code w]]></summary>
-        <author>
-            <name>Jay Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI]]></title>
-        <id>6a7e08ac157d6ad1bb83d9cf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/"/>
-        <updated>2026-08-13T18:10:52.000Z</updated>
-        <summary type="html"><![CDATA[Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code]]></title>
-        <id>6a7e02796c61d1c629897f7c</id>
-        <link href="https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/"/>
-        <updated>2026-08-13T17:44:25.000Z</updated>
-        <summary type="html"><![CDATA[You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th]]></summary>
-        <author>
-            <name>Alex Oliinyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash]]></title>
-        <id>6a7e0113e19ef21c9188a0c1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/"/>
-        <updated>2026-08-13T17:38:27.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
         </author>
     </entry>
 </feed>
