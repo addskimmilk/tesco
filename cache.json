@@ -110,16 +110,6 @@
           "wordCount": 3443,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396557",
-          "author": "Daniel Schwarz",
-          "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-17/",
-          "publishedOn": "2026-08-14T14:01:51.000Z",
-          "wordCount": 3511,
-          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
         }
       ]
     },
@@ -1119,46 +1109,6 @@
           "wordCount": 5953,
           "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/84f1d4b5-5874-4325-965f-0a009e3b3290.png"
-        },
-        {
-          "id": "6a7f44fc58366ecdaf016624",
-          "author": "Eva J Patel",
-          "description": "Discord bots can look surprisingly complicated when you see them in action. A bot can respond to messages, tell stories, remember parts of conversations, and stay online around the clock. When I first",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/",
-          "publishedOn": "2026-08-14T16:40:28.000Z",
-          "wordCount": 8315,
-          "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6a444c51-d332-4915-aa1f-326b57b17472.png"
-        },
-        {
-          "id": "6a7f43902933540b66072ea4",
-          "author": "Nikhil Adithyan",
-          "description": "A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle",
-          "link": "https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/",
-          "publishedOn": "2026-08-14T16:34:24.000Z",
-          "wordCount": 10125,
-          "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0e9a966-883b-463b-b560-09f3b4c57880.png"
-        },
-        {
-          "id": "6a7f3cb20046634bbe645e53",
-          "author": "Shradha Puri",
-          "description": "I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was",
-          "link": "https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/",
-          "publishedOn": "2026-08-14T16:05:06.000Z",
-          "wordCount": 2567,
-          "title": "Why Your Wearable Needs Weeks of Data Before It Becomes Useful",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c734589e-3fd6-4e8c-996d-743aa5be276e.png"
-        },
-        {
-          "id": "6a7f3af6a3acdf7f3110d046",
-          "author": "Bhavin Sheth",
-          "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
-          "link": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
-          "publishedOn": "2026-08-14T15:57:42.000Z",
-          "wordCount": 3400,
-          "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c167a675-fcdd-4f28-9489-e42c3fe98d9d.png"
         }
       ]
     }

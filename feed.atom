@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-13T01:54:40.961Z</updated>
+    <updated>2026-09-14T02:12:10.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -1074,57 +1074,6 @@ Dark mode toggles: two states are enough originally handwritten and published wi
         <summary type="html"><![CDATA[You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.]]></summary>
         <author>
             <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python]]></title>
-        <id>6a7f44fc58366ecdaf016624</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/"/>
-        <updated>2026-08-14T16:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Discord bots can look surprisingly complicated when you see them in action. A bot can respond to messages, tell stories, remember parts of conversations, and stay online around the clock. When I first]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]]]></title>
-        <id>6a7f43902933540b66072ea4</id>
-        <link href="https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/"/>
-        <updated>2026-08-14T16:34:24.000Z</updated>
-        <summary type="html"><![CDATA[A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Wearable Needs Weeks of Data Before It Becomes Useful]]></title>
-        <id>6a7f3cb20046634bbe645e53</id>
-        <link href="https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/"/>
-        <updated>2026-08-14T16:05:06.000Z</updated>
-        <summary type="html"><![CDATA[I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript]]></title>
-        <id>6a7f3af6a3acdf7f3110d046</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/"/>
-        <updated>2026-08-14T15:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
-        <id>https://css-tricks.com/?p=396557</id>
-        <link href="https://css-tricks.com/whats-important-17/"/>
-        <updated>2026-08-14T14:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
-What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
