@@ -211,6 +211,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6aa9b46181fb07630380c2e8",
+          "author": "Chris Roy",
+          "description": "A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/",
+          "publishedOn": "2026-09-15T21:10:57.000Z",
+          "wordCount": 4105,
+          "title": "How to Write a Linux Kernel Module That Actually Builds",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f8a7aabd-8494-42d5-86a1-e1eb51c2d0a7.png"
+        },
+        {
+          "id": "6aa9b393e892e731e337e0e3",
+          "author": "Manish Shivanandhan",
+          "description": "Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read",
+          "link": "https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/",
+          "publishedOn": "2026-09-15T21:07:31.000Z",
+          "wordCount": 2514,
+          "title": "The 7 Essential Parts of Your Online Presence",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1858aeea-9446-48d3-abeb-225f14aae371.png"
+        },
+        {
+          "id": "6aa9b28d96b8eb1b8b1475f0",
+          "author": "Alex Tray",
+          "description": "A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down \"just f",
+          "link": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
+          "publishedOn": "2026-09-15T21:03:09.000Z",
+          "wordCount": 4273,
+          "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4a1cf15f-7d3a-48d2-8fdd-b53ceb1dd0e7.png"
+        },
+        {
+          "id": "6aa9b21e85e19ac0f866ed24",
+          "author": "Daniel Kehoe",
+          "description": "macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with",
+          "link": "https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/",
+          "publishedOn": "2026-09-15T21:01:18.000Z",
+          "wordCount": 2693,
+          "title": "What's New in macOS 27 for Developers?",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0448ce08-813c-4739-99d7-88fad680006a.png"
+        },
+        {
+          "id": "6aa96af3f2afbe5bd755abd1",
+          "author": "Karan Pratap Singh",
+          "description": "Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows",
+          "link": "https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/",
+          "publishedOn": "2026-09-15T15:57:39.000Z",
+          "wordCount": 3211,
+          "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea32b5b4-ae6c-4b75-87bb-696fbc15b047.png"
+        },
+        {
           "id": "6aa873c5c1f02b411d54db2f",
           "author": "Umair Mirza",
           "description": "Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia",
@@ -1139,16 +1189,6 @@
           "wordCount": 3693,
           "title": "How to Scale LLM Inference for AI Agents Using vLLM",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21960832-2f24-4f74-b132-439c174d9cc8.png"
-        },
-        {
-          "id": "6a831663dcf9ac784c9eae7d",
-          "author": "Kayode Adeniyi",
-          "description": "You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
-          "publishedOn": "2026-08-17T14:10:43.000Z",
-          "wordCount": 5953,
-          "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/84f1d4b5-5874-4325-965f-0a009e3b3290.png"
         }
       ]
     }
