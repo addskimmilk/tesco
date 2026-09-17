@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T02:12:01.613Z</updated>
+    <updated>2026-09-17T02:16:04.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Deploy, Secure, and Automate Full-Stack Web Apps]]></title>
+        <id>6aaab59285cf18b4c5072002</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/"/>
+        <updated>2026-09-16T15:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Treating CSS Container Queries Like Traditional Media Queries]]></title>
+        <id>https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/</id>
+        <link href="https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"/>
+        <updated>2026-09-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write a Linux Kernel Module That Actually Builds]]></title>
         <id>6aa9b46181fb07630380c2e8</id>
@@ -1123,37 +1143,6 @@ WordPress.com Student Plan originally handwritten and published with love on CSS
         <summary type="html"><![CDATA[Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from]]></summary>
         <author>
             <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Subqueries in SQL]]></title>
-        <id>6a837db5b64d34f31873c306</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/"/>
-        <updated>2026-08-17T21:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries]]></summary>
-        <author>
-            <name>Abdullah Rufai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scale LLM Inference for AI Agents Using vLLM]]></title>
-        <id>6a8373e0eb96152ac540effb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/"/>
-        <updated>2026-08-17T20:49:36.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and]]></summary>
-        <author>
-            <name>Darsh Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
-        <id>https://css-tricks.com/?p=396545</id>
-        <link href="https://css-tricks.com/dark-mode-toggles-two-states-are-enough/"/>
-        <updated>2026-08-17T14:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.
-Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

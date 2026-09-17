@@ -100,16 +100,6 @@
           "wordCount": 2828,
           "title": "WordPress.com Student Plan",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396545",
-          "author": "Geoff Graham",
-          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-          "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3443,
-          "title": "Dark mode toggles: two states are enough",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
         }
       ]
     },
@@ -118,6 +108,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+          "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "publishedOn": "2026-09-16T13:00:00.000Z",
+          "wordCount": 5025,
+          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
           "author": "hello@smashingmagazine.com (Alex Williams)",
@@ -210,6 +215,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aaab59285cf18b4c5072002",
+          "author": "Beau Carnes",
+          "description": "Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/",
+          "publishedOn": "2026-09-16T15:28:18.000Z",
+          "wordCount": 1224,
+          "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/4fe6aa9d-d362-495b-9100-417e8f9e0323.jpg"
+        },
         {
           "id": "6aa9b46181fb07630380c2e8",
           "author": "Chris Roy",
@@ -1169,26 +1184,6 @@
           "wordCount": 6936,
           "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/341d236f-85ed-43be-871d-bf4b3647fa22.png"
-        },
-        {
-          "id": "6a837db5b64d34f31873c306",
-          "author": "Abdullah Rufai",
-          "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
-          "publishedOn": "2026-08-17T21:31:33.000Z",
-          "wordCount": 4710,
-          "title": "How to Work with Subqueries in SQL",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e9107adb-f183-460c-8978-6320ff1eadfe.png"
-        },
-        {
-          "id": "6a8373e0eb96152ac540effb",
-          "author": "Darsh Shah",
-          "description": "In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and",
-          "link": "https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/",
-          "publishedOn": "2026-08-17T20:49:36.000Z",
-          "wordCount": 3693,
-          "title": "How to Scale LLM Inference for AI Agents Using vLLM",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/21960832-2f24-4f74-b132-439c174d9cc8.png"
         }
       ]
     }
