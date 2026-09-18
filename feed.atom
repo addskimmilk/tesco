@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T02:16:04.504Z</updated>
+    <updated>2026-09-18T02:02:07.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy]]></title>
+        <id>6aac2aabd02a5d838577063a</id>
+        <link href="https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/"/>
+        <updated>2026-09-17T18:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Geoffrey Hinton is known as the "the Godfather of AI". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn How to Deploy, Secure, and Automate Full-Stack Web Apps]]></title>
         <id>6aaab59285cf18b4c5072002</id>
@@ -1092,57 +1102,6 @@ CSS Navigation Matching, Early Days originally handwritten and published with lo
         <summary type="html"><![CDATA[High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
-        <id>https://css-tricks.com/?p=396623</id>
-        <link href="https://css-tricks.com/wordpress-student-plan/"/>
-        <updated>2026-08-19T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
-WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas]]></title>
-        <id>6a84d268fa401f6597cd200e</id>
-        <link href="https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/"/>
-        <updated>2026-08-18T21:45:12.000Z</updated>
-        <summary type="html"><![CDATA[React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc]]></summary>
-        <author>
-            <name>Vineeth Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap]]></title>
-        <id>6a848de33638e739c70ebce3</id>
-        <link href="https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/"/>
-        <updated>2026-08-18T16:52:51.000Z</updated>
-        <summary type="html"><![CDATA[I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build More Accessible Websites with WCAG 2.2]]></title>
-        <id>6a84895dd197512208831afc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/"/>
-        <updated>2026-08-18T16:33:33.000Z</updated>
-        <summary type="html"><![CDATA[A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might]]></summary>
-        <author>
-            <name>Aiyedogbon Abraham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]]]></title>
-        <id>6a8482d8953b2a189a16bd2c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/"/>
-        <updated>2026-08-18T16:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
 </feed>

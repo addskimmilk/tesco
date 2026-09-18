@@ -90,16 +90,6 @@
           "wordCount": 3540,
           "title": "CSS Navigation Matching, Early Days",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396623",
-          "author": "Geoff Graham",
-          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/wordpress-student-plan/",
-          "publishedOn": "2026-08-19T08:50:00.000Z",
-          "wordCount": 2828,
-          "title": "WordPress.com Student Plan",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
         }
       ]
     },
@@ -215,6 +205,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aac2aabd02a5d838577063a",
+          "author": "Beau Carnes",
+          "description": "Geoffrey Hinton is known as the \"the Godfather of AI\". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak",
+          "link": "https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/",
+          "publishedOn": "2026-09-17T18:00:11.000Z",
+          "wordCount": 1179,
+          "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/004baebc-30c8-45fb-8565-45162d46ef13.jpg"
+        },
         {
           "id": "6aaab59285cf18b4c5072002",
           "author": "Beau Carnes",
@@ -1144,46 +1144,6 @@
           "wordCount": 1154,
           "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e79ad075-fa06-4d0e-bc4a-ee1a8ecee9b1.jpg"
-        },
-        {
-          "id": "6a84d268fa401f6597cd200e",
-          "author": "Vineeth Pawar",
-          "description": "React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc",
-          "link": "https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/",
-          "publishedOn": "2026-08-18T21:45:12.000Z",
-          "wordCount": 7312,
-          "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c3ffaae8-51d5-4add-9a9e-e49443e49746.png"
-        },
-        {
-          "id": "6a848de33638e739c70ebce3",
-          "author": "Md. Fahim Bin Amin",
-          "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
-          "link": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
-          "publishedOn": "2026-08-18T16:52:51.000Z",
-          "wordCount": 2624,
-          "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58b79fa2-e0a0-4172-b07f-e3446413eca8.png"
-        },
-        {
-          "id": "6a84895dd197512208831afc",
-          "author": "Aiyedogbon Abraham",
-          "description": "A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might",
-          "link": "https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/",
-          "publishedOn": "2026-08-18T16:33:33.000Z",
-          "wordCount": 6528,
-          "title": "How to Build More Accessible Websites with WCAG 2.2",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5cb22632-e793-40cc-9ded-4b813430e708.png"
-        },
-        {
-          "id": "6a8482d8953b2a189a16bd2c",
-          "author": "Atuoha Anthony",
-          "description": "Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/",
-          "publishedOn": "2026-08-18T16:05:44.000Z",
-          "wordCount": 6936,
-          "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/341d236f-85ed-43be-871d-bf4b3647fa22.png"
         }
       ]
     }
