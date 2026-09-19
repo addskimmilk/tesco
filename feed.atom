@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T02:02:07.952Z</updated>
+    <updated>2026-09-19T02:06:22.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
+        <id>6aadae08b3c208add9878388</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/"/>
+        <updated>2026-09-18T21:32:56.000Z</updated>
+        <summary type="html"><![CDATA[A radiologist can mark a tumor on a CT scan by drawing a straight line across it. Creating a complete 3D segmentation requires outlining the tumor across the slices where it appears, which is more tim]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Coding Assistants Can Help You Debug Without Writing the Code for You]]></title>
+        <id>6aadadc0f205881df958e884</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/"/>
+        <updated>2026-09-18T21:31:44.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistants have become really good at fixing code. Paste an error into an AI tool and, within seconds, you'll get a corrected implementation. That's useful when you simply want to get someth]]></summary>
+        <author>
+            <name>GAYATHRI BOLINENI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent Poisoned GitHub Actions Dependencies]]></title>
+        <id>6aad60c103851fe98f2df4a2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/"/>
+        <updated>2026-09-18T16:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to]]></summary>
+        <author>
+            <name>ILYAS RUFAI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript]]></title>
+        <id>6aad5cf52b32e1bee69c90a8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/"/>
+        <updated>2026-09-18T15:47:01.000Z</updated>
+        <summary type="html"><![CDATA[High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image]]></summary>
+        <author>
+            <name>Bansidhar Kadiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite]]></title>
+        <id>6aac7747d406d7c207351312</id>
+        <link href="https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/"/>
+        <updated>2026-09-17T23:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy]]></title>
         <id>6aac2aabd02a5d838577063a</id>
@@ -1051,57 +1101,6 @@ Resolved: CSS Class Prefix Selector originally handwritten and published with lo
         <summary type="html"><![CDATA[Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer]]></title>
-        <id>6a870880307f2374f57c4a18</id>
-        <link href="https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer/"/>
-        <updated>2026-08-20T14:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Building a basic AI demo with a single completion prompt and simple RAG pipeline is easy, but taking agentic systems into production requires robust system design, reliability engineering, and failure]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
-        <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
-        <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
-        <updated>2026-08-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Johan Grobler)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Data Structures and Algorithms Visually]]></title>
-        <id>6a86dfe3a8ecebd3a44ff2f0</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-visually/"/>
-        <updated>2026-08-20T11:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Learning Data Structures and Algorithms (DSA) often feels like facing an challenging wall of complex jargon, syntax, and heavy mathematics. But don't worry because we just posted a course on the freeC]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
-        <id>https://css-tricks.com/?p=396428</id>
-        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
-        <updated>2026-08-19T14:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
-CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Reinforcement Learning Framework from Scratch in Pure C]]></title>
-        <id>6a85bc8787783a8685665353</id>
-        <link href="https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/"/>
-        <updated>2026-08-19T14:24:07.000Z</updated>
-        <summary type="html"><![CDATA[High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
