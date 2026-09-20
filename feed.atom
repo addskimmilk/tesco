@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-19T02:06:22.602Z</updated>
+    <updated>2026-09-20T02:12:20.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow]]></title>
+        <id>6aaec6a4bd97d368f64a3819</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/"/>
+        <updated>2026-09-19T17:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has]]></summary>
+        <author>
+            <name>RONI DAS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph]]></title>
+        <id>6aaec60b559dfa1d9e4f1ddc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/"/>
+        <updated>2026-09-19T17:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native]]></title>
+        <id>6aaec3412b999a8f7cf63f8f</id>
+        <link href="https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/"/>
+        <updated>2026-09-19T17:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th]]></summary>
+        <author>
+            <name>Farouq Seriki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Turn a RECIST Line into a 3D Tumor Segmentation Mask]]></title>
         <id>6aadae08b3c208add9878388</id>
@@ -1071,36 +1101,6 @@ WordPress PHP-Only Block Registration originally handwritten and published with 
 Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]]]></title>
-        <id>6a8743695756ffe127b1cd35</id>
-        <link href="https://www.freecodecamp.org/news/ai-agent-engineers-guide-60-patterns-for-building-autonomous-systems-book/"/>
-        <updated>2026-08-20T18:11:53.000Z</updated>
-        <summary type="html"><![CDATA[This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]]]></title>
-        <id>6a873f054742a7cecc0617f4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/"/>
-        <updated>2026-08-20T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a]]></summary>
-        <author>
-            <name>RONI DAS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Risks Lurking in Your Cloud Infrastructure]]></title>
-        <id>6a872fd36fe3503416ed20d8</id>
-        <link href="https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/"/>
-        <updated>2026-08-20T16:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
