@@ -176,6 +176,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ab19a268fed0cf1f0fe1645",
+          "author": "brooklyn",
+          "description": "I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
+          "publishedOn": "2026-09-21T20:57:10.000Z",
+          "wordCount": 5235,
+          "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1691ded5-fe4e-405e-aa70-19cd95a700da.png"
+        },
+        {
+          "id": "6ab11bd3c0a4b6fb82bc1891",
+          "author": "Caleb Mintoumba",
+          "description": "The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T",
+          "link": "https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/",
+          "publishedOn": "2026-09-21T11:58:11.000Z",
+          "wordCount": 3716,
+          "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a42885a-9cac-4fbc-8fac-affbafd7785c.png"
+        },
+        {
           "id": "6aaec6a4bd97d368f64a3819",
           "author": "RONI DAS",
           "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T02:12:11.241Z</updated>
+    <updated>2026-09-22T02:17:16.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It]]></title>
+        <id>6ab19a268fed0cf1f0fe1645</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/"/>
+        <updated>2026-09-21T20:57:10.000Z</updated>
+        <summary type="html"><![CDATA[I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information]]></summary>
+        <author>
+            <name>brooklyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)]]></title>
+        <id>6ab11bd3c0a4b6fb82bc1891</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/"/>
+        <updated>2026-09-21T11:58:11.000Z</updated>
+        <summary type="html"><![CDATA[The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T]]></summary>
+        <author>
+            <name>Caleb Mintoumba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow]]></title>
         <id>6aaec6a4bd97d368f64a3819</id>
