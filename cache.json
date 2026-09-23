@@ -60,16 +60,6 @@
           "wordCount": 3049,
           "title": "MicroLighter: Syntax Highlighter",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395401",
-          "author": "Fränk Klein",
-          "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/wordpress-php-block-registration/",
-          "publishedOn": "2026-08-24T13:54:02.000Z",
-          "wordCount": 6762,
-          "title": "WordPress PHP-Only Block Registration",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
         }
       ]
     },
@@ -1054,16 +1044,6 @@
           "wordCount": 3987,
           "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/61896a64-69bb-46cb-87dd-0076c4aa1b50.png"
-        },
-        {
-          "id": "6a8c4f18dbeb4eb3a4b2ed0d",
-          "author": "Chinedu Otutu",
-          "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
-          "link": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
-          "publishedOn": "2026-08-24T14:03:04.000Z",
-          "wordCount": 4528,
-          "title": "How to Build Type-Safe APIs with Hono and Zod",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ce251811-43ad-4e2f-9761-83b6240f718e.jpg"
         }
       ]
     }
