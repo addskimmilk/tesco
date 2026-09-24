@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-23T02:17:28.713Z</updated>
+    <updated>2026-09-24T02:04:09.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window]]></title>
+        <id>6ab43e2cfffa4387fa43a9db</id>
+        <link href="https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/"/>
+        <updated>2026-09-23T21:01:32.000Z</updated>
+        <summary type="html"><![CDATA[When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It]]></title>
         <id>6ab19a268fed0cf1f0fe1645</id>
@@ -949,56 +959,6 @@ animation-trigger originally handwritten and published with love on CSS-Tricks. 
 MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Website Should Never Stop Changing]]></title>
-        <id>https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/</id>
-        <link href="https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"/>
-        <updated>2026-08-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Pierre Burgy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens to a Medical Image Before and After a Model Sees It]]></title>
-        <id>6a8cac4b80ffa6e1b9da795b</id>
-        <link href="https://www.freecodecamp.org/news/what-happens-to-a-medical-image-before-and-after-a-model-sees-it/"/>
-        <updated>2026-08-24T20:40:43.000Z</updated>
-        <summary type="html"><![CDATA[Medical imaging papers are full of familiar-looking terms: normalization, labels, validation, annotation, and preprocessing. If you come from general machine learning, you may think you already know w]]></summary>
-        <author>
-            <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Referral-Aware Split Payment Flows in Django]]></title>
-        <id>6a8c8383ca0d5a1002b19fa3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/"/>
-        <updated>2026-08-24T17:46:43.000Z</updated>
-        <summary type="html"><![CDATA[When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart]]></title>
-        <id>6a8c831fe5597860d219d150</id>
-        <link href="https://www.freecodecamp.org/news/mobile-background-execution-ios-background-modes-android-workmanager-and-background-services-in-dart/"/>
-        <updated>2026-08-24T17:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Every mobile developer eventually hits the same wall: the app works perfectly when the user is looking at it. But the moment they press the home button, everything stops. A sync that should have compl]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Conversational AI: A Practical Guide for QA Engineers]]></title>
-        <id>6a8c5708cc6859117f26da4f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/"/>
-        <updated>2026-08-24T14:36:56.000Z</updated>
-        <summary type="html"><![CDATA[When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.]]></summary>
-        <author>
-            <name>GAYATHRI BOLINENI</name>
         </author>
     </entry>
 </feed>

@@ -142,21 +142,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-          "author": "hello@smashingmagazine.com (Pierre Burgy)",
-          "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
-          "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-          "publishedOn": "2026-08-25T08:00:00.000Z",
-          "wordCount": 4229,
-          "title": "Why Your Website Should Never Stop Changing",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
         }
       ]
     },
@@ -165,6 +150,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ab43e2cfffa4387fa43a9db",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
+          "link": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
+          "publishedOn": "2026-09-23T21:01:32.000Z",
+          "wordCount": 3920,
+          "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eedcb9fa-4e77-430d-afea-9b2b76565dbf.png"
+        },
         {
           "id": "6ab19a268fed0cf1f0fe1645",
           "author": "brooklyn",
@@ -1004,46 +999,6 @@
           "wordCount": 33986,
           "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9817dc0-f0dc-4ccf-a8f7-2e7b47783360.png"
-        },
-        {
-          "id": "6a8cac4b80ffa6e1b9da795b",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "Medical imaging papers are full of familiar-looking terms: normalization, labels, validation, annotation, and preprocessing. If you come from general machine learning, you may think you already know w",
-          "link": "https://www.freecodecamp.org/news/what-happens-to-a-medical-image-before-and-after-a-model-sees-it/",
-          "publishedOn": "2026-08-24T20:40:43.000Z",
-          "wordCount": 4114,
-          "title": "What Happens to a Medical Image Before and After a Model Sees It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9014bf41-16ea-4661-926a-4444a53484f8.png"
-        },
-        {
-          "id": "6a8c8383ca0d5a1002b19fa3",
-          "author": "Chidozie Managwu",
-          "description": "When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re",
-          "link": "https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/",
-          "publishedOn": "2026-08-24T17:46:43.000Z",
-          "wordCount": 2446,
-          "title": "How to Build Referral-Aware Split Payment Flows in Django",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e8f9e07-789d-417b-96af-3a41b327d047.png"
-        },
-        {
-          "id": "6a8c831fe5597860d219d150",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Every mobile developer eventually hits the same wall: the app works perfectly when the user is looking at it. But the moment they press the home button, everything stops. A sync that should have compl",
-          "link": "https://www.freecodecamp.org/news/mobile-background-execution-ios-background-modes-android-workmanager-and-background-services-in-dart/",
-          "publishedOn": "2026-08-24T17:45:03.000Z",
-          "wordCount": 5155,
-          "title": "Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2e9b068d-5fec-4228-8a0f-1f34bcd1e5f1.png"
-        },
-        {
-          "id": "6a8c5708cc6859117f26da4f",
-          "author": "GAYATHRI BOLINENI",
-          "description": "When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.",
-          "link": "https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/",
-          "publishedOn": "2026-08-24T14:36:56.000Z",
-          "wordCount": 3987,
-          "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/61896a64-69bb-46cb-87dd-0076c4aa1b50.png"
         }
       ]
     }
