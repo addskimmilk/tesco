@@ -50,16 +50,6 @@
           "wordCount": 4417,
           "title": "animation-trigger",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396665",
-          "author": "Geoff Graham",
-          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-          "publishedOn": "2026-08-25T14:10:34.000Z",
-          "wordCount": 3049,
-          "title": "MicroLighter: Syntax Highlighter",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
         }
       ]
     },
@@ -127,21 +117,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-          "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
-          "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
-          "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-          "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5907,
-          "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
         }
       ]
     },
@@ -150,6 +125,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ab571b05974dad13c5d246d",
+          "author": "Beau Carnes",
+          "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
+          "link": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
+          "publishedOn": "2026-09-24T18:53:36.000Z",
+          "wordCount": 1300,
+          "title": "Inside SeaHack: 24 Hours to Build an AI Startup",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/db9790c4-39b4-457d-9748-213dbc1c7de8.jpg"
+        },
+        {
+          "id": "6ab54b145ca9fc6a257ae996",
+          "author": "Hugo Teijiz",
+          "description": "Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat",
+          "link": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
+          "publishedOn": "2026-09-24T16:08:52.000Z",
+          "wordCount": 4189,
+          "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1f1ae0c4-da67-46b6-ae60-c22aa29fc517.png"
+        },
+        {
+          "id": "6ab48545d92eea5d2a3fdd77",
+          "author": "Beau Carnes",
+          "description": "Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for",
+          "link": "https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/",
+          "publishedOn": "2026-09-24T02:04:53.000Z",
+          "wordCount": 1208,
+          "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f80f393-8745-47c8-b5ad-03cceb530a1f.jpg"
+        },
+        {
+          "id": "6ab4839814d7392aab4c52af",
+          "author": "Beau Carnes",
+          "description": "Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch",
+          "link": "https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/",
+          "publishedOn": "2026-09-24T01:57:44.000Z",
+          "wordCount": 1137,
+          "title": "Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/a839fb34-5683-45bf-a3ea-138ac12b79ec.jpg"
+        },
         {
           "id": "6ab43e2cfffa4387fa43a9db",
           "author": "Oluwaseyi Fatunmole",
@@ -979,26 +994,6 @@
           "wordCount": 2987,
           "title": "How to Stop Letting AI Agents Fake Their Own Tests",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/183633e3-b5fb-44cf-a0cb-32fd566ebc33.png"
-        },
-        {
-          "id": "6a8ddd55902e76128f1985bb",
-          "author": "Eva J Patel",
-          "description": "Imagine this: you're working late, your code finally works, and you're ready to push it to GitHub. You run: git add . git commit -m \"Fix API integration\" git push A few minutes later, you notice some",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/",
-          "publishedOn": "2026-08-25T18:22:13.000Z",
-          "wordCount": 4682,
-          "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0903575c-822b-481b-af12-07b864bebc67.png"
-        },
-        {
-          "id": "6a8db9c20b9b2c87b7c4049f",
-          "author": "Daniel García Solla",
-          "description": "Today, data has become a particularly valuable resource. It allows companies to compete in the market and drive innovation, improving the quality of products and services offered. Data processing lets",
-          "link": "https://www.freecodecamp.org/news/understanding-data-management-with-a-real-world-use-case-book/",
-          "publishedOn": "2026-08-25T15:50:26.000Z",
-          "wordCount": 33986,
-          "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9817dc0-f0dc-4ccf-a8f7-2e7b47783360.png"
         }
       ]
     }
