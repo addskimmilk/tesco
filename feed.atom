@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-25T02:21:18.862Z</updated>
+    <updated>2026-09-26T02:25:31.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -877,87 +877,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
 Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark]]></title>
-        <id>6a9042325a2ad19bd8e4a514</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/"/>
-        <updated>2026-08-27T13:57:06.000Z</updated>
-        <summary type="html"><![CDATA[As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Building AI Slop: Build High-End Web Apps with AI]]></title>
-        <id>6a90413617d143757c5d8455</id>
-        <link href="https://www.freecodecamp.org/news/stop-building-ai-slop-build-high-end-web-apps-with-ai/"/>
-        <updated>2026-08-27T13:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Many developers use AI coding tools to generate generic, cookie-cutter interfaces that feel uninspired and incomplete. In our latest full course on the freeCodeCamp.org YouTube channel, instructor Eri]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Paper That Created Modern AI: The Story Behind the Transformer]]></title>
-        <id>6a903fa674d5ca289496b60d</id>
-        <link href="https://www.freecodecamp.org/news/the-paper-that-created-modern-ai-the-story-behind-the-transformer/"/>
-        <updated>2026-08-27T13:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Every time you interact with a modern AI model you are relying on an architecture born from a single 2017 research paper titled "Attention Is All You Need." Our latest video on the freeCodeCamp.org Yo]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Tell If Your Search Console Impressions Came From a Human or a Machine]]></title>
-        <id>6a8f84afb0c3d8eedbfb8fec</id>
-        <link href="https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/"/>
-        <updated>2026-08-27T00:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c]]></summary>
-        <author>
-            <name>Chudi Nnorukam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets]]></title>
-        <id>6a8f567e6f14ba82479b5901</id>
-        <link href="https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/"/>
-        <updated>2026-08-26T21:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive]]></summary>
-        <author>
-            <name>Nikhil Adithyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Flashcard Study App with Next.js and MongoDB]]></title>
-        <id>6a8f26c8d7f59479db2c21fd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/"/>
-        <updated>2026-08-26T17:47:52.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t]]></summary>
-        <author>
-            <name>David Aniebo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Letting AI Agents Fake Their Own Tests]]></title>
-        <id>6a8f26a0d7f59479db2c2023</id>
-        <link href="https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/"/>
-        <updated>2026-08-26T17:47:12.000Z</updated>
-        <summary type="html"><![CDATA[I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug]]></summary>
-        <author>
-            <name>Daniel Nwaneri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[animation-trigger]]></title>
-        <id>https://css-tricks.com/?page_id=394713</id>
-        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
-        <updated>2026-08-26T15:38:41.000Z</updated>
-        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
-animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
         </author>
     </entry>
 </feed>
