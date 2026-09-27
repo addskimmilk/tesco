@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-26T02:25:31.548Z</updated>
+    <updated>2026-09-27T02:21:45.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -826,57 +826,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
         <summary type="html"><![CDATA[Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app]]></summary>
         <author>
             <name>jabo Landry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved]]></title>
-        <id>6a90aca9476c6bda8e12cfef</id>
-        <link href="https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/"/>
-        <updated>2026-08-27T21:31:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab]]></summary>
-        <author>
-            <name>Botao Deng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.]]></title>
-        <id>6a9088cbfe512a7250d45587</id>
-        <link href="https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/"/>
-        <updated>2026-08-27T18:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c]]></summary>
-        <author>
-            <name>Javeed Shaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Reliable Structured Data Out of an LLM]]></title>
-        <id>6a908843ac9ce68300a83a4c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/"/>
-        <updated>2026-08-27T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu]]></summary>
-        <author>
-            <name>Vineeth Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained]]></title>
-        <id>6a9058fc56e6415ec14cba57</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/"/>
-        <updated>2026-08-27T15:34:20.000Z</updated>
-        <summary type="html"><![CDATA[The first time I was asked "what's your test coverage?" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
-        <id>https://css-tricks.com/?p=395259</id>
-        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
-        <updated>2026-08-27T14:41:06.000Z</updated>
-        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
-Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

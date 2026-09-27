@@ -30,16 +30,6 @@
           "wordCount": 3657,
           "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395259",
-          "author": "Daniel Schwarz",
-          "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-          "publishedOn": "2026-08-27T14:41:06.000Z",
-          "wordCount": 4067,
-          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
         }
       ]
     },
@@ -874,46 +864,6 @@
           "wordCount": 5415,
           "title": "How to Automate Your Tests in Express Using Vitest",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/098eaca4-3334-4a81-b6f6-ad0b167eee44.png"
-        },
-        {
-          "id": "6a90aca9476c6bda8e12cfef",
-          "author": "Botao Deng",
-          "description": "In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab",
-          "link": "https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/",
-          "publishedOn": "2026-08-27T21:31:21.000Z",
-          "wordCount": 4479,
-          "title": "From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6a886cdef885c594c22bbde2/ee6f715e-b2cd-4c4a-aedf-6f4089ef7a8f.png"
-        },
-        {
-          "id": "6a9088cbfe512a7250d45587",
-          "author": "Javeed Shaik",
-          "description": "Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c",
-          "link": "https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/",
-          "publishedOn": "2026-08-27T18:58:19.000Z",
-          "wordCount": 2661,
-          "title": "I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0d81b7df-9dbd-4288-80c5-3ea40551fe4a.png"
-        },
-        {
-          "id": "6a908843ac9ce68300a83a4c",
-          "author": "Vineeth Pawar",
-          "description": "Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu",
-          "link": "https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/",
-          "publishedOn": "2026-08-27T18:56:03.000Z",
-          "wordCount": 4886,
-          "title": "How to Get Reliable Structured Data Out of an LLM",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/be161971-7a90-496c-899a-526492046265.png"
-        },
-        {
-          "id": "6a9058fc56e6415ec14cba57",
-          "author": "Gidudu Nicholas",
-          "description": "The first time I was asked \"what's your test coverage?\" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the",
-          "link": "https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/",
-          "publishedOn": "2026-08-27T15:34:20.000Z",
-          "wordCount": 6362,
-          "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/69cb8895-a630-439b-8871-2b16feeebe25.png"
         }
       ]
     }
