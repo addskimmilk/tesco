@@ -106,6 +106,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ab8cc5b58666cf6e3b71086",
+          "author": "Casmir Onyekani",
+          "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
+          "link": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
+          "publishedOn": "2026-09-27T07:57:15.000Z",
+          "wordCount": 5213,
+          "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d611049d-c9ed-4083-b3bc-f203ba7b42ff.png"
+        },
+        {
           "id": "6ab571b05974dad13c5d246d",
           "author": "Beau Carnes",
           "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
@@ -854,16 +864,6 @@
           "wordCount": 4493,
           "title": "How to Build API Documentation From Scratch [A Roadmap for Technical Writers]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7f6c4ca5-30ca-42fd-a473-d6262774e149.png"
-        },
-        {
-          "id": "6a91aa2c85465e213741c4de",
-          "author": "jabo Landry",
-          "description": "Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/",
-          "publishedOn": "2026-08-28T15:33:00.000Z",
-          "wordCount": 5415,
-          "title": "How to Automate Your Tests in Express Using Vitest",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/098eaca4-3334-4a81-b6f6-ad0b167eee44.png"
         }
       ]
     }
