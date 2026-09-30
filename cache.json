@@ -20,16 +20,6 @@
           "wordCount": 6435,
           "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396738",
-          "author": "Daniel Schwarz",
-          "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-18/",
-          "publishedOn": "2026-08-31T14:08:55.000Z",
-          "wordCount": 3657,
-          "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
         }
       ]
     },
@@ -82,21 +72,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-          "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4755,
-          "title": "The Many Faces Of September (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
         }
       ]
     },
@@ -105,6 +80,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6abbcab8bf5e373dfc4ceff1",
+          "author": "Beau Carnes",
+          "description": "We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using",
+          "link": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
+          "publishedOn": "2026-09-29T14:27:04.000Z",
+          "wordCount": 1359,
+          "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6fcf5557-9b44-40d4-93ec-bad5151625be.png"
+        },
+        {
+          "id": "6abbc1526882db86928eaf11",
+          "author": "Chidozie Managwu",
+          "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
+          "publishedOn": "2026-09-29T13:46:58.000Z",
+          "wordCount": 3312,
+          "title": "How to Build a Reliable AI Assistant with the Claude API",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c4c96758-54f5-4b88-9f00-639ecff705f9.png"
+        },
+        {
+          "id": "6abbbdbe89f93b150a3b95f4",
+          "author": "Alex Oliinyk",
+          "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
+          "link": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
+          "publishedOn": "2026-09-29T13:31:42.000Z",
+          "wordCount": 4487,
+          "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32fd0d68-ea3d-40c2-8653-449de3d514f1.png"
+        },
+        {
+          "id": "6abb5c6f814bf2c63668f9fc",
+          "author": "Hackita",
+          "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
+          "link": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
+          "publishedOn": "2026-09-29T06:36:31.000Z",
+          "wordCount": 3034,
+          "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e1f15e5-de00-4533-8349-70620154f7ef.png"
+        },
+        {
+          "id": "6abb5959f5b6d1ca628c8ee5",
+          "author": "Sharvin Shah",
+          "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
+          "publishedOn": "2026-09-29T06:23:21.000Z",
+          "wordCount": 20170,
+          "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1735b1-52f1-42d9-b3f9-afb097277200.png"
+        },
+        {
+          "id": "6abb5903c40275b1ceb5b613",
+          "author": "Kayode Adeniyi",
+          "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
+          "link": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
+          "publishedOn": "2026-09-29T06:21:55.000Z",
+          "wordCount": 9106,
+          "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4208eef0-1dac-4b7d-89d7-28622a4d7825.png"
+        },
+        {
+          "id": "6abb57d97eb0e171af50644b",
+          "author": "Hugo Teijiz",
+          "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
+          "link": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
+          "publishedOn": "2026-09-29T06:16:57.000Z",
+          "wordCount": 4120,
+          "title": "Why Software Automation Needs a Layer Between Intent and Execution",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eb21a403-1e0d-46a4-a8b5-2dbb98095cdd.png"
+        },
         {
           "id": "6ab8cc5b58666cf6e3b71086",
           "author": "Casmir Onyekani",
@@ -834,36 +879,6 @@
           "wordCount": 4131,
           "title": "What Every Dev Should Know About Tracking Product Data",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0ba14c8d-47f9-466c-a300-f9838d8ab712.png"
-        },
-        {
-          "id": "6a958dafb6e371335a86ea8c",
-          "author": "Sarvesh Talele",
-          "description": "Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b",
-          "link": "https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/",
-          "publishedOn": "2026-08-31T14:20:31.000Z",
-          "wordCount": 13179,
-          "title": "Learn the AI SDLC – The Complete Guide to Building Agent Skills",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eeed67e6-32c9-45df-a2f4-9894f2e49f00.png"
-        },
-        {
-          "id": "6a958d8401db3f18f07d0b54",
-          "author": "Hugo Teijiz",
-          "description": "The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa",
-          "link": "https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/",
-          "publishedOn": "2026-08-31T14:19:48.000Z",
-          "wordCount": 4680,
-          "title": "How to Build Characterization Tests Before Refactoring Legacy Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/50ec1fe6-8e1f-4c42-a8ad-fd52ea0d089d.png"
-        },
-        {
-          "id": "6a9587c15c82cb888f556170",
-          "author": "Gloria Tejuosho",
-          "description": "As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e",
-          "link": "https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/",
-          "publishedOn": "2026-08-31T13:55:13.000Z",
-          "wordCount": 4493,
-          "title": "How to Build API Documentation From Scratch [A Roadmap for Technical Writers]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7f6c4ca5-30ca-42fd-a473-d6262774e149.png"
         }
       ]
     }

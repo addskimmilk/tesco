@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-29T03:09:21.475Z</updated>
+    <updated>2026-09-30T02:51:18.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Algorithmic Trading with SnapTrade, Massive, Alpaca]]></title>
+        <id>6abbcab8bf5e373dfc4ceff1</id>
+        <link href="https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/"/>
+        <updated>2026-09-29T14:27:04.000Z</updated>
+        <summary type="html"><![CDATA[We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Reliable AI Assistant with the Claude API]]></title>
+        <id>6abbc1526882db86928eaf11</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/"/>
+        <updated>2026-09-29T13:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi]]></summary>
+        <author>
+            <name>Chidozie Managwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)]]></title>
+        <id>6abbbdbe89f93b150a3b95f4</id>
+        <link href="https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/"/>
+        <updated>2026-09-29T13:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Sooner or later, most front-end developers hit the same request: "Can this take up the whole screen?" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje]]></summary>
+        <author>
+            <name>Alex Oliinyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ORMs Still Let SQL Injection Through (and How to Close the Gaps)]]></title>
+        <id>6abb5c6f814bf2c63668f9fc</id>
+        <link href="https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/"/>
+        <updated>2026-09-29T06:36:31.000Z</updated>
+        <summary type="html"><![CDATA[A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz]]></summary>
+        <author>
+            <name>Hackita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev]]></title>
+        <id>6abb5959f5b6d1ca628c8ee5</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/"/>
+        <updated>2026-09-29T06:23:21.000Z</updated>
+        <summary type="html"><![CDATA[When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie]]></summary>
+        <author>
+            <name>Sharvin Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]]]></title>
+        <id>6abb5903c40275b1ceb5b613</id>
+        <link href="https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/"/>
+        <updated>2026-09-29T06:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: "Syntax is effectively solved." That reads like a milestone, but it's the reason you]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Software Automation Needs a Layer Between Intent and Execution]]></title>
+        <id>6abb57d97eb0e171af50644b</id>
+        <link href="https://www.freecodecamp.org/news/software-automation-intent-execution-layer/"/>
+        <updated>2026-09-29T06:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator]]></title>
         <id>6ab8cc5b58666cf6e3b71086</id>
@@ -775,57 +845,6 @@
 Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the AI SDLC – The Complete Guide to Building Agent Skills]]></title>
-        <id>6a958dafb6e371335a86ea8c</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/"/>
-        <updated>2026-08-31T14:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps you can relate to this scenario: you've explained AI models four times using the same instructions this week. You've talked repeatedly about how your team structures a deck. Which checks run b]]></summary>
-        <author>
-            <name>Sarvesh Talele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Characterization Tests Before Refactoring Legacy Code]]></title>
-        <id>6a958d8401db3f18f07d0b54</id>
-        <link href="https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/"/>
-        <updated>2026-08-31T14:19:48.000Z</updated>
-        <summary type="html"><![CDATA[The first thing many engineers want to do when they inherit legacy code is improve it. You find a function that's difficult to understand. Or you see duplicated logic, deeply nested conditions, databa]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
-        <id>https://css-tricks.com/?p=396738</id>
-        <link href="https://css-tricks.com/whats-important-18/"/>
-        <updated>2026-08-31T14:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
-What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build API Documentation From Scratch [A Roadmap for Technical Writers]]]></title>
-        <id>6a9587c15c82cb888f556170</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/"/>
-        <updated>2026-08-31T13:55:13.000Z</updated>
-        <summary type="html"><![CDATA[As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e]]></summary>
-        <author>
-            <name>Gloria Tejuosho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
-        <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
-        <updated>2026-08-31T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
