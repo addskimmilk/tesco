@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T02:51:18.762Z</updated>
+    <updated>2026-10-01T02:57:32.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Under Autumn’s Spell (October 2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/</id>
+        <link href="https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/"/>
+        <updated>2026-09-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript]]></title>
+        <id>6abca43ca3fbe2215db75ecf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/"/>
+        <updated>2026-09-30T05:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to]]></summary>
+        <author>
+            <name>Bansidhar Kadiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Diagnose and Fix AI Inference Latency on Kubernetes]]></title>
+        <id>6abca2f9f944d026311c7f7b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/"/>
+        <updated>2026-09-30T05:49:45.000Z</updated>
+        <summary type="html"><![CDATA[It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Algorithmic Trading with SnapTrade, Massive, Alpaca]]></title>
         <id>6abbcab8bf5e373dfc4ceff1</id>
@@ -804,47 +834,6 @@
         <summary type="html"><![CDATA[Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems]]></title>
-        <id>6a95f9a98577dd0ab849ab46</id>
-        <link href="https://www.freecodecamp.org/news/bloom-filters-explained/"/>
-        <updated>2026-08-31T22:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Firestore Structures Data and How to Perform CRUD Operations With It]]></title>
-        <id>6a95f8e758184cca726442fe</id>
-        <link href="https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/"/>
-        <updated>2026-08-31T21:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf]]></summary>
-        <author>
-            <name>Caleb Mintoumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Every Dev Should Know About Tracking Product Data]]></title>
-        <id>6a95f5263ba1cbee5d13a5bd</id>
-        <link href="https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/"/>
-        <updated>2026-08-31T21:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what]]></summary>
-        <author>
-            <name>Obum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
-        <id>https://css-tricks.com/?p=396630</id>
-        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
-        <updated>2026-08-31T15:12:19.000Z</updated>
-        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
-Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
 </feed>

@@ -10,24 +10,28 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=396630",
-          "author": "Lee Meyer",
-          "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-random-function-polyfill/",
-          "publishedOn": "2026-08-31T15:12:19.000Z",
-          "wordCount": 6435,
-          "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+          "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "publishedOn": "2026-09-30T13:30:00.000Z",
+          "wordCount": 4645,
+          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
@@ -80,6 +84,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6abca43ca3fbe2215db75ecf",
+          "author": "Bansidhar Kadiya",
+          "description": "Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/",
+          "publishedOn": "2026-09-30T05:55:08.000Z",
+          "wordCount": 2541,
+          "title": "How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d32feb51-3930-4bd7-be76-9a9150d069d1.png"
+        },
+        {
+          "id": "6abca2f9f944d026311c7f7b",
+          "author": "Gursimar Singh",
+          "description": "It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod",
+          "link": "https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/",
+          "publishedOn": "2026-09-30T05:49:45.000Z",
+          "wordCount": 5119,
+          "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ab24802-80a3-43bb-a432-28f18d1f777e.png"
+        },
         {
           "id": "6abbcab8bf5e373dfc4ceff1",
           "author": "Beau Carnes",
@@ -849,36 +873,6 @@
           "wordCount": 1136,
           "title": "Learn Excel Formulas and Functions",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f5f230c-4aae-4416-97d9-87d65a325d5f.jpg"
-        },
-        {
-          "id": "6a95f9a98577dd0ab849ab46",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ",
-          "link": "https://www.freecodecamp.org/news/bloom-filters-explained/",
-          "publishedOn": "2026-08-31T22:01:13.000Z",
-          "wordCount": 4732,
-          "title": "Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e3025afa-a736-4dd0-923b-e6ea8508f030.png"
-        },
-        {
-          "id": "6a95f8e758184cca726442fe",
-          "author": "Caleb Mintoumba",
-          "description": "Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf",
-          "link": "https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/",
-          "publishedOn": "2026-08-31T21:57:59.000Z",
-          "wordCount": 3029,
-          "title": "How Firestore Structures Data and How to Perform CRUD Operations With It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b7f594e-36d9-48b5-a1eb-ad2d19f4d253.png"
-        },
-        {
-          "id": "6a95f5263ba1cbee5d13a5bd",
-          "author": "Obum",
-          "description": "Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what",
-          "link": "https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/",
-          "publishedOn": "2026-08-31T21:41:58.000Z",
-          "wordCount": 4131,
-          "title": "What Every Dev Should Know About Tracking Product Data",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0ba14c8d-47f9-466c-a300-f9838d8ab712.png"
         }
       ]
     }
