@@ -85,6 +85,86 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6abe78a1cc111926f9c7fc82",
+          "author": "Beau Carnes",
+          "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
+          "link": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
+          "publishedOn": "2026-10-01T15:13:37.000Z",
+          "wordCount": 1437,
+          "title": "Build and Publish a Full-Stack Mobile App with AI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e3b03940-c761-4da1-9fe0-7ca07ec88550.png"
+        },
+        {
+          "id": "6abe6aefe2bfb6c3545bb583",
+          "author": "Nikheel Vishwas Savant",
+          "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
+          "link": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
+          "publishedOn": "2026-10-01T14:15:11.000Z",
+          "wordCount": 5521,
+          "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f08ae713-8957-4954-b29f-0efc696b0de8.png"
+        },
+        {
+          "id": "6abe3dc913d662f7af15bf03",
+          "author": "Praneeth Kodumagulla",
+          "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
+          "publishedOn": "2026-10-01T11:02:33.000Z",
+          "wordCount": 3989,
+          "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3864c1c8-994c-4f98-9833-47a9bb34e15d.png"
+        },
+        {
+          "id": "6abe3d817fd604967ed16903",
+          "author": "Otobong Peter",
+          "description": "Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/",
+          "publishedOn": "2026-10-01T11:01:21.000Z",
+          "wordCount": 5574,
+          "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2101c28a-d568-4841-95e6-ab066d2cf27f.png"
+        },
+        {
+          "id": "6abe2c47229f69b03c107a96",
+          "author": "Oluwatobi Sofela",
+          "description": "Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc",
+          "link": "https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/",
+          "publishedOn": "2026-10-01T09:47:51.000Z",
+          "wordCount": 12269,
+          "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/da9c2a49-21e8-4b9a-8dc3-adac2dcf82d0.png"
+        },
+        {
+          "id": "6abdfdcf1585eb815aed0e73",
+          "author": "Manish Shivanandhan",
+          "description": "Building AI for clinical settings is harder than it looks. It takes more than picking a good model or tuning the right parameters. When engineers enter a hospital ecosystem, they quickly discover that",
+          "link": "https://www.freecodecamp.org/news/healthcare-ai-won-t-work-until-you-fix-your-data/",
+          "publishedOn": "2026-10-01T06:29:35.000Z",
+          "wordCount": 3285,
+          "title": "Healthcare AI Won't Work Until You Fix Your Data",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3306532c-8aae-4b82-8529-77387b8dba04.png"
+        },
+        {
+          "id": "6abdfb67cd92a8a7d5eb9c7c",
+          "author": "Reetain Raina",
+          "description": "Smartwatches have made health data easier to access. A quick glance at your wrist can reveal your heart rate, step count, sleep duration and even estimated recovery. But displaying all this informatio",
+          "link": "https://www.freecodecamp.org/news/are-screenless-wearables-better-for-health-tracking/",
+          "publishedOn": "2026-10-01T06:19:19.000Z",
+          "wordCount": 3308,
+          "title": "Does No Screen Mean Better Data? The 101 on Screenless Wearables",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/12cd1799-8baf-4272-a5b9-a2dcaf669b07.png"
+        },
+        {
+          "id": "6abdfcd2e3ca1b6f34c584aa",
+          "author": "Ayman Eldawy",
+          "description": "What happens when a page has 150 content-heavy cards, but the user can only see the first few? You might expect the browser to only worry about what's currently visible. But this isn't exactly what ha",
+          "link": "https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/",
+          "publishedOn": "2026-10-01T06:00:00.000Z",
+          "wordCount": 3791,
+          "title": "How CSS content-visibility Works and How It Can Improve Rendering Performance",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f11711dc-ac4a-43f0-b312-4d89c6f7f989.png"
+        },
+        {
           "id": "6abca43ca3fbe2215db75ecf",
           "author": "Bansidhar Kadiya",
           "description": "Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to",
@@ -803,76 +883,6 @@
           "wordCount": 5953,
           "title": "How Quantum Connectivity Shapes What Your Quantum Computer Can Actually Compute",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5a82d460-3285-4bd3-b2a6-31176a1c3316.png"
-        },
-        {
-          "id": "6a9754cacade799374a0231b",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t",
-          "link": "https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/",
-          "publishedOn": "2026-09-01T22:42:18.000Z",
-          "wordCount": 6045,
-          "title": "Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9dac98f7-f9bf-4597-bbd9-95e220cce9ec.png"
-        },
-        {
-          "id": "6a97368f8a7f1f043a223d7c",
-          "author": "Chinedu Otutu",
-          "description": "Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio",
-          "link": "https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/",
-          "publishedOn": "2026-09-01T20:33:19.000Z",
-          "wordCount": 2636,
-          "title": "Why You Should Never Send Emails Inside Your API Requests",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8da5a9af-d7e5-4d0e-94cc-a11d24923023.png"
-        },
-        {
-          "id": "6a96f3e0541d63c1fd799f01",
-          "author": "Manish Shivanandhan",
-          "description": "Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t",
-          "link": "https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/",
-          "publishedOn": "2026-09-01T15:48:48.000Z",
-          "wordCount": 2277,
-          "title": "How to Protect Your Privacy While Browsing the Web",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/7e2faa59-b805-4df1-be97-86c74604f35f.png"
-        },
-        {
-          "id": "6a96f33812e0a826683b9f0f",
-          "author": "Vamsi Vaddavalli",
-          "description": "Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,",
-          "link": "https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/",
-          "publishedOn": "2026-09-01T15:46:00.000Z",
-          "wordCount": 7891,
-          "title": "How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b89c199c-9ec0-48f2-b7ff-193c5b16a1d4.png"
-        },
-        {
-          "id": "6a96f2cfeb26827ea17d08f5",
-          "author": "Eva J Patel",
-          "description": "If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-analysis-agent/",
-          "publishedOn": "2026-09-01T15:44:15.000Z",
-          "wordCount": 7095,
-          "title": "How to Build an AI File Analysis Agent with Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c24acbb2-2ab2-440d-83ae-682183a2f125.png"
-        },
-        {
-          "id": "6a96f19b6bef806c586df810",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta",
-          "link": "https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/",
-          "publishedOn": "2026-09-01T15:39:07.000Z",
-          "wordCount": 3848,
-          "title": "Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9a2d1ff6-84d7-42aa-8654-15df15ad52f8.png"
-        },
-        {
-          "id": "6a96e93c39073a9c1afb3a8d",
-          "author": "Beau Carnes",
-          "description": "Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true",
-          "link": "https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/",
-          "publishedOn": "2026-09-01T15:03:24.000Z",
-          "wordCount": 1136,
-          "title": "Learn Excel Formulas and Functions",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f5f230c-4aae-4416-97d9-87d65a325d5f.jpg"
         }
       ]
     }

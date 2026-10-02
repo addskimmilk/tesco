@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T02:57:32.552Z</updated>
+    <updated>2026-10-02T03:00:13.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build and Publish a Full-Stack Mobile App with AI]]></title>
+        <id>6abe78a1cc111926f9c7fc82</id>
+        <link href="https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/"/>
+        <updated>2026-10-01T15:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Your Android App from Draining the Battery with Wake Locks]]></title>
+        <id>6abe6aefe2bfb6c3545bb583</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/"/>
+        <updated>2026-10-01T14:15:11.000Z</updated>
+        <summary type="html"><![CDATA[A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab]]></title>
+        <id>6abe3dc913d662f7af15bf03</id>
+        <link href="https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/"/>
+        <updated>2026-10-01T11:02:33.000Z</updated>
+        <summary type="html"><![CDATA[You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po]]></summary>
+        <author>
+            <name>Praneeth Kodumagulla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Code Graph in TypeScript Using VS Code's Language APIs]]></title>
+        <id>6abe3d817fd604967ed16903</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/"/>
+        <updated>2026-10-01T11:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr]]></summary>
+        <author>
+            <name>Otobong Peter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained]]></title>
+        <id>6abe2c47229f69b03c107a96</id>
+        <link href="https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/"/>
+        <updated>2026-10-01T09:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Healthcare AI Won't Work Until You Fix Your Data]]></title>
+        <id>6abdfdcf1585eb815aed0e73</id>
+        <link href="https://www.freecodecamp.org/news/healthcare-ai-won-t-work-until-you-fix-your-data/"/>
+        <updated>2026-10-01T06:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Building AI for clinical settings is harder than it looks. It takes more than picking a good model or tuning the right parameters. When engineers enter a hospital ecosystem, they quickly discover that]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does No Screen Mean Better Data? The 101 on Screenless Wearables]]></title>
+        <id>6abdfb67cd92a8a7d5eb9c7c</id>
+        <link href="https://www.freecodecamp.org/news/are-screenless-wearables-better-for-health-tracking/"/>
+        <updated>2026-10-01T06:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Smartwatches have made health data easier to access. A quick glance at your wrist can reveal your heart rate, step count, sleep duration and even estimated recovery. But displaying all this informatio]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CSS content-visibility Works and How It Can Improve Rendering Performance]]></title>
+        <id>6abdfcd2e3ca1b6f34c584aa</id>
+        <link href="https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/"/>
+        <updated>2026-10-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What happens when a page has 150 content-heavy cards, but the user can only see the first few? You might expect the browser to only worry about what's currently visible. But this isn't exactly what ha]]></summary>
+        <author>
+            <name>Ayman Eldawy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Under Autumn’s Spell (October 2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/</id>
@@ -764,76 +844,6 @@
         <summary type="html"><![CDATA[Suppose your quantum program needs to apply a two-qubit operation between qubits 0 and 50. From the programmer's perspective, that sounds simple. You have two qubits. You have a gate that operates on]]></summary>
         <author>
             <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Scalable Features]]></title>
-        <id>6a9754cacade799374a0231b</id>
-        <link href="https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/"/>
-        <updated>2026-09-01T22:42:18.000Z</updated>
-        <summary type="html"><![CDATA[As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Never Send Emails Inside Your API Requests]]></title>
-        <id>6a97368f8a7f1f043a223d7c</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/"/>
-        <updated>2026-09-01T20:33:19.000Z</updated>
-        <summary type="html"><![CDATA[Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio]]></summary>
-        <author>
-            <name>Chinedu Otutu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your Privacy While Browsing the Web]]></title>
-        <id>6a96f3e0541d63c1fd799f01</id>
-        <link href="https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/"/>
-        <updated>2026-09-01T15:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide]]></title>
-        <id>6a96f33812e0a826683b9f0f</id>
-        <link href="https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/"/>
-        <updated>2026-09-01T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,]]></summary>
-        <author>
-            <name>Vamsi Vaddavalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI File Analysis Agent with Python]]></title>
-        <id>6a96f2cfeb26827ea17d08f5</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-analysis-agent/"/>
-        <updated>2026-09-01T15:44:15.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design]]></title>
-        <id>6a96f19b6bef806c586df810</id>
-        <link href="https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/"/>
-        <updated>2026-09-01T15:39:07.000Z</updated>
-        <summary type="html"><![CDATA[In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Excel Formulas and Functions]]></title>
-        <id>6a96e93c39073a9c1afb3a8d</id>
-        <link href="https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/"/>
-        <updated>2026-09-01T15:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
