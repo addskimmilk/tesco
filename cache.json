@@ -85,6 +85,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6abfcc8e01291b49f46e78ac",
+          "author": "Beau Carnes",
+          "description": "We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,",
+          "link": "https://www.freecodecamp.org/news/learn-modern-kotlin/",
+          "publishedOn": "2026-10-02T15:23:58.000Z",
+          "wordCount": 1398,
+          "title": "Learn Modern Kotlin",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/bc8218cc-11c7-469e-b549-e9944e187099.png"
+        },
+        {
+          "id": "6abfc515257f8ade20662b79",
+          "author": "Andrew Baisden",
+          "description": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/",
+          "publishedOn": "2026-10-02T14:52:05.000Z",
+          "wordCount": 7136,
+          "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/13431986-02ba-4353-8fa7-793542e0e03f.png"
+        },
+        {
+          "id": "6abf9aa749124019f564574f",
+          "author": "Shrijal Acharya",
+          "description": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It",
+          "link": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
+          "publishedOn": "2026-10-02T11:51:03.000Z",
+          "wordCount": 6381,
+          "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32b191cd-400c-44ea-bc95-8815897f3f82.png"
+        },
+        {
+          "id": "6abf4b9d63317980cdaece08",
+          "author": "Ash",
+          "description": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that",
+          "link": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
+          "publishedOn": "2026-10-02T06:13:49.000Z",
+          "wordCount": 3116,
+          "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a6e5c1d7-5d61-4cc0-94d8-3a3e068d97e4.png"
+        },
+        {
           "id": "6abe78a1cc111926f9c7fc82",
           "author": "Beau Carnes",
           "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
@@ -863,26 +903,6 @@
           "wordCount": 15993,
           "title": "How to Use Skills in Agentic Flutter Development: A Handbook for Devs",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/aa0f5630-f617-4945-aa3a-5c962cb1609a.png"
-        },
-        {
-          "id": "6a98992c210435845c785935",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Some objects are simple, like a string, number, or boolean. You create them in one line and move on. Other objects aren't simple at all, like a carousel widget that needs an item count, an item builde",
-          "link": "https://www.freecodecamp.org/news/the-builder-design-pattern-a-better-approach-to-complex-object-construction/",
-          "publishedOn": "2026-09-02T21:46:20.000Z",
-          "wordCount": 4581,
-          "title": "The Builder Design Pattern: A Better Approach to Complex Object Construction",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3f61ce13-e9fd-4cc5-96a7-6c68b56048ef.png"
-        },
-        {
-          "id": "6a98990117b9fd99ca444dba",
-          "author": "Casmir Onyekani",
-          "description": "Suppose your quantum program needs to apply a two-qubit operation between qubits 0 and 50. From the programmer's perspective, that sounds simple. You have two qubits. You have a gate that operates on",
-          "link": "https://www.freecodecamp.org/news/how-quantum-connectivity-shapes-what-your-quantum-computer-can-actually-compute/",
-          "publishedOn": "2026-09-02T21:45:37.000Z",
-          "wordCount": 5953,
-          "title": "How Quantum Connectivity Shapes What Your Quantum Computer Can Actually Compute",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5a82d460-3285-4bd3-b2a6-31176a1c3316.png"
         }
       ]
     }
