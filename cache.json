@@ -853,56 +853,6 @@
           "wordCount": 8674,
           "title": "Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, and Gemini",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8e99bfe-2630-487f-9031-319aae986a32.png"
-        },
-        {
-          "id": "6a9a0db7c7c0575bd6526dd2",
-          "author": "Puneet Singh",
-          "description": "Agentic coding tools like Claude Code, OpenAI Codex, Google Antigravity, and Cursor have become ubiquitous for everyday software development. As agentic systems mature, much of the work developers hav",
-          "link": "https://www.freecodecamp.org/news/claude-code-observability-with-opentelemetry/",
-          "publishedOn": "2026-09-04T00:15:51.000Z",
-          "wordCount": 6165,
-          "title": "Claude Code Observability with OpenTelemetry",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2a729ee5-e1b9-4198-91cd-251b9c12867f.png"
-        },
-        {
-          "id": "6a99b7e04f56be68c2dd5b74",
-          "author": "Chidiebere Njoku",
-          "description": "Large Language Models (LLMs) have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can synthesize complex corporate data, an",
-          "link": "https://www.freecodecamp.org/news/how-to-build-ai-systems-that-know-when-they-don-t-know/",
-          "publishedOn": "2026-09-03T18:09:36.000Z",
-          "wordCount": 2691,
-          "title": "How to Build AI Systems That Know When They Don't Know: A Practical Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2a4852b4-00e8-4a91-aace-3fb67c7bfab3.png"
-        },
-        {
-          "id": "6a9995f0970203e770d14c8d",
-          "author": "Beau Carnes",
-          "description": "We just published a comprehensive, first-principles course on the semiconductor supply chain on the freeCodeCamp.org YouTube channel. Taught by hardware specialist Kian Kyars, this deep dive explains",
-          "link": "https://www.freecodecamp.org/news/how-ai-chips-are-made/",
-          "publishedOn": "2026-09-03T15:44:48.000Z",
-          "wordCount": 1179,
-          "title": "How AI Chips Are Made",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/ef98b64b-db1c-4b54-adca-58a21514b343.jpg"
-        },
-        {
-          "id": "6a999540c11d1e5beaccfefc",
-          "author": "Chosen Vincent",
-          "description": "If you’re a software developer or DevOps engineer, you've probably come across OpenTelemetry. It comes up a lot, especially when talking about observability, monitoring, or debugging distributed syste",
-          "link": "https://www.freecodecamp.org/news/how-opentelemetry-works/",
-          "publishedOn": "2026-09-03T15:41:52.000Z",
-          "wordCount": 3863,
-          "title": "How OpenTelemetry Works: A Complete Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32307170-27b3-463c-bae9-da3dbfd2a634.png"
-        },
-        {
-          "id": "6a9994ee30c9235bff67094c",
-          "author": "Atuoha Anthony",
-          "description": "One of the biggest misconceptions about AI-assisted development is that using AI means giving up the engineering experience you've built over the years. It doesn't. You can take the architecture patte",
-          "link": "https://www.freecodecamp.org/news/how-to-use-skills-in-agentic-flutter-development-a-handbook-for-devs/",
-          "publishedOn": "2026-09-03T15:40:30.000Z",
-          "wordCount": 15993,
-          "title": "How to Use Skills in Agentic Flutter Development: A Handbook for Devs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/aa0f5630-f617-4945-aa3a-5c962cb1609a.png"
         }
       ]
     }
