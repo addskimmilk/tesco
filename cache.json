@@ -85,6 +85,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ac3b79f3a1cb65fb3944008",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where",
+          "link": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
+          "publishedOn": "2026-10-05T14:43:43.000Z",
+          "wordCount": 5681,
+          "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/51178fc1-fae2-4f9e-b52c-3f2878db07d0.png"
+        },
+        {
+          "id": "6ac3903e83f4cf524562f9e6",
+          "author": "Amir Gabay",
+          "description": "You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It \"fixes\" it. But the bug is still there, or a second bug appears. So",
+          "link": "https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/",
+          "publishedOn": "2026-10-05T11:55:42.000Z",
+          "wordCount": 3680,
+          "title": "How to Break the AI Coding Agent Fix Loop",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/abd8a76e-ad86-4731-a644-2919458b7407.png"
+        },
+        {
+          "id": "6ac38fe863ed4fe7c5562283",
+          "author": "Pacifique Linjanja",
+          "description": "Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi",
+          "link": "https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/",
+          "publishedOn": "2026-10-05T11:54:16.000Z",
+          "wordCount": 7361,
+          "title": "How to Use NestJS Observe: An Observability Handbook for Devs",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/89c7ca34-578d-4782-9f12-25664410cdff.png"
+        },
+        {
+          "id": "6ac38287d6fd64daae93bf3c",
+          "author": "Reetain Raina",
+          "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
+          "link": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
+          "publishedOn": "2026-10-05T10:57:11.000Z",
+          "wordCount": 3226,
+          "title": "How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ccac1a88-7bba-4136-a680-f20637c173b1.png"
+        },
+        {
+          "id": "6ac381f06fd156dcaf4d765b",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That'",
+          "link": "https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/",
+          "publishedOn": "2026-10-05T10:54:40.000Z",
+          "wordCount": 6635,
+          "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/58e0ba94-ccc6-4e4e-aa19-9480cb060d23.png"
+        },
+        {
           "id": "6ac243175423a0b19b9f643a",
           "author": "Nikheel Vishwas Savant",
           "description": "Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t",
