@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+          "link": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": 3945,
+          "title": "A Practical Guide To Naming Things",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
@@ -84,6 +99,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ac49165464372e77035c728",
+          "author": "Chirag Agrawal",
+          "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
+          "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
+          "publishedOn": "2026-10-06T06:12:53.000Z",
+          "wordCount": 3954,
+          "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
+        },
+        {
+          "id": "6ac4810141f9b6b6ff5bf1cd",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
+          "link": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
+          "publishedOn": "2026-10-06T05:02:57.000Z",
+          "wordCount": 3905,
+          "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9b99f84-c0c8-46a0-b217-0b2e598c8ac1.png"
+        },
         {
           "id": "6ac3b79f3a1cb65fb3944008",
           "author": "Oluwaseyi Fatunmole",

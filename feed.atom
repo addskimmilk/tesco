@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T03:43:09.655Z</updated>
+    <updated>2026-10-07T03:10:26.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
+        <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
+        <link href="https://smashingmagazine.com/2026/10/how-name-things/"/>
+        <updated>2026-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to naming UI components, with useful resources, naming conventions, and structures.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox]]></title>
+        <id>6ac49165464372e77035c728</id>
+        <link href="https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/"/>
+        <updated>2026-10-06T06:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc]]></summary>
+        <author>
+            <name>Chirag Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Encrypt PII in Data Pipelines While Keeping It Searchable]]></title>
+        <id>6ac4810141f9b6b6ff5bf1cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/"/>
+        <updated>2026-10-06T05:02:57.000Z</updated>
+        <summary type="html"><![CDATA[At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal]]></summary>
+        <author>
+            <name>Lakshmi Mahabaleshwara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes]]></title>
         <id>6ac3b79f3a1cb65fb3944008</id>
