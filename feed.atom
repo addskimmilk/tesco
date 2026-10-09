@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T03:26:19.302Z</updated>
+    <updated>2026-10-09T03:31:48.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Modern React Routing: TanStack Router Crash Course]]></title>
+        <id>6ac7b4efba111367663fc712</id>
+        <link href="https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/"/>
+        <updated>2026-10-08T15:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create System Design Diagrams using Python]]></title>
+        <id>6ac788ce8908dc166f0a0562</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/"/>
+        <updated>2026-10-08T12:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build and Train a 25M Parameter LLM From Scratch on Your CPU]]></title>
+        <id>6ac6f9bb8e5c8e3fb8fd0905</id>
+        <link href="https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/"/>
+        <updated>2026-10-08T02:02:35.000Z</updated>
+        <summary type="html"><![CDATA[You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Practical Guide To Naming Things]]></title>
         <id>https://smashingmagazine.com/2026/10/how-name-things/</id>
@@ -794,26 +824,6 @@
         <summary type="html"><![CDATA[Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr]]></summary>
         <author>
             <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Python Interactively]]></title>
-        <id>6aa16581cfb9039ff59e60ca</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-interactively/"/>
-        <updated>2026-09-09T13:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
-        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
-        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
-        <updated>2026-09-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
 </feed>
