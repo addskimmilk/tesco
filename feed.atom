@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-09T03:31:48.017Z</updated>
+    <updated>2026-10-10T03:12:04.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create Scalable AI Automations with n8n]]></title>
+        <id>6ac91e9ac74cf25dc4943707</id>
+        <link href="https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/"/>
+        <updated>2026-10-09T17:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Modern React Routing: TanStack Router Crash Course]]></title>
         <id>6ac7b4efba111367663fc712</id>
@@ -762,66 +772,6 @@
         <link href="https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/"/>
         <updated>2026-09-10T16:08:33.000Z</updated>
         <summary type="html"><![CDATA[Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Codex Crash Course]]></title>
-        <id>6aa2c85bc40387b2bb1daded</id>
-        <link href="https://www.freecodecamp.org/news/openai-codex-crash-course/"/>
-        <updated>2026-09-10T15:10:19.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Linux Actually Boots: From Firmware to the Login Screen]]></title>
-        <id>6aa1ebfb3cc1af030bd4b974</id>
-        <link href="https://www.freecodecamp.org/news/how-linux-actually-boots-from-firmware-to-the-login-screen/"/>
-        <updated>2026-09-09T23:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Open a terminal on any systemd machine and run this: systemd-analyze On the laptop I'm writing this on, it says: Startup finished in 5.855s (firmware) + 8.469s (loader) + 3.106s (kernel) + 12.181s (u]]></summary>
-        <author>
-            <name>Chris Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What a Machine Learning Model is and How to Make One]]></title>
-        <id>6aa1b782434f42bd4da9b37c</id>
-        <link href="https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/"/>
-        <updated>2026-09-09T19:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Deployment Checklist That Actually Prevents Production Incidents]]></title>
-        <id>6aa1a7edf42d135b6e7c6de3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/"/>
-        <updated>2026-09-09T18:39:41.000Z</updated>
-        <summary type="html"><![CDATA[Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface]]></title>
-        <id>6aa1a112cbd6145df593b93b</id>
-        <link href="https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/"/>
-        <updated>2026-09-09T18:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Gradio with Python: A Complete Beginner-to-Advanced Book]]></title>
-        <id>6aa1a0ef2158248eeaf392ca</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/"/>
-        <updated>2026-09-09T18:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr]]></summary>
         <author>
             <name>Eva J Patel</name>
         </author>

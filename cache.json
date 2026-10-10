@@ -85,6 +85,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ac91e9ac74cf25dc4943707",
+          "author": "Beau Carnes",
+          "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
+          "link": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
+          "publishedOn": "2026-10-09T17:04:26.000Z",
+          "wordCount": 1450,
+          "title": "Create Scalable AI Automations with n8n",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
+        },
+        {
           "id": "6ac7b4efba111367663fc712",
           "author": "Beau Carnes",
           "description": "Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search",
@@ -803,66 +813,6 @@
           "wordCount": 4822,
           "title": "How to Use Lovable Responsibly",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/985f1786-0356-43fe-94c5-697f1938b118.png"
-        },
-        {
-          "id": "6aa2c85bc40387b2bb1daded",
-          "author": "Beau Carnes",
-          "description": "OpenAI Codex is a very helpful tool in modern software development, but getting real value from it comes down to understanding how it is actually meant to be used. To help developers master its core c",
-          "link": "https://www.freecodecamp.org/news/openai-codex-crash-course/",
-          "publishedOn": "2026-09-10T15:10:19.000Z",
-          "wordCount": 1120,
-          "title": "OpenAI Codex Crash Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d979dc56-fa0e-44b8-be4a-52695ce45d78.jpg"
-        },
-        {
-          "id": "6aa1ebfb3cc1af030bd4b974",
-          "author": "Chris Roy",
-          "description": "Open a terminal on any systemd machine and run this: systemd-analyze On the laptop I'm writing this on, it says: Startup finished in 5.855s (firmware) + 8.469s (loader) + 3.106s (kernel) + 12.181s (u",
-          "link": "https://www.freecodecamp.org/news/how-linux-actually-boots-from-firmware-to-the-login-screen/",
-          "publishedOn": "2026-09-09T23:30:03.000Z",
-          "wordCount": 4053,
-          "title": "How Linux Actually Boots: From Firmware to the Login Screen",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/de568fba-3b1b-4204-9585-60bbbd165fde.png"
-        },
-        {
-          "id": "6aa1b782434f42bd4da9b37c",
-          "author": "Eva J Patel",
-          "description": "Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math",
-          "link": "https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/",
-          "publishedOn": "2026-09-09T19:46:10.000Z",
-          "wordCount": 6154,
-          "title": "What a Machine Learning Model is and How to Make One",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0b0f8408-22bc-483a-9c7f-9a6db2c37640.png"
-        },
-        {
-          "id": "6aa1a7edf42d135b6e7c6de3",
-          "author": "Manish Shivanandhan",
-          "description": "Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/",
-          "publishedOn": "2026-09-09T18:39:41.000Z",
-          "wordCount": 4123,
-          "title": "How to Build a Deployment Checklist That Actually Prevents Production Incidents",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b2e654b3-dbd0-40af-a21b-c4b63cda4fcb.png"
-        },
-        {
-          "id": "6aa1a112cbd6145df593b93b",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo",
-          "link": "https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/",
-          "publishedOn": "2026-09-09T18:10:26.000Z",
-          "wordCount": 3945,
-          "title": "The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2b0e9823-e943-4665-bc01-4390cf5b6a01.png"
-        },
-        {
-          "id": "6aa1a0ef2158248eeaf392ca",
-          "author": "Eva J Patel",
-          "description": "Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr",
-          "link": "https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/",
-          "publishedOn": "2026-09-09T18:09:51.000Z",
-          "wordCount": 31037,
-          "title": "How to Use Gradio with Python: A Complete Beginner-to-Advanced Book",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/06bee29b-16d3-401a-82df-f2b85e655b32.png"
         }
       ]
     }
