@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-10T03:12:04.112Z</updated>
+    <updated>2026-10-11T02:44:32.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -754,26 +754,6 @@
         <summary type="html"><![CDATA[On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa]]></summary>
         <author>
             <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A UX ROI Case That Survives The Boardroom]]></title>
-        <id>https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/</id>
-        <link href="https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"/>
-        <updated>2026-09-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alex Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Lovable Responsibly]]></title>
-        <id>6aa2d601395968ffa3528970</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/"/>
-        <updated>2026-09-10T16:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica]]></summary>
-        <author>
-            <name>Eva J Patel</name>
         </author>
     </entry>
 </feed>

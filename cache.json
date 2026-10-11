@@ -61,21 +61,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-          "author": "hello@smashingmagazine.com (Alex Williams)",
-          "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-          "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-          "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5558,
-          "title": "Building A UX ROI Case That Survives The Boardroom",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
         }
       ]
     },
@@ -803,16 +788,6 @@
           "wordCount": 5692,
           "title": "What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c85a5e6e-104a-49a0-984d-e7c2dd141d22.png"
-        },
-        {
-          "id": "6aa2d601395968ffa3528970",
-          "author": "Eva J Patel",
-          "description": "Building an app used to feel like assembling furniture without instructions, while missing half the screws. Today, AI-powered tools such as Lovable can help you turn an idea into a working web applica",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lovable-responsibly/",
-          "publishedOn": "2026-09-10T16:08:33.000Z",
-          "wordCount": 4822,
-          "title": "How to Use Lovable Responsibly",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/985f1786-0356-43fe-94c5-697f1938b118.png"
         }
       ]
     }
