@@ -70,6 +70,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6acc85a51f0d893ec1d98e0e",
+          "author": "Vahe Aslanyan",
+          "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
+          "link": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/",
+          "publishedOn": "2026-10-12T07:00:53.000Z",
+          "wordCount": 71022,
+          "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dde99ac0-8f3a-4287-8b23-e38e841c1235.png"
+        },
+        {
           "id": "6acb97b4d2b7bc0f3bd063ec",
           "author": "Javeed Shaik",
           "description": "A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho",
