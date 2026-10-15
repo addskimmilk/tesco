@@ -70,6 +70,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6acfa07df5672c904a1a970e",
+          "author": "Kayode Adeniyi",
+          "description": "On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ",
+          "link": "https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/",
+          "publishedOn": "2026-10-14T15:32:13.000Z",
+          "wordCount": 4337,
+          "title": "How to Stop an AI Agent from Inventing Nigerian Postcodes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fc6aa940-cdca-4307-8416-682b5d660091.png"
+        },
+        {
+          "id": "6acf003cd00b1413f617c32e",
+          "author": "Abhinay Gokul",
+          "description": "A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a",
+          "link": "https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/",
+          "publishedOn": "2026-10-14T04:08:28.000Z",
+          "wordCount": 2925,
+          "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5b5c4c33-45b1-4e68-88d7-2d3ff82b0961.png"
+        },
+        {
           "id": "6acc85a51f0d893ec1d98e0e",
           "author": "Vahe Aslanyan",
           "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
@@ -688,36 +708,6 @@
           "wordCount": 3211,
           "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea32b5b4-ae6c-4b75-87bb-696fbc15b047.png"
-        },
-        {
-          "id": "6aa873c5c1f02b411d54db2f",
-          "author": "Umair Mirza",
-          "description": "Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia",
-          "link": "https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/",
-          "publishedOn": "2026-09-14T22:23:01.000Z",
-          "wordCount": 2692,
-          "title": "How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1443bfb4-581b-457b-afc3-7a85dd5fb3be.png"
-        },
-        {
-          "id": "6aa8200e59dfce663a0e73bd",
-          "author": "Hugo Teijiz",
-          "description": "The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the",
-          "link": "https://www.freecodecamp.org/news/differential-testing-legacy-migration/",
-          "publishedOn": "2026-09-14T16:25:50.000Z",
-          "wordCount": 5317,
-          "title": "How to Use Differential Testing During a Legacy Migration",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6717bbb6-16b9-4fc1-8bfe-7381a3024f73.png"
-        },
-        {
-          "id": "6aa80baffb20ceef80e8afa4",
-          "author": "Abisoye Alli-Balogun",
-          "description": "Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/",
-          "publishedOn": "2026-09-14T14:58:55.000Z",
-          "wordCount": 3704,
-          "title": "How to Implement Feature Flags for Safe and Gradual Rollouts",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c454c134-d09d-4d92-b0ba-99cbf685fe67.png"
         }
       ]
     }

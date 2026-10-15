@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T02:33:51.814Z</updated>
+    <updated>2026-10-15T02:14:38.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
+        <id>6acfa07df5672c904a1a970e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/"/>
+        <updated>2026-10-14T15:32:13.000Z</updated>
+        <summary type="html"><![CDATA[On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep a File for Minutes, Not Years, on Cloud Run]]></title>
+        <id>6acf003cd00b1413f617c32e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/"/>
+        <updated>2026-10-14T04:08:28.000Z</updated>
+        <summary type="html"><![CDATA[A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a]]></summary>
+        <author>
+            <name>Abhinay Gokul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]]]></title>
         <id>6acc85a51f0d893ec1d98e0e</id>
@@ -654,36 +674,6 @@
         <summary type="html"><![CDATA[Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows]]></summary>
         <author>
             <name>Karan Pratap Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests]]></title>
-        <id>6aa873c5c1f02b411d54db2f</id>
-        <link href="https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/"/>
-        <updated>2026-09-14T22:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia]]></summary>
-        <author>
-            <name>Umair Mirza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Differential Testing During a Legacy Migration]]></title>
-        <id>6aa8200e59dfce663a0e73bd</id>
-        <link href="https://www.freecodecamp.org/news/differential-testing-legacy-migration/"/>
-        <updated>2026-09-14T16:25:50.000Z</updated>
-        <summary type="html"><![CDATA[The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Feature Flags for Safe and Gradual Rollouts]]></title>
-        <id>6aa80baffb20ceef80e8afa4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-feature-flags-for-safe-and-gradual-rollouts/"/>
-        <updated>2026-09-14T14:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Feature flags are one of the most powerful tools in a team's deployment arsenal. They decouple deployment from release, meaning your CI/CD pipeline can push code to production servers on every merge,]]></summary>
-        <author>
-            <name>Abisoye Alli-Balogun</name>
         </author>
     </entry>
 </feed>
