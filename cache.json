@@ -46,21 +46,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
-          "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
-          "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 5025,
-          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
         }
       ]
     },
@@ -69,6 +54,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6ad0d6b41b1aaeb205d2d198",
+          "author": "Amina Lawal",
+          "description": "Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many",
+          "link": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
+          "publishedOn": "2026-10-15T13:35:48.000Z",
+          "wordCount": 14992,
+          "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d8182a7-81dd-4bb8-bd62-f9e3c4175532.png"
+        },
+        {
+          "id": "6ad05e6261108f0421f7f3d4",
+          "author": "Harish Gaggar",
+          "description": "Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa",
+          "link": "https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/",
+          "publishedOn": "2026-10-15T05:02:26.000Z",
+          "wordCount": 5827,
+          "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87096379-4cf7-4701-a76c-c09964d519e1.png"
+        },
+        {
+          "id": "6ad05dd81f613b7136df1683",
+          "author": "Oluwaseyi Fatunmole",
+          "description": "There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so",
+          "link": "https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/",
+          "publishedOn": "2026-10-15T05:00:08.000Z",
+          "wordCount": 7660,
+          "title": "Secure by Design: How to Engineer Security into Architecture Before Writing Any Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f24cb6-f4b9-40eb-9690-db750358c4d6.png"
+        },
+        {
+          "id": "6ad05935fb11435ce8281161",
+          "author": "Alex Oliinyk",
+          "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
+          "link": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
+          "publishedOn": "2026-10-15T04:40:21.000Z",
+          "wordCount": 13194,
+          "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db541c6a-aba6-4a25-b0f8-2a4657c485d3.png"
+        },
         {
           "id": "6acfa07df5672c904a1a970e",
           "author": "Kayode Adeniyi",
@@ -658,56 +683,6 @@
           "wordCount": 1224,
           "title": "Learn How to Deploy, Secure, and Automate Full-Stack Web Apps",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/4fe6aa9d-d362-495b-9100-417e8f9e0323.jpg"
-        },
-        {
-          "id": "6aa9b46181fb07630380c2e8",
-          "author": "Chris Roy",
-          "description": "A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/",
-          "publishedOn": "2026-09-15T21:10:57.000Z",
-          "wordCount": 4105,
-          "title": "How to Write a Linux Kernel Module That Actually Builds",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f8a7aabd-8494-42d5-86a1-e1eb51c2d0a7.png"
-        },
-        {
-          "id": "6aa9b393e892e731e337e0e3",
-          "author": "Manish Shivanandhan",
-          "description": "Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read",
-          "link": "https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/",
-          "publishedOn": "2026-09-15T21:07:31.000Z",
-          "wordCount": 2514,
-          "title": "The 7 Essential Parts of Your Online Presence",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1858aeea-9446-48d3-abeb-225f14aae371.png"
-        },
-        {
-          "id": "6aa9b28d96b8eb1b8b1475f0",
-          "author": "Alex Tray",
-          "description": "A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down \"just f",
-          "link": "https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/",
-          "publishedOn": "2026-09-15T21:03:09.000Z",
-          "wordCount": 4273,
-          "title": "How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4a1cf15f-7d3a-48d2-8fdd-b53ceb1dd0e7.png"
-        },
-        {
-          "id": "6aa9b21e85e19ac0f866ed24",
-          "author": "Daniel Kehoe",
-          "description": "macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with",
-          "link": "https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/",
-          "publishedOn": "2026-09-15T21:01:18.000Z",
-          "wordCount": 2693,
-          "title": "What's New in macOS 27 for Developers?",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0448ce08-813c-4739-99d7-88fad680006a.png"
-        },
-        {
-          "id": "6aa96af3f2afbe5bd755abd1",
-          "author": "Karan Pratap Singh",
-          "description": "Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows",
-          "link": "https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/",
-          "publishedOn": "2026-09-15T15:57:39.000Z",
-          "wordCount": 3211,
-          "title": "How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ea32b5b4-ae6c-4b75-87bb-696fbc15b047.png"
         }
       ]
     }

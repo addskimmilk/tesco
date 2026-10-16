@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-15T02:14:38.292Z</updated>
+    <updated>2026-10-16T02:06:09.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS]]></title>
+        <id>6ad0d6b41b1aaeb205d2d198</id>
+        <link href="https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/"/>
+        <updated>2026-10-15T13:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many]]></summary>
+        <author>
+            <name>Amina Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Give an AI Agent Safe Access to an Internal API with MCP]]></title>
+        <id>6ad05e6261108f0421f7f3d4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/"/>
+        <updated>2026-10-15T05:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa]]></summary>
+        <author>
+            <name>Harish Gaggar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure by Design: How to Engineer Security into Architecture Before Writing Any Code]]></title>
+        <id>6ad05dd81f613b7136df1683</id>
+        <link href="https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/"/>
+        <updated>2026-10-15T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js]]></title>
+        <id>6ad05935fb11435ce8281161</id>
+        <link href="https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/"/>
+        <updated>2026-10-15T04:40:21.000Z</updated>
+        <summary type="html"><![CDATA[At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a]]></summary>
+        <author>
+            <name>Alex Oliinyk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Stop an AI Agent from Inventing Nigerian Postcodes]]></title>
         <id>6acfa07df5672c904a1a970e</id>
@@ -614,66 +654,6 @@
         <summary type="html"><![CDATA[Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Treating CSS Container Queries Like Traditional Media Queries]]></title>
-        <id>https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/</id>
-        <link href="https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"/>
-        <updated>2026-09-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Linux Kernel Module That Actually Builds]]></title>
-        <id>6aa9b46181fb07630380c2e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/"/>
-        <updated>2026-09-15T21:10:57.000Z</updated>
-        <summary type="html"><![CDATA[A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi]]></summary>
-        <author>
-            <name>Chris Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 7 Essential Parts of Your Online Presence]]></title>
-        <id>6aa9b393e892e731e337e0e3</id>
-        <link href="https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/"/>
-        <updated>2026-09-15T21:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team]]></title>
-        <id>6aa9b28d96b8eb1b8b1475f0</id>
-        <link href="https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/"/>
-        <updated>2026-09-15T21:03:09.000Z</updated>
-        <summary type="html"><![CDATA[A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down "just f]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in macOS 27 for Developers?]]></title>
-        <id>6aa9b21e85e19ac0f866ed24</id>
-        <link href="https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/"/>
-        <updated>2026-09-15T21:01:18.000Z</updated>
-        <summary type="html"><![CDATA[macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff]]></title>
-        <id>6aa96af3f2afbe5bd755abd1</id>
-        <link href="https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/"/>
-        <updated>2026-09-15T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows]]></summary>
-        <author>
-            <name>Karan Pratap Singh</name>
         </author>
     </entry>
 </feed>
