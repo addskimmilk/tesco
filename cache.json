@@ -708,26 +708,6 @@
           "wordCount": 2446,
           "title": "How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f0d7a939-276b-4eb9-a380-6f376997dbe6.png"
-        },
-        {
-          "id": "6aac7747d406d7c207351312",
-          "author": "Hugo Teijiz",
-          "description": "Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users",
-          "link": "https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/",
-          "publishedOn": "2026-09-17T23:27:03.000Z",
-          "wordCount": 5310,
-          "title": "How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/086653d6-268e-4d13-8f7d-b42c92847361.png"
-        },
-        {
-          "id": "6aac2aabd02a5d838577063a",
-          "author": "Beau Carnes",
-          "description": "Geoffrey Hinton is known as the \"the Godfather of AI\". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak",
-          "link": "https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/",
-          "publishedOn": "2026-09-17T18:00:11.000Z",
-          "wordCount": 1179,
-          "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/004baebc-30c8-45fb-8565-45162d46ef13.jpg"
         }
       ]
     }
