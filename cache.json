@@ -70,6 +70,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ad617a7ac07d3a260c5c1a8",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Most Android tutorials stop at \"it runs on the emulator.\" But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus",
+          "link": "https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/",
+          "publishedOn": "2026-10-19T13:14:15.000Z",
+          "wordCount": 11507,
+          "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae76da68-1529-486f-a1c0-aaa72031d084.png"
+        },
+        {
+          "id": "6ad5be696f06108d923b29a5",
+          "author": "Hugo Teijiz",
+          "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
+          "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
+          "publishedOn": "2026-10-19T06:53:29.000Z",
+          "wordCount": 4994,
+          "title": "How to Detect Operational Drift Before It Becomes an Incident",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
+        },
+        {
+          "id": "6ad5be274280cd4c1db0f2d1",
+          "author": "Vaibhav Gupta",
+          "description": "A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/",
+          "publishedOn": "2026-10-19T06:52:23.000Z",
+          "wordCount": 6228,
+          "title": "How to Build a Website User Interface Faster Using AI Prompts",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f2e5a285-24cd-4aa4-8d6c-12c59ce9063f.png"
+        },
+        {
           "id": "6ad245772c56514e6fd78db7",
           "author": "Osomudeya Zudonu",
           "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
@@ -638,36 +668,6 @@
           "wordCount": 3716,
           "title": "Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a42885a-9cac-4fbc-8fac-affbafd7785c.png"
-        },
-        {
-          "id": "6aaec6a4bd97d368f64a3819",
-          "author": "RONI DAS",
-          "description": "Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/",
-          "publishedOn": "2026-09-19T17:30:12.000Z",
-          "wordCount": 77135,
-          "title": "How to Build a GraphRAG System with Python, Neo4j and ServiceNow",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3a3e0991-8574-4569-91b3-b68fbc58a210.png"
-        },
-        {
-          "id": "6aaec60b559dfa1d9e4f1ddc",
-          "author": "Kayode Adeniyi",
-          "description": "Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos",
-          "link": "https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/",
-          "publishedOn": "2026-09-19T17:27:39.000Z",
-          "wordCount": 7363,
-          "title": "How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f1cfd03f-8ff0-4dcb-8282-f7fac7c5fe04.png"
-        },
-        {
-          "id": "6aaec3412b999a8f7cf63f8f",
-          "author": "Farouq Seriki",
-          "description": "Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th",
-          "link": "https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/",
-          "publishedOn": "2026-09-19T17:15:45.000Z",
-          "wordCount": 14221,
-          "title": "The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e58f5f5-1bf1-4030-b3d2-f9b1617637c1.png"
         }
       ]
     }

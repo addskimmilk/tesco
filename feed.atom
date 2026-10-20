@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T02:16:23.296Z</updated>
+    <updated>2026-10-20T02:30:10.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store]]></title>
+        <id>6ad617a7ac07d3a260c5c1a8</id>
+        <link href="https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/"/>
+        <updated>2026-10-19T13:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Most Android tutorials stop at "it runs on the emulator." But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Detect Operational Drift Before It Becomes an Incident]]></title>
+        <id>6ad5be696f06108d923b29a5</id>
+        <link href="https://www.freecodecamp.org/news/detect-operational-drift-before-incident/"/>
+        <updated>2026-10-19T06:53:29.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Website User Interface Faster Using AI Prompts]]></title>
+        <id>6ad5be274280cd4c1db0f2d1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/"/>
+        <updated>2026-10-19T06:52:23.000Z</updated>
+        <summary type="html"><![CDATA[A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the]]></summary>
+        <author>
+            <name>Vaibhav Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Migrate an Application from AWS to GKE [Full Book]]]></title>
         <id>6ad245772c56514e6fd78db7</id>
@@ -604,36 +634,6 @@
         <summary type="html"><![CDATA[The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T]]></summary>
         <author>
             <name>Caleb Mintoumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphRAG System with Python, Neo4j and ServiceNow]]></title>
-        <id>6aaec6a4bd97d368f64a3819</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/"/>
-        <updated>2026-09-19T17:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has]]></summary>
-        <author>
-            <name>RONI DAS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph]]></title>
-        <id>6aaec60b559dfa1d9e4f1ddc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/"/>
-        <updated>2026-09-19T17:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native]]></title>
-        <id>6aaec3412b999a8f7cf63f8f</id>
-        <link href="https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/"/>
-        <updated>2026-09-19T17:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th]]></summary>
-        <author>
-            <name>Farouq Seriki</name>
         </author>
     </entry>
 </feed>
