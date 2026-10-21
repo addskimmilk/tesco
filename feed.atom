@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T02:30:10.064Z</updated>
+    <updated>2026-10-21T02:24:32.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Neural Networks Work: Why Straight Lines Aren't Enough]]></title>
+        <id>6ad7987561e15ba931f3a014</id>
+        <link href="https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/"/>
+        <updated>2026-10-20T16:36:05.000Z</updated>
+        <summary type="html"><![CDATA[A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E]]></summary>
+        <author>
+            <name>Samyukta Hegde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline]]></title>
+        <id>6ad7898638fe90993d14433c</id>
+        <link href="https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/"/>
+        <updated>2026-10-20T15:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and]]></summary>
+        <author>
+            <name>Shradha Puri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing Playful Imperfection With The CSS `random()` Function]]></title>
+        <id>https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/</id>
+        <link href="https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"/>
+        <updated>2026-10-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent Harness from Scratch in TypeScript]]></title>
+        <id>6ad7357a193ada3e82fb5bc5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/"/>
+        <updated>2026-10-20T09:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your Coding Agent Check Its Work in the Browser]]></title>
+        <id>6ad731804f84a96f720e9e9d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/"/>
+        <updated>2026-10-20T09:16:48.000Z</updated>
+        <summary type="html"><![CDATA[I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec]]></summary>
+        <author>
+            <name>timothy ogbemudia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store]]></title>
         <id>6ad617a7ac07d3a260c5c1a8</id>
@@ -624,16 +674,6 @@
         <summary type="html"><![CDATA[I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information]]></summary>
         <author>
             <name>brooklyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Never Embed Your Gemini API Key in Client Code (And How Firebase AI Logic Fixes It)]]></title>
-        <id>6ab11bd3c0a4b6fb82bc1891</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-never-embed-your-gemini-api-key-in-client-code-and-how-firebase-ai-logic-fixes-it/"/>
-        <updated>2026-09-21T11:58:11.000Z</updated>
-        <summary type="html"><![CDATA[The explosion of generative AI has pushed thousands of web developers to add intelligent features to their apps. The first instinct is usually to call the Gemini API's SDK directly from the browser. T]]></summary>
-        <author>
-            <name>Caleb Mintoumba</name>
         </author>
     </entry>
 </feed>
