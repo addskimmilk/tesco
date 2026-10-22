@@ -85,6 +85,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ad9087ef5ddaeeade835143",
+          "author": "Mene-Ejegi Ogbemi",
+          "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
+          "link": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
+          "publishedOn": "2026-10-21T18:46:22.000Z",
+          "wordCount": 4828,
+          "title": "What Is Model Distillation? A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
+        },
+        {
+          "id": "6ad8e242b2fc46237526d8b7",
+          "author": "Ahmed Tariq",
+          "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
+          "link": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
+          "publishedOn": "2026-10-21T16:03:14.000Z",
+          "wordCount": 3595,
+          "title": "How to Diagnose vite: not found After npm ci in a Container Build",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7a9e1bf-42bd-46de-a3db-6939e863e53b.png"
+        },
+        {
+          "id": "6ad8a5349cd0ba9a078f2e8e",
+          "author": "Beau Carnes",
+          "description": "Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o",
+          "link": "https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/",
+          "publishedOn": "2026-10-21T11:42:44.000Z",
+          "wordCount": 1528,
+          "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/644a1317-5022-4e1f-9a0a-6b115453d874.png"
+        },
+        {
           "id": "6ad7987561e15ba931f3a014",
           "author": "Samyukta Hegde",
           "description": "A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E",
@@ -703,16 +733,6 @@
           "wordCount": 3920,
           "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eedcb9fa-4e77-430d-afea-9b2b76565dbf.png"
-        },
-        {
-          "id": "6ab19a268fed0cf1f0fe1645",
-          "author": "brooklyn",
-          "description": "I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/",
-          "publishedOn": "2026-09-21T20:57:10.000Z",
-          "wordCount": 5235,
-          "title": "How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1691ded5-fe4e-405e-aa70-19cd95a700da.png"
         }
       ]
     }

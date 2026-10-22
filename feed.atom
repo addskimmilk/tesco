@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T02:24:32.221Z</updated>
+    <updated>2026-10-22T02:26:58.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
+        <id>6ad9087ef5ddaeeade835143</id>
+        <link href="https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/"/>
+        <updated>2026-10-21T18:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre]]></summary>
+        <author>
+            <name>Mene-Ejegi Ogbemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Diagnose vite: not found After npm ci in a Container Build]]></title>
+        <id>6ad8e242b2fc46237526d8b7</id>
+        <link href="https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/"/>
+        <updated>2026-10-21T16:03:14.000Z</updated>
+        <summary type="html"><![CDATA[I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure]]></summary>
+        <author>
+            <name>Ahmed Tariq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval]]></title>
+        <id>6ad8a5349cd0ba9a078f2e8e</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/"/>
+        <updated>2026-10-21T11:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Neural Networks Work: Why Straight Lines Aren't Enough]]></title>
         <id>6ad7987561e15ba931f3a014</id>
@@ -664,16 +694,6 @@
         <summary type="html"><![CDATA[When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then]]></summary>
         <author>
             <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Port a Jekyll Blog Theme to Python: Lessons From Actually Doing It]]></title>
-        <id>6ab19a268fed0cf1f0fe1645</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-reading-focused-blog-with-python-markdown-and-github-pages-for-free/"/>
-        <updated>2026-09-21T20:57:10.000Z</updated>
-        <summary type="html"><![CDATA[I've been following a tufte-jekyll styled blog for a couple of years and that led me to discover Edward Tufte's book layout. Edward Tufte is renowned for his work on data visualization and information]]></summary>
-        <author>
-            <name>brooklyn</name>
         </author>
     </entry>
 </feed>
