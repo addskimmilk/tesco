@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-23T02:25:31.178Z</updated>
+    <updated>2026-10-24T02:22:57.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
+        <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
+        <link href="https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"/>
+        <updated>2026-10-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Model Context Protocol (MCP) Security]]></title>
+        <id>6adabd38de11e835d17fc25e</id>
+        <link href="https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/"/>
+        <updated>2026-10-23T01:49:44.000Z</updated>
+        <summary type="html"><![CDATA[MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
         <id>6ad9087ef5ddaeeade835143</id>
@@ -664,36 +684,6 @@
         <summary type="html"><![CDATA[Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat]]></summary>
         <author>
             <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TimescaleDB Course – PostgreSQL for Time-Series Data]]></title>
-        <id>6ab48545d92eea5d2a3fdd77</id>
-        <link href="https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/"/>
-        <updated>2026-09-24T02:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course]]></title>
-        <id>6ab4839814d7392aab4c52af</id>
-        <link href="https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/"/>
-        <updated>2026-09-24T01:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window]]></title>
-        <id>6ab43e2cfffa4387fa43a9db</id>
-        <link href="https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/"/>
-        <updated>2026-09-23T21:01:32.000Z</updated>
-        <summary type="html"><![CDATA[When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
 </feed>

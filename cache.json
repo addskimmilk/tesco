@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+          "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+          "publishedOn": "2026-10-23T13:00:00.000Z",
+          "wordCount": 3557,
+          "title": "Accordion Icons: Which Work Best?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
           "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
           "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
@@ -84,6 +99,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6adabd38de11e835d17fc25e",
+          "author": "Beau Carnes",
+          "description": "MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co",
+          "link": "https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/",
+          "publishedOn": "2026-10-23T01:49:44.000Z",
+          "wordCount": 1548,
+          "title": "Learn Model Context Protocol (MCP) Security",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6e78bf98-aaf6-4735-8572-4e9be5bcc367.png"
+        },
         {
           "id": "6ad9087ef5ddaeeade835143",
           "author": "Mene-Ejegi Ogbemi",
@@ -703,36 +728,6 @@
           "wordCount": 4189,
           "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1f1ae0c4-da67-46b6-ae60-c22aa29fc517.png"
-        },
-        {
-          "id": "6ab48545d92eea5d2a3fdd77",
-          "author": "Beau Carnes",
-          "description": "Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for",
-          "link": "https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/",
-          "publishedOn": "2026-09-24T02:04:53.000Z",
-          "wordCount": 1208,
-          "title": "TimescaleDB Course – PostgreSQL for Time-Series Data",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7f80f393-8745-47c8-b5ad-03cceb530a1f.jpg"
-        },
-        {
-          "id": "6ab4839814d7392aab4c52af",
-          "author": "Beau Carnes",
-          "description": "Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch",
-          "link": "https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/",
-          "publishedOn": "2026-09-24T01:57:44.000Z",
-          "wordCount": 1137,
-          "title": "Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/a839fb34-5683-45bf-a3ea-138ac12b79ec.jpg"
-        },
-        {
-          "id": "6ab43e2cfffa4387fa43a9db",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then",
-          "link": "https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/",
-          "publishedOn": "2026-09-23T21:01:32.000Z",
-          "wordCount": 3920,
-          "title": "How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eedcb9fa-4e77-430d-afea-9b2b76565dbf.png"
         }
       ]
     }
