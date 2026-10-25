@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-24T02:22:57.970Z</updated>
+    <updated>2026-10-25T02:10:16.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -664,26 +664,6 @@
         <summary type="html"><![CDATA[Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha]]></summary>
         <author>
             <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside SeaHack: 24 Hours to Build an AI Startup]]></title>
-        <id>6ab571b05974dad13c5d246d</id>
-        <link href="https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/"/>
-        <updated>2026-09-24T18:53:36.000Z</updated>
-        <summary type="html"><![CDATA[We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Executable Operational Specifications Can Make Software Automation Verifiable]]></title>
-        <id>6ab54b145ca9fc6a257ae996</id>
-        <link href="https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/"/>
-        <updated>2026-09-24T16:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
         </author>
     </entry>
 </feed>

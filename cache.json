@@ -708,26 +708,6 @@
           "wordCount": 5213,
           "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d611049d-c9ed-4083-b3bc-f203ba7b42ff.png"
-        },
-        {
-          "id": "6ab571b05974dad13c5d246d",
-          "author": "Beau Carnes",
-          "description": "We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge",
-          "link": "https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/",
-          "publishedOn": "2026-09-24T18:53:36.000Z",
-          "wordCount": 1300,
-          "title": "Inside SeaHack: 24 Hours to Build an AI Startup",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/db9790c4-39b4-457d-9748-213dbc1c7de8.jpg"
-        },
-        {
-          "id": "6ab54b145ca9fc6a257ae996",
-          "author": "Hugo Teijiz",
-          "description": "Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat",
-          "link": "https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/",
-          "publishedOn": "2026-09-24T16:08:52.000Z",
-          "wordCount": 4189,
-          "title": "How Executable Operational Specifications Can Make Software Automation Verifiable",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1f1ae0c4-da67-46b6-ae60-c22aa29fc517.png"
         }
       ]
     }
