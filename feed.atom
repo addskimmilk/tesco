@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-26T02:10:52.433Z</updated>
+    <updated>2026-10-27T02:47:27.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Simple Data Analyzer in Python with Pandas]]></title>
+        <id>6adfcca469efba9d2d746b18</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/"/>
+        <updated>2026-10-26T21:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks has a new owner!]]></title>
+        <id>https://css-tricks.com/?p=397227</id>
+        <link href="https://css-tricks.com/css-tricks-has-a-new-owner/"/>
+        <updated>2026-10-26T15:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.
+CSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Noise-Cancelling Headphones Actually Remove Sound in Real Time]]></title>
+        <id>6adf5af668afba8fc152b63d</id>
+        <link href="https://www.freecodecamp.org/news/how-noise-cancelling-headphones-work/"/>
+        <updated>2026-10-26T13:51:50.000Z</updated>
+        <summary type="html"><![CDATA[A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
         <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
@@ -654,16 +685,6 @@
         <summary type="html"><![CDATA[Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele]]></summary>
         <author>
             <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator]]></title>
-        <id>6ab8cc5b58666cf6e3b71086</id>
-        <link href="https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/"/>
-        <updated>2026-09-27T07:57:15.000Z</updated>
-        <summary type="html"><![CDATA[Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
         </author>
     </entry>
 </feed>

@@ -10,7 +10,18 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=397227",
+          "author": "Geoff Graham",
+          "description": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\nCSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+          "publishedOn": "2026-10-26T15:29:36.000Z",
+          "wordCount": 4028,
+          "title": "CSS-Tricks has a new owner!",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        }
+      ]
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -99,6 +110,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6adfcca469efba9d2d746b18",
+          "author": "Eva J Patel",
+          "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
+          "publishedOn": "2026-10-26T21:56:52.000Z",
+          "wordCount": 3750,
+          "title": "How to Build a Simple Data Analyzer in Python with Pandas",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1d798058-cb3d-4459-8280-320685d7c6d4.png"
+        },
+        {
+          "id": "6adf5af668afba8fc152b63d",
+          "author": "Reetain Raina",
+          "description": "A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin",
+          "link": "https://www.freecodecamp.org/news/how-noise-cancelling-headphones-work/",
+          "publishedOn": "2026-10-26T13:51:50.000Z",
+          "wordCount": 3798,
+          "title": "How Noise-Cancelling Headphones Actually Remove Sound in Real Time",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/920c2029-1812-45e6-91f2-c6566a7eca5c.png"
+        },
         {
           "id": "6adabd38de11e835d17fc25e",
           "author": "Beau Carnes",
@@ -698,16 +729,6 @@
           "wordCount": 4120,
           "title": "Why Software Automation Needs a Layer Between Intent and Execution",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eb21a403-1e0d-46a4-a8b5-2dbb98095cdd.png"
-        },
-        {
-          "id": "6ab8cc5b58666cf6e3b71086",
-          "author": "Casmir Onyekani",
-          "description": "Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha",
-          "link": "https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/",
-          "publishedOn": "2026-09-27T07:57:15.000Z",
-          "wordCount": 5213,
-          "title": "How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d611049d-c9ed-4083-b3bc-f203ba7b42ff.png"
         }
       ]
     }
