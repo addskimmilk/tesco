@@ -121,6 +121,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ae266148842cb1aa91f5625",
+          "author": "Sameer Qaiser",
+          "description": "After doing a few basic Python projects, I got a bit bored of programs that just take input and print something back. I wanted to make something that actually gets data from the internet. So, I built",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/",
+          "publishedOn": "2026-10-28T21:16:04.000Z",
+          "wordCount": 2311,
+          "title": "How to Build a Command-Line Weather App with Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b79396ff-d6f7-4e08-a4e0-282b0eb881da.png"
+        },
+        {
           "id": "6ae0e2ec42a07b949a9f1206",
           "author": "Roland Mweze",
           "description": "Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers",
@@ -679,76 +689,6 @@
           "wordCount": 5119,
           "title": "How to Diagnose and Fix AI Inference Latency on Kubernetes",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4ab24802-80a3-43bb-a432-28f18d1f777e.png"
-        },
-        {
-          "id": "6abbcab8bf5e373dfc4ceff1",
-          "author": "Beau Carnes",
-          "description": "We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using",
-          "link": "https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/",
-          "publishedOn": "2026-09-29T14:27:04.000Z",
-          "wordCount": 1359,
-          "title": "Python Algorithmic Trading with SnapTrade, Massive, Alpaca",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6fcf5557-9b44-40d4-93ec-bad5151625be.png"
-        },
-        {
-          "id": "6abbc1526882db86928eaf11",
-          "author": "Chidozie Managwu",
-          "description": "Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/",
-          "publishedOn": "2026-09-29T13:46:58.000Z",
-          "wordCount": 3312,
-          "title": "How to Build a Reliable AI Assistant with the Claude API",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c4c96758-54f5-4b88-9f00-639ecff705f9.png"
-        },
-        {
-          "id": "6abbbdbe89f93b150a3b95f4",
-          "author": "Alex Oliinyk",
-          "description": "Sooner or later, most front-end developers hit the same request: \"Can this take up the whole screen?\" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje",
-          "link": "https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/",
-          "publishedOn": "2026-09-29T13:31:42.000Z",
-          "wordCount": 4487,
-          "title": "How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32fd0d68-ea3d-40c2-8653-449de3d514f1.png"
-        },
-        {
-          "id": "6abb5c6f814bf2c63668f9fc",
-          "author": "Hackita",
-          "description": "A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz",
-          "link": "https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/",
-          "publishedOn": "2026-09-29T06:36:31.000Z",
-          "wordCount": 3034,
-          "title": "How ORMs Still Let SQL Injection Through (and How to Close the Gaps)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e1f15e5-de00-4533-8349-70620154f7ef.png"
-        },
-        {
-          "id": "6abb5959f5b6d1ca628c8ee5",
-          "author": "Sharvin Shah",
-          "description": "When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/",
-          "publishedOn": "2026-09-29T06:23:21.000Z",
-          "wordCount": 20170,
-          "title": "How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1735b1-52f1-42d9-b3f9-afb097277200.png"
-        },
-        {
-          "id": "6abb5903c40275b1ceb5b613",
-          "author": "Kayode Adeniyi",
-          "description": "Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: \"Syntax is effectively solved.\" That reads like a milestone, but it's the reason you",
-          "link": "https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/",
-          "publishedOn": "2026-09-29T06:21:55.000Z",
-          "wordCount": 9106,
-          "title": "How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4208eef0-1dac-4b7d-89d7-28622a4d7825.png"
-        },
-        {
-          "id": "6abb57d97eb0e171af50644b",
-          "author": "Hugo Teijiz",
-          "description": "Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele",
-          "link": "https://www.freecodecamp.org/news/software-automation-intent-execution-layer/",
-          "publishedOn": "2026-09-29T06:16:57.000Z",
-          "wordCount": 4120,
-          "title": "Why Software Automation Needs a Layer Between Intent and Execution",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eb21a403-1e0d-46a4-a8b5-2dbb98095cdd.png"
         }
       ]
     }

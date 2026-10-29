@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T02:55:40.799Z</updated>
+    <updated>2026-10-29T03:20:54.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Command-Line Weather App with Python]]></title>
+        <id>6ae266148842cb1aa91f5625</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/"/>
+        <updated>2026-10-28T21:16:04.000Z</updated>
+        <summary type="html"><![CDATA[After doing a few basic Python projects, I got a bit bored of programs that just take input and print something back. I wanted to make something that actually gets data from the internet. So, I built]]></summary>
+        <author>
+            <name>Sameer Qaiser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Passkey Authentication with WebAuthn, Next.js and NestJS]]></title>
         <id>6ae0e2ec42a07b949a9f1206</id>
@@ -636,76 +646,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod]]></summary>
         <author>
             <name>Gursimar Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Algorithmic Trading with SnapTrade, Massive, Alpaca]]></title>
-        <id>6abbcab8bf5e373dfc4ceff1</id>
-        <link href="https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/"/>
-        <updated>2026-09-29T14:27:04.000Z</updated>
-        <summary type="html"><![CDATA[We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Reliable AI Assistant with the Claude API]]></title>
-        <id>6abbc1526882db86928eaf11</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/"/>
-        <updated>2026-09-29T13:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi]]></summary>
-        <author>
-            <name>Chidozie Managwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)]]></title>
-        <id>6abbbdbe89f93b150a3b95f4</id>
-        <link href="https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/"/>
-        <updated>2026-09-29T13:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Sooner or later, most front-end developers hit the same request: "Can this take up the whole screen?" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje]]></summary>
-        <author>
-            <name>Alex Oliinyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How ORMs Still Let SQL Injection Through (and How to Close the Gaps)]]></title>
-        <id>6abb5c6f814bf2c63668f9fc</id>
-        <link href="https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/"/>
-        <updated>2026-09-29T06:36:31.000Z</updated>
-        <summary type="html"><![CDATA[A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz]]></summary>
-        <author>
-            <name>Hackita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev]]></title>
-        <id>6abb5959f5b6d1ca628c8ee5</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/"/>
-        <updated>2026-09-29T06:23:21.000Z</updated>
-        <summary type="html"><![CDATA[When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie]]></summary>
-        <author>
-            <name>Sharvin Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Govern AI-Generated Infrastructure with Policy as Code and OPA [Full Handbook]]]></title>
-        <id>6abb5903c40275b1ceb5b613</id>
-        <link href="https://www.freecodecamp.org/news/how-to-govern-ai-generated-infrastructure-with-policy-as-code-and-opa-full-handbook/"/>
-        <updated>2026-09-29T06:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Modern models generate syntactically correct code nearly 100% of the time. Veracode's 2026 report puts it plainly: "Syntax is effectively solved." That reads like a milestone, but it's the reason you]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Software Automation Needs a Layer Between Intent and Execution]]></title>
-        <id>6abb57d97eb0e171af50644b</id>
-        <link href="https://www.freecodecamp.org/news/software-automation-intent-execution-layer/"/>
-        <updated>2026-09-29T06:16:57.000Z</updated>
-        <summary type="html"><![CDATA[Software automation is good at turning instructions into actions. A pipeline can deploy a release, Terraform can provision infrastructure, a runbook can restart a service, or an agent can inspect tele]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
         </author>
     </entry>
 </feed>
