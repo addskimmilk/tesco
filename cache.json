@@ -49,6 +49,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "publishedOn": "2026-10-31T08:00:00.000Z",
+          "wordCount": 4539,
+          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
@@ -634,46 +649,6 @@
           "wordCount": 1398,
           "title": "Learn Modern Kotlin",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/bc8218cc-11c7-469e-b549-e9944e187099.png"
-        },
-        {
-          "id": "6abfc515257f8ade20662b79",
-          "author": "Andrew Baisden",
-          "description": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/",
-          "publishedOn": "2026-10-02T14:52:05.000Z",
-          "wordCount": 7136,
-          "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/13431986-02ba-4353-8fa7-793542e0e03f.png"
-        },
-        {
-          "id": "6abf9aa749124019f564574f",
-          "author": "Shrijal Acharya",
-          "description": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It",
-          "link": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
-          "publishedOn": "2026-10-02T11:51:03.000Z",
-          "wordCount": 6381,
-          "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/32b191cd-400c-44ea-bc95-8815897f3f82.png"
-        },
-        {
-          "id": "6abf4b9d63317980cdaece08",
-          "author": "Ash",
-          "description": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that",
-          "link": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
-          "publishedOn": "2026-10-02T06:13:49.000Z",
-          "wordCount": 3116,
-          "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a6e5c1d7-5d61-4cc0-94d8-3a3e068d97e4.png"
-        },
-        {
-          "id": "6abe78a1cc111926f9c7fc82",
-          "author": "Beau Carnes",
-          "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
-          "link": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
-          "publishedOn": "2026-10-01T15:13:37.000Z",
-          "wordCount": 1437,
-          "title": "Build and Publish a Full-Stack Mobile App with AI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e3b03940-c761-4da1-9fe0-7ca07ec88550.png"
         }
       ]
     }

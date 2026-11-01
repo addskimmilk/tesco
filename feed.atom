@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-31T03:07:25.653Z</updated>
+    <updated>2026-11-01T03:02:09.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Spark Of Color In November’s Gray (2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/</id>
+        <link href="https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/"/>
+        <updated>2026-10-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Detect Financial Fraud Patterns
 with Knowledge Graphs: A Production
@@ -597,46 +607,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <link href="https://www.freecodecamp.org/news/learn-modern-kotlin/"/>
         <updated>2026-10-02T15:23:58.000Z</updated>
         <summary type="html"><![CDATA[We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev]]></title>
-        <id>6abfc515257f8ade20662b79</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/"/>
-        <updated>2026-10-02T14:52:05.000Z</updated>
-        <summary type="html"><![CDATA[Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the]]></summary>
-        <author>
-            <name>Andrew Baisden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes]]></title>
-        <id>6abf9aa749124019f564574f</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/"/>
-        <updated>2026-10-02T11:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It]]></summary>
-        <author>
-            <name>Shrijal Acharya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate]]></title>
-        <id>6abf4b9d63317980cdaece08</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/"/>
-        <updated>2026-10-02T06:13:49.000Z</updated>
-        <summary type="html"><![CDATA[Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that]]></summary>
-        <author>
-            <name>Ash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Publish a Full-Stack Mobile App with AI]]></title>
-        <id>6abe78a1cc111926f9c7fc82</id>
-        <link href="https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/"/>
-        <updated>2026-10-01T15:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
