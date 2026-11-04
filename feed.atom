@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T04:28:02.027Z</updated>
+    <updated>2026-11-04T03:46:37.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Find and Fix Common Technical SEO Issues on Your Website]]></title>
+        <id>6aea2f4db1deb69c0283692a</id>
+        <link href="https://www.freecodecamp.org/news/fix-common-technical-seo-issues/"/>
+        <updated>2026-11-03T19:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan]]></summary>
+        <author>
+            <name>Saar Twito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Docker Image Creation for Postgres Using Shell Commands]]></title>
+        <id>6aea2aaffbe759481e70cb16</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/"/>
+        <updated>2026-11-03T18:40:47.000Z</updated>
+        <summary type="html"><![CDATA[If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th]]></summary>
+        <author>
+            <name>jabo Landry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide]]></title>
+        <id>6aea10a0338bcff0a27d3b67</id>
+        <link href="https://www.freecodecamp.org/news/freelance-developer-design-studios/"/>
+        <updated>2026-11-03T16:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB]]></title>
+        <id>6aea06ca2d9e47407b2ddc76</id>
+        <link href="https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/"/>
+        <updated>2026-11-03T16:07:38.000Z</updated>
+        <summary type="html"><![CDATA[A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Implementing :nth-child() With Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=397741</id>
+        <link href="https://css-tricks.com/re-implementing-nth-child-with-modern-css/"/>
+        <updated>2026-11-03T14:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Combining :nth-child with style queries and sibling-index() to conditionally select child elements.
+Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern CSS Might Make Your Front-End More Complex]]></title>
+        <id>https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/</id>
+        <link href="https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/"/>
+        <updated>2026-11-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()]]></title>
         <id>https://css-tricks.com/?p=397698</id>
@@ -530,56 +591,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal]]></summary>
         <author>
             <name>Lakshmi Mahabaleshwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes]]></title>
-        <id>6ac3b79f3a1cb65fb3944008</id>
-        <link href="https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/"/>
-        <updated>2026-10-05T14:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Break the AI Coding Agent Fix Loop]]></title>
-        <id>6ac3903e83f4cf524562f9e6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/"/>
-        <updated>2026-10-05T11:55:42.000Z</updated>
-        <summary type="html"><![CDATA[You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It "fixes" it. But the bug is still there, or a second bug appears. So]]></summary>
-        <author>
-            <name>Amir Gabay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use NestJS Observe: An Observability Handbook for Devs]]></title>
-        <id>6ac38fe863ed4fe7c5562283</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/"/>
-        <updated>2026-10-05T11:54:16.000Z</updated>
-        <summary type="html"><![CDATA[Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi]]></summary>
-        <author>
-            <name>Pacifique Linjanja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement]]></title>
-        <id>6ac38287d6fd64daae93bf3c</id>
-        <link href="https://www.freecodecamp.org/news/ai-email-deliverability-explained/"/>
-        <updated>2026-10-05T10:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem]]></summary>
-        <author>
-            <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10]]></title>
-        <id>6ac381f06fd156dcaf4d765b</id>
-        <link href="https://www.freecodecamp.org/news/engineering-anatomy-of-api-vulnerabilities-owasp-api-security-top-10/"/>
-        <updated>2026-10-05T10:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how many systems are affected globally. That']]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
         </author>
     </entry>
 </feed>
