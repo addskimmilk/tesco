@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397777",
+          "author": "Geoff Graham",
+          "description": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\nSmashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/smashing-ai-conference/",
+          "publishedOn": "2026-11-04T15:02:51.000Z",
+          "wordCount": 1939,
+          "title": "Smashing AI Conference",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=397741",
           "author": "Temani Afif",
           "description": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements.\nRe-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -142,21 +152,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/10/how-name-things/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
-          "link": "https://smashingmagazine.com/2026/10/how-name-things/",
-          "publishedOn": "2026-10-06T10:00:00.000Z",
-          "wordCount": 3945,
-          "title": "A Practical Guide To Naming Things",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg"
         }
       ]
     },
@@ -165,6 +160,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aeba47df91e889efe09a17a",
+          "author": "Reetain Raina",
+          "description": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
+          "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
+          "publishedOn": "2026-11-04T21:32:45.000Z",
+          "wordCount": 3786,
+          "title": "What a CAPTCHA Farm Attack Actually Looks Like",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/392975d9-8fb2-4311-bbd9-8ec42af322ef.png"
+        },
+        {
+          "id": "6aeb864c3b9bd5f8621e17c4",
+          "author": "Quincy Larson",
+          "description": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
+          "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
+          "publishedOn": "2026-11-04T19:23:56.000Z",
+          "wordCount": 1701,
+          "title": "Introducing Socrates and the New freeCodeCamp Forum",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b482fb0-6ce1-4cd9-8241-e83e65c390f8.png"
+        },
         {
           "id": "6aea2f4db1deb69c0283692a",
           "author": "Saar Twito",
@@ -614,26 +629,6 @@
           "wordCount": 1474,
           "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d7d4538b-9aff-4e9e-ab8c-65adb325a2f0.png"
-        },
-        {
-          "id": "6ac49165464372e77035c728",
-          "author": "Chirag Agrawal",
-          "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
-          "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
-          "publishedOn": "2026-10-06T06:12:53.000Z",
-          "wordCount": 3954,
-          "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
-        },
-        {
-          "id": "6ac4810141f9b6b6ff5bf1cd",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
-          "link": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
-          "publishedOn": "2026-10-06T05:02:57.000Z",
-          "wordCount": 3905,
-          "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9b99f84-c0c8-46a0-b217-0b2e598c8ac1.png"
         }
       ]
     }
