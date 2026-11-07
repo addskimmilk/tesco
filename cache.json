@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397890",
+          "author": "Geoff Graham",
+          "description": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\nRSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-tricks-redesign-preview/",
+          "publishedOn": "2026-11-06T18:52:59.000Z",
+          "wordCount": 2007,
+          "title": "RSS Club: CSS-Tricks Redesign Preview",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=396817",
           "author": "Stu Robson",
           "description": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\nTaming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -88,6 +98,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
+          "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+          "publishedOn": "2026-11-06T08:00:00.000Z",
+          "wordCount": 3433,
+          "title": "A New Community For In-House UX People",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
           "author": "hello@smashingmagazine.com (Eric Bailey)",
@@ -185,6 +210,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aee2d6e123f77519047915d",
+          "author": "Bhavin Sheth",
+          "description": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
+          "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
+          "publishedOn": "2026-11-06T19:41:34.000Z",
+          "wordCount": 14122,
+          "title": "How to Build a PDF Storyboard Generator Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8109e42-db7b-4690-9d2b-2be82ab57943.png"
+        },
+        {
+          "id": "6aedfb097070ca4b7e00e608",
+          "author": "Beau Carnes",
+          "description": "A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho",
+          "link": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
+          "publishedOn": "2026-11-06T16:06:33.000Z",
+          "wordCount": 1615,
+          "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+          "imageUrl": "https://cdn.hashnode.com/uploads/gql/5f68e7df6dfc523d0a894e7c/1bca1e16-d488-4afc-bc2f-ede5902092c4.jpg"
+        },
         {
           "id": "6aecb9efa7a2ab6fb8e3fe94",
           "author": "Ajay Patel",
@@ -634,36 +679,6 @@
           "wordCount": 1450,
           "title": "Create Scalable AI Automations with n8n",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
-        },
-        {
-          "id": "6ac7b4efba111367663fc712",
-          "author": "Beau Carnes",
-          "description": "Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search",
-          "link": "https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/",
-          "publishedOn": "2026-10-08T15:21:19.000Z",
-          "wordCount": 1521,
-          "title": "Master Modern React Routing: TanStack Router Crash Course",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/9aeef2a4-98c3-4967-87c6-aa995b98b737.png"
-        },
-        {
-          "id": "6ac788ce8908dc166f0a0562",
-          "author": "Zaira Hira",
-          "description": "Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s",
-          "link": "https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/",
-          "publishedOn": "2026-10-08T12:13:02.000Z",
-          "wordCount": 2765,
-          "title": "How to Create System Design Diagrams using Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dc8376e4-76df-4ea5-90cf-38a90069be19.png"
-        },
-        {
-          "id": "6ac6f9bb8e5c8e3fb8fd0905",
-          "author": "Beau Carnes",
-          "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
-          "link": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
-          "publishedOn": "2026-10-08T02:02:35.000Z",
-          "wordCount": 1474,
-          "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d7d4538b-9aff-4e9e-ab8c-65adb325a2f0.png"
         }
       ]
     }

@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T04:02:13.787Z</updated>
+    <updated>2026-11-07T03:38:24.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a PDF Storyboard Generator Using JavaScript]]></title>
+        <id>6aee2d6e123f77519047915d</id>
+        <link href="https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/"/>
+        <updated>2026-11-06T19:41:34.000Z</updated>
+        <summary type="html"><![CDATA[PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so]]></summary>
+        <author>
+            <name>Bhavin Sheth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS Club: CSS-Tricks Redesign Preview]]></title>
+        <id>https://css-tricks.com/?p=397890</id>
+        <link href="https://css-tricks.com/css-tricks-redesign-preview/"/>
+        <updated>2026-11-06T18:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.
+RSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot 4 Roguelike Course – Build a Complete Top-Down Action Game]]></title>
+        <id>6aedfb097070ca4b7e00e608</id>
+        <link href="https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/"/>
+        <updated>2026-11-06T16:06:33.000Z</updated>
+        <summary type="html"><![CDATA[A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Community For In-House UX People]]></title>
+        <id>https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/</id>
+        <link href="https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/"/>
+        <updated>2026-11-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use shadcn/ui in React Native Applications [Full Handbook]]]></title>
         <id>6aecb9efa7a2ab6fb8e3fe94</id>
@@ -591,36 +632,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <link href="https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/"/>
         <updated>2026-10-09T17:04:26.000Z</updated>
         <summary type="html"><![CDATA[Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Modern React Routing: TanStack Router Crash Course]]></title>
-        <id>6ac7b4efba111367663fc712</id>
-        <link href="https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/"/>
-        <updated>2026-10-08T15:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create System Design Diagrams using Python]]></title>
-        <id>6ac788ce8908dc166f0a0562</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/"/>
-        <updated>2026-10-08T12:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Train a 25M Parameter LLM From Scratch on Your CPU]]></title>
-        <id>6ac6f9bb8e5c8e3fb8fd0905</id>
-        <link href="https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/"/>
-        <updated>2026-10-08T02:02:35.000Z</updated>
-        <summary type="html"><![CDATA[You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
