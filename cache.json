@@ -669,16 +669,6 @@
           "wordCount": 5980,
           "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
-        },
-        {
-          "id": "6ac91e9ac74cf25dc4943707",
-          "author": "Beau Carnes",
-          "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
-          "link": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
-          "publishedOn": "2026-10-09T17:04:26.000Z",
-          "wordCount": 1450,
-          "title": "Create Scalable AI Automations with n8n",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
         }
       ]
     }

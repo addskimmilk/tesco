@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T03:10:25.466Z</updated>
+    <updated>2026-11-09T03:32:14.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -624,16 +624,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it]]></summary>
         <author>
             <name>Saar Twito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Scalable AI Automations with n8n]]></title>
-        <id>6ac91e9ac74cf25dc4943707</id>
-        <link href="https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/"/>
-        <updated>2026-10-09T17:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
