@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397812",
+          "author": "Geoff Graham",
+          "description": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\nCSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-tricks-version-20/",
+          "publishedOn": "2026-11-09T15:49:48.000Z",
+          "wordCount": 4758,
+          "title": "CSS-Tricks, Version 20",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-20-theme-tiggle.mp4",
+            "length": "7389584",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=397890",
           "author": "Geoff Graham",
           "description": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\nRSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -639,36 +654,6 @@
           "wordCount": 71022,
           "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dde99ac0-8f3a-4287-8b23-e38e841c1235.png"
-        },
-        {
-          "id": "6acb97b4d2b7bc0f3bd063ec",
-          "author": "Javeed Shaik",
-          "description": "A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho",
-          "link": "https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/",
-          "publishedOn": "2026-10-11T14:05:40.000Z",
-          "wordCount": 3132,
-          "title": "What to Do When Your Constants Are Someone Else's Law",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d0b15ef7-16e3-4521-afe8-f2bd08611f97.png"
-        },
-        {
-          "id": "6acb5b01b19fbe5ad15d6949",
-          "author": "Hugo Teijiz",
-          "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
-          "link": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
-          "publishedOn": "2026-10-11T09:46:41.000Z",
-          "wordCount": 4603,
-          "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/55c7ea87-fbb5-4b3f-ae4e-1d1616362579.png"
-        },
-        {
-          "id": "6acb575a7dfd7348cce66960",
-          "author": "Saar Twito",
-          "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
-          "link": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
-          "publishedOn": "2026-10-11T09:31:06.000Z",
-          "wordCount": 5980,
-          "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
         }
       ]
     }

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-09T03:32:14.855Z</updated>
+    <updated>2026-11-10T05:05:15.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
+        <id>https://css-tricks.com/?p=397812</id>
+        <link href="https://css-tricks.com/css-tricks-version-20/"/>
+        <updated>2026-11-09T15:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.
+CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a PDF Storyboard Generator Using JavaScript]]></title>
         <id>6aee2d6e123f77519047915d</id>
@@ -594,36 +605,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code]]></summary>
         <author>
             <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do When Your Constants Are Someone Else's Law]]></title>
-        <id>6acb97b4d2b7bc0f3bd063ec</id>
-        <link href="https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/"/>
-        <updated>2026-10-11T14:05:40.000Z</updated>
-        <summary type="html"><![CDATA[A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho]]></summary>
-        <author>
-            <name>Javeed Shaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Measure Conformance Between an Operational Specification and Its Execution]]></title>
-        <id>6acb5b01b19fbe5ad15d6949</id>
-        <link href="https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/"/>
-        <updated>2026-10-11T09:46:41.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It]]></title>
-        <id>6acb575a7dfd7348cce66960</id>
-        <link href="https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/"/>
-        <updated>2026-10-11T09:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it]]></summary>
-        <author>
-            <name>Saar Twito</name>
         </author>
     </entry>
 </feed>
