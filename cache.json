@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396572",
+          "author": "Jens Oliver Meiert",
+          "description": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\nCSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-using-declarations-just-once/",
+          "publishedOn": "2026-11-10T16:42:18.000Z",
+          "wordCount": 2936,
+          "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=397812",
           "author": "Geoff Graham",
           "description": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\nCSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -225,6 +235,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6af33ff6e6a1d476dd025c20",
+          "author": "Beau Carnes",
+          "description": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
+          "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
+          "publishedOn": "2026-11-10T16:01:58.000Z",
+          "wordCount": 1693,
+          "title": "Learn Agentic Coding with Codex & AI Coding Agents",
+          "imageUrl": "https://i.ytimg.com/vi/ajfQWhGQGLE/maxresdefault.jpg"
+        },
+        {
+          "id": "6af31a20042fa071f004461c",
+          "author": "Reetain Raina",
+          "description": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
+          "link": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
+          "publishedOn": "2026-11-10T13:20:32.000Z",
+          "wordCount": 5200,
+          "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/5ab5b73d-ffb5-4c71-91b7-648b69bb79b7.png"
+        },
         {
           "id": "6aee2d6e123f77519047915d",
           "author": "Bhavin Sheth",
@@ -644,16 +674,6 @@
           "wordCount": 2925,
           "title": "How to Keep a File for Minutes, Not Years, on Cloud Run",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/5b5c4c33-45b1-4e68-88d7-2d3ff82b0961.png"
-        },
-        {
-          "id": "6acc85a51f0d893ec1d98e0e",
-          "author": "Vahe Aslanyan",
-          "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
-          "link": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/",
-          "publishedOn": "2026-10-12T07:00:53.000Z",
-          "wordCount": 71022,
-          "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dde99ac0-8f3a-4287-8b23-e38e841c1235.png"
         }
       ]
     }

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-10T05:05:15.474Z</updated>
+    <updated>2026-11-11T03:39:17.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?]]></title>
+        <id>https://css-tricks.com/?p=396572</id>
+        <link href="https://css-tricks.com/css-using-declarations-just-once/"/>
+        <updated>2026-11-10T16:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?
+CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Jens Oliver Meiert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Agentic Coding with Codex & AI Coding Agents]]></title>
+        <id>6af33ff6e6a1d476dd025c20</id>
+        <link href="https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/"/>
+        <updated>2026-11-10T16:01:58.000Z</updated>
+        <summary type="html"><![CDATA[AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When You Upload a Large File & Generate a Temporary Download Link]]></title>
+        <id>6af31a20042fa071f004461c</id>
+        <link href="https://www.freecodecamp.org/news/how-file-transfer-services-work/"/>
+        <updated>2026-11-10T13:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
         <id>https://css-tricks.com/?p=397812</id>
@@ -595,16 +626,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a]]></summary>
         <author>
             <name>Abhinay Gokul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]]]></title>
-        <id>6acc85a51f0d893ec1d98e0e</id>
-        <link href="https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/"/>
-        <updated>2026-10-12T07:00:53.000Z</updated>
-        <summary type="html"><![CDATA[A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
         </author>
     </entry>
 </feed>
