@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397800",
+          "author": "Geoff Graham",
+          "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
+          "publishedOn": "2026-11-13T14:05:24.000Z",
+          "wordCount": 2916,
+          "title": "10 Big Ol’ 2027 Black Friday Deals",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=397598",
           "author": "Andy Clarke",
           "description": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.\nBeyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -260,6 +270,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6af7069e2028f50f83240511",
+          "author": "Manish Shivanandhan",
+          "description": "Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in",
+          "link": "https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/",
+          "publishedOn": "2026-11-13T12:46:22.000Z",
+          "wordCount": 3253,
+          "title": "How to Speed Up CI in the Age of AI-Written Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/d1609f3b-9a5c-402f-b04d-30349dd2e10e.png"
+        },
+        {
+          "id": "6af6f326f94aa3564f351d31",
+          "author": "Yemi Ojedapo",
+          "description": "When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c",
+          "link": "https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/",
+          "publishedOn": "2026-11-13T11:23:18.000Z",
+          "wordCount": 6311,
+          "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae47b7ae-2c13-49b9-bad7-a20a28edbecb.png"
+        },
+        {
+          "id": "6af6ea1b6758a8ccb76659d6",
+          "author": "Bhavin Sheth",
+          "description": "Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a",
+          "link": "https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/",
+          "publishedOn": "2026-11-13T10:44:43.000Z",
+          "wordCount": 9808,
+          "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eb2e1525-11db-47ef-a27c-b0672184efe8.png"
+        },
         {
           "id": "6af33ff6e6a1d476dd025c20",
           "author": "Beau Carnes",
@@ -639,46 +679,6 @@
           "wordCount": 1576,
           "title": "Learn How to Design Software Systems Like a Senior Engineer in Our New Course",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e7c56cb4-aabc-41e2-8fd9-4c14bb158d91.png"
-        },
-        {
-          "id": "6ad0d6b41b1aaeb205d2d198",
-          "author": "Amina Lawal",
-          "description": "Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many",
-          "link": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
-          "publishedOn": "2026-10-15T13:35:48.000Z",
-          "wordCount": 14992,
-          "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d8182a7-81dd-4bb8-bd62-f9e3c4175532.png"
-        },
-        {
-          "id": "6ad05e6261108f0421f7f3d4",
-          "author": "Harish Gaggar",
-          "description": "Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa",
-          "link": "https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/",
-          "publishedOn": "2026-10-15T05:02:26.000Z",
-          "wordCount": 5827,
-          "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87096379-4cf7-4701-a76c-c09964d519e1.png"
-        },
-        {
-          "id": "6ad05dd81f613b7136df1683",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so",
-          "link": "https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/",
-          "publishedOn": "2026-10-15T05:00:08.000Z",
-          "wordCount": 7660,
-          "title": "Secure by Design: How to Engineer Security into Architecture Before Writing Any Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f24cb6-f4b9-40eb-9690-db750358c4d6.png"
-        },
-        {
-          "id": "6ad05935fb11435ce8281161",
-          "author": "Alex Oliinyk",
-          "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
-          "link": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
-          "publishedOn": "2026-10-15T04:40:21.000Z",
-          "wordCount": 13194,
-          "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db541c6a-aba6-4a25-b0f8-2a4657c485d3.png"
         }
       ]
     }
