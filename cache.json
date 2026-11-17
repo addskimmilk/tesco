@@ -256,6 +256,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6afba1044c9d975934925ee6",
+          "author": "Samuel Tosin",
+          "description": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
+          "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
+          "publishedOn": "2026-11-17T00:34:12.000Z",
+          "wordCount": 7958,
+          "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2573405d-995c-4738-862d-0fadc243446c.png"
+        },
+        {
+          "id": "6afb9d63e1e477f325473f68",
+          "author": "David Aniebo",
+          "description": "Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/",
+          "publishedOn": "2026-11-17T00:18:42.000Z",
+          "wordCount": 8170,
+          "title": "How to Build a Translator with Chrome’s Built-In AI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1d251ce9-4e88-476b-9a54-0face0578c19.png"
+        },
+        {
           "id": "6af88630044134836d5c4f7d",
           "author": "Beau Carnes",
           "description": "GLM-5.3-Flash combines linear and sparse attention, a mixture-of-experts design, and manifold constrained hyperconnections. A scaled-down version with 25 million parameters can be built in Python and",
@@ -634,16 +654,6 @@
           "wordCount": 6228,
           "title": "How to Build a Website User Interface Faster Using AI Prompts",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f2e5a285-24cd-4aa4-8d6c-12c59ce9063f.png"
-        },
-        {
-          "id": "6ad245772c56514e6fd78db7",
-          "author": "Osomudeya Zudonu",
-          "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
-          "link": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
-          "publishedOn": "2026-10-16T15:40:39.000Z",
-          "wordCount": 30358,
-          "title": "How to Migrate an Application from AWS to GKE [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8a1803ba-c9c9-496d-b2c4-58392cc655eb.png"
         }
       ]
     }
