@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=395816",
+          "author": "Lee Meyer",
+          "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+          "publishedOn": "2026-11-16T16:47:05.000Z",
+          "wordCount": 3732,
+          "title": "Staggering Scroll-Driven Animations with animation-range-start",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=397800",
           "author": "Geoff Graham",
           "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -143,6 +153,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
+          "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "publishedOn": "2026-11-17T12:00:00.000Z",
+          "wordCount": 4651,
+          "title": "Meet AI 2027 Conference (Dec 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+          "author": "hello@smashingmagazine.com (Andrew Chung)",
+          "description": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+          "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+          "publishedOn": "2026-11-17T08:00:00.000Z",
+          "wordCount": 4437,
+          "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
@@ -624,36 +664,6 @@
           "wordCount": 7984,
           "title": "How to Make Your Coding Agent Check Its Work in the Browser",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cbbc37b8-4405-4aa3-a691-0d7c7301baf2.png"
-        },
-        {
-          "id": "6ad617a7ac07d3a260c5c1a8",
-          "author": "Nikheel Vishwas Savant",
-          "description": "Most Android tutorials stop at \"it runs on the emulator.\" But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus",
-          "link": "https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/",
-          "publishedOn": "2026-10-19T13:14:15.000Z",
-          "wordCount": 11507,
-          "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae76da68-1529-486f-a1c0-aaa72031d084.png"
-        },
-        {
-          "id": "6ad5be696f06108d923b29a5",
-          "author": "Hugo Teijiz",
-          "description": "In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s",
-          "link": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
-          "publishedOn": "2026-10-19T06:53:29.000Z",
-          "wordCount": 4994,
-          "title": "How to Detect Operational Drift Before It Becomes an Incident",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/883e3abc-de6f-48c8-aff5-5c5cab4093c2.png"
-        },
-        {
-          "id": "6ad5be274280cd4c1db0f2d1",
-          "author": "Vaibhav Gupta",
-          "description": "A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/",
-          "publishedOn": "2026-10-19T06:52:23.000Z",
-          "wordCount": 6228,
-          "title": "How to Build a Website User Interface Faster Using AI Prompts",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f2e5a285-24cd-4aa4-8d6c-12c59ce9063f.png"
         }
       ]
     }

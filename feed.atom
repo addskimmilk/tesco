@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T05:37:09.788Z</updated>
+    <updated>2026-11-18T05:00:17.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meet AI 2027 Conference (Dec 1)]]></title>
+        <id>https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/</id>
+        <link href="https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/"/>
+        <updated>2026-11-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Sped Up The Build: How Can Accessibility Testing Keep Up?]]></title>
+        <id>https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/</id>
+        <link href="https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/"/>
+        <updated>2026-11-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrew Chung)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes]]></title>
         <id>6afba1044c9d975934925ee6</id>
@@ -24,6 +44,17 @@
         <summary type="html"><![CDATA[Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and]]></summary>
         <author>
             <name>David Aniebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staggering Scroll-Driven Animations with animation-range-start]]></title>
+        <id>https://css-tricks.com/?p=395816</id>
+        <link href="https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/"/>
+        <updated>2026-11-16T16:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.
+Staggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
@@ -578,36 +609,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec]]></summary>
         <author>
             <name>timothy ogbemudia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store]]></title>
-        <id>6ad617a7ac07d3a260c5c1a8</id>
-        <link href="https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/"/>
-        <updated>2026-10-19T13:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Most Android tutorials stop at "it runs on the emulator." But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Detect Operational Drift Before It Becomes an Incident]]></title>
-        <id>6ad5be696f06108d923b29a5</id>
-        <link href="https://www.freecodecamp.org/news/detect-operational-drift-before-incident/"/>
-        <updated>2026-10-19T06:53:29.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s]]></summary>
-        <author>
-            <name>Hugo Teijiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Website User Interface Faster Using AI Prompts]]></title>
-        <id>6ad5be274280cd4c1db0f2d1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/"/>
-        <updated>2026-10-19T06:52:23.000Z</updated>
-        <summary type="html"><![CDATA[A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the]]></summary>
-        <author>
-            <name>Vaibhav Gupta</name>
         </author>
     </entry>
 </feed>
