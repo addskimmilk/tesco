@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=398054",
+          "author": "Andy Bell",
+          "description": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …\nWhen Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/when-everything-has-changed/",
+          "publishedOn": "2026-11-18T14:55:21.000Z",
+          "wordCount": 3996,
+          "title": "When Everything Has Changed, What Do We Do Next?",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=395816",
           "author": "Lee Meyer",
           "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -272,21 +282,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
-          "link": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-          "publishedOn": "2026-10-20T10:00:00.000Z",
-          "wordCount": 5949,
-          "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/embracing-playful-imperfection-css-random-function/embracing-playful-imperfection-css-random-function.jpg"
         }
       ]
     },
@@ -295,6 +290,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6afdc8c04e123f818c6a048e",
+          "author": "Beau Carnes",
+          "description": "Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/",
+          "publishedOn": "2026-11-18T15:48:16.000Z",
+          "wordCount": 1662,
+          "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+          "imageUrl": "https://i.ytimg.com/vi/ybe6EGe_wjo/maxresdefault.jpg"
+        },
         {
           "id": "6afba1044c9d975934925ee6",
           "author": "Samuel Tosin",
@@ -624,46 +629,6 @@
           "wordCount": 1528,
           "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/644a1317-5022-4e1f-9a0a-6b115453d874.png"
-        },
-        {
-          "id": "6ad7987561e15ba931f3a014",
-          "author": "Samyukta Hegde",
-          "description": "A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E",
-          "link": "https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/",
-          "publishedOn": "2026-10-20T16:36:05.000Z",
-          "wordCount": 3534,
-          "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0220c2ae-5938-458c-9a87-b97a66c7945e.png"
-        },
-        {
-          "id": "6ad7898638fe90993d14433c",
-          "author": "Shradha Puri",
-          "description": "Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and",
-          "link": "https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/",
-          "publishedOn": "2026-10-20T15:32:22.000Z",
-          "wordCount": 3854,
-          "title": "How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/bda2d690-df48-4c12-8a7d-d68cd0a5eedf.png"
-        },
-        {
-          "id": "6ad7357a193ada3e82fb5bc5",
-          "author": "Gabor Koos",
-          "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
-          "publishedOn": "2026-10-20T09:33:46.000Z",
-          "wordCount": 7725,
-          "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ba422277-ac91-408c-9022-225002c6213a.png"
-        },
-        {
-          "id": "6ad731804f84a96f720e9e9d",
-          "author": "timothy ogbemudia",
-          "description": "I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec",
-          "link": "https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/",
-          "publishedOn": "2026-10-20T09:16:48.000Z",
-          "wordCount": 7984,
-          "title": "How to Make Your Coding Agent Check Its Work in the Browser",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cbbc37b8-4405-4aa3-a691-0d7c7301baf2.png"
         }
       ]
     }

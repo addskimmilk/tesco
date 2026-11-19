@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T05:00:17.514Z</updated>
+    <updated>2026-11-19T04:55:23.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Structures and Algorithms in Python with Visualizations]]></title>
+        <id>6afdc8c04e123f818c6a048e</id>
+        <link href="https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/"/>
+        <updated>2026-11-18T15:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Everything Has Changed, What Do We Do Next?]]></title>
+        <id>https://css-tricks.com/?p=398054</id>
+        <link href="https://css-tricks.com/when-everything-has-changed/"/>
+        <updated>2026-11-18T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …
+When Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Bell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet AI 2027 Conference (Dec 1)]]></title>
         <id>https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/</id>
@@ -559,56 +580,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Neural Networks Work: Why Straight Lines Aren't Enough]]></title>
-        <id>6ad7987561e15ba931f3a014</id>
-        <link href="https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/"/>
-        <updated>2026-10-20T16:36:05.000Z</updated>
-        <summary type="html"><![CDATA[A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E]]></summary>
-        <author>
-            <name>Samyukta Hegde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Wearables Can Adapt When Pregnancy Changes a User's Regular Baseline]]></title>
-        <id>6ad7898638fe90993d14433c</id>
-        <link href="https://www.freecodecamp.org/news/how-wearables-can-adapt-when-pregnancy-changes-a-user-s-regular-baseline/"/>
-        <updated>2026-10-20T15:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Your smart ring or watch has many useful jobs, including learning your usual physiological patterns and showing you when they change. Resting heart rate, heart rate variability (HRV), temperature, and]]></summary>
-        <author>
-            <name>Shradha Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embracing Playful Imperfection With The CSS `random()` Function]]></title>
-        <id>https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/</id>
-        <link href="https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/"/>
-        <updated>2026-10-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent Harness from Scratch in TypeScript]]></title>
-        <id>6ad7357a193ada3e82fb5bc5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/"/>
-        <updated>2026-10-20T09:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your Coding Agent Check Its Work in the Browser]]></title>
-        <id>6ad731804f84a96f720e9e9d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/"/>
-        <updated>2026-10-20T09:16:48.000Z</updated>
-        <summary type="html"><![CDATA[I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec]]></summary>
-        <author>
-            <name>timothy ogbemudia</name>
         </author>
     </entry>
 </feed>
