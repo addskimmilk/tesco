@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?page_id=397984",
+          "author": "John Rhea",
+          "description": "The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.\nscroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/s/scroll-state/",
+          "publishedOn": "2026-11-19T14:57:54.000Z",
+          "wordCount": 3935,
+          "title": "scroll-state()",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=398054",
           "author": "Andy Bell",
           "description": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …\nWhen Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -290,6 +300,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6aff718ab7bbd995ee693880",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/",
+          "publishedOn": "2026-11-19T22:00:42.000Z",
+          "wordCount": 5000,
+          "title": "How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/17f495db-a70b-427b-a69d-4b200d573081.png"
+        },
+        {
+          "id": "6aff37e26fa61df077387de3",
+          "author": "Bala Priya C",
+          "description": "Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/",
+          "publishedOn": "2026-11-19T17:54:42.000Z",
+          "wordCount": 2968,
+          "title": "How to Scrape Websites in Python with Olostep",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b1f48704-57ee-42f1-8687-766ff3abb630.png"
+        },
+        {
+          "id": "6aff2ffbede28e00513a0715",
+          "author": "Bhavin Sheth",
+          "description": "Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f",
+          "link": "https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/",
+          "publishedOn": "2026-11-19T17:20:58.000Z",
+          "wordCount": 8036,
+          "title": "How to Build a Browser-Based PDF Password Protector Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ad5640f-31b1-412d-a20c-d1180ae363f2.png"
+        },
         {
           "id": "6afdc8c04e123f818c6a048e",
           "author": "Beau Carnes",
@@ -609,26 +649,6 @@
           "wordCount": 4828,
           "title": "What Is Model Distillation? A Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
-        },
-        {
-          "id": "6ad8e242b2fc46237526d8b7",
-          "author": "Ahmed Tariq",
-          "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
-          "link": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
-          "publishedOn": "2026-10-21T16:03:14.000Z",
-          "wordCount": 3595,
-          "title": "How to Diagnose vite: not found After npm ci in a Container Build",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7a9e1bf-42bd-46de-a3db-6939e863e53b.png"
-        },
-        {
-          "id": "6ad8a5349cd0ba9a078f2e8e",
-          "author": "Beau Carnes",
-          "description": "Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o",
-          "link": "https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/",
-          "publishedOn": "2026-10-21T11:42:44.000Z",
-          "wordCount": 1528,
-          "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/644a1317-5022-4e1f-9a0a-6b115453d874.png"
         }
       ]
     }
