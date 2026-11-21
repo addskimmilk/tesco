@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-20T04:45:25.739Z</updated>
+    <updated>2026-11-21T04:41:12.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Write an API Migration Guide (With a Real Example)]]></title>
+        <id>6b009404336f5868385eb26f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/"/>
+        <updated>2026-11-20T18:40:04.000Z</updated>
+        <summary type="html"><![CDATA[When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou]]></summary>
+        <author>
+            <name>Chosen Vincent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andy Clarke answers six questions about Standout Designs for the Web]]></title>
+        <id>https://css-tricks.com/?p=397535</id>
+        <link href="https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/"/>
+        <updated>2026-11-20T15:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.
+The book draws …
+Andy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial]]></title>
         <id>6aff718ab7bbd995ee693880</id>
@@ -591,16 +613,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Model Distillation? A Guide for Developers]]></title>
-        <id>6ad9087ef5ddaeeade835143</id>
-        <link href="https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/"/>
-        <updated>2026-10-21T18:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre]]></summary>
-        <author>
-            <name>Mene-Ejegi Ogbemi</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397535",
+          "author": "Geoff Graham",
+          "description": "Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.\nThe book draws …\nAndy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+          "publishedOn": "2026-11-20T15:03:47.000Z",
+          "wordCount": 2484,
+          "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/standout-design-thumbmnail.png"
+        },
+        {
           "id": "https://css-tricks.com/?page_id=397984",
           "author": "John Rhea",
           "description": "The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.\nscroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -300,6 +310,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6b009404336f5868385eb26f",
+          "author": "Chosen Vincent",
+          "description": "When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou",
+          "link": "https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/",
+          "publishedOn": "2026-11-20T18:40:04.000Z",
+          "wordCount": 5874,
+          "title": "How to Write an API Migration Guide (With a Real Example)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f2ef1a-31ff-4032-9f99-f98e293f7d92.png"
+        },
         {
           "id": "6aff718ab7bbd995ee693880",
           "author": "Lakshmi Mahabaleshwara",
@@ -639,16 +659,6 @@
           "wordCount": 1548,
           "title": "Learn Model Context Protocol (MCP) Security",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6e78bf98-aaf6-4735-8572-4e9be5bcc367.png"
-        },
-        {
-          "id": "6ad9087ef5ddaeeade835143",
-          "author": "Mene-Ejegi Ogbemi",
-          "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
-          "link": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
-          "publishedOn": "2026-10-21T18:46:22.000Z",
-          "wordCount": 4828,
-          "title": "What Is Model Distillation? A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d829d33-57ca-4b85-84b8-13f86798afb7.png"
         }
       ]
     }
