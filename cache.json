@@ -287,21 +287,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
-          "link": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
-          "publishedOn": "2026-10-23T13:00:00.000Z",
-          "wordCount": 3557,
-          "title": "Accordion Icons: Which Work Best?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/accordion-icons-which-work-best.jpg"
         }
       ]
     },
@@ -649,16 +634,6 @@
           "wordCount": 3798,
           "title": "How Noise-Cancelling Headphones Actually Remove Sound in Real Time",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/920c2029-1812-45e6-91f2-c6566a7eca5c.png"
-        },
-        {
-          "id": "6adabd38de11e835d17fc25e",
-          "author": "Beau Carnes",
-          "description": "MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co",
-          "link": "https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/",
-          "publishedOn": "2026-10-23T01:49:44.000Z",
-          "wordCount": 1548,
-          "title": "Learn Model Context Protocol (MCP) Security",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/6e78bf98-aaf6-4735-8572-4e9be5bcc367.png"
         }
       ]
     }

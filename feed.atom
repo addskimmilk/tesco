@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T04:41:12.396Z</updated>
+    <updated>2026-11-22T03:55:14.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
@@ -593,26 +593,6 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
         <summary type="html"><![CDATA[A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin]]></summary>
         <author>
             <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accordion Icons: Which Work Best?]]></title>
-        <id>https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/</id>
-        <link href="https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/"/>
-        <updated>2026-10-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Model Context Protocol (MCP) Security]]></title>
-        <id>6adabd38de11e835d17fc25e</id>
-        <link href="https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/"/>
-        <updated>2026-10-23T01:49:44.000Z</updated>
-        <summary type="html"><![CDATA[MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
