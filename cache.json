@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=396490",
+          "author": "Steve Frenzel",
+          "description": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.\nUsing Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-frontend-fallbacks/",
+          "publishedOn": "2026-11-23T14:21:44.000Z",
+          "wordCount": 3205,
+          "title": "Using Fallbacks for a Robust Front-End",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=398239",
+          "author": "Geoff Graham",
+          "description": "A new resource resurrecting lost web-dev articles and posts:\nThis is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to \n…\nDev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/dev-material-archive/",
+          "publishedOn": "2026-11-23T14:18:50.000Z",
+          "wordCount": 1832,
+          "title": "Dev Material Archive",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=397535",
           "author": "Geoff Graham",
           "description": "Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.\nThe book draws …\nAndy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -295,6 +315,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6b04590fe116d564954b31ad",
+          "author": "Rajdeep Singh",
+          "description": "GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/",
+          "publishedOn": "2026-11-23T15:17:35.000Z",
+          "wordCount": 3263,
+          "title": "How to Use the GitHub CLI with GitHub Actions",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4765e26b-1a6a-4ad7-9030-ac357eea5432.png"
+        },
+        {
+          "id": "6b04581bc6f7393e301ba3cd",
+          "author": "Chidiebere Njoku",
+          "description": "Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl",
+          "link": "https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/",
+          "publishedOn": "2026-11-23T15:13:31.000Z",
+          "wordCount": 4006,
+          "title": "How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b9dbd57-7ff7-497d-9b6c-7c5810f2ec81.png"
+        },
+        {
+          "id": "6b0457f1f1e50f6d0a06ec3f",
+          "author": "Manish Shivanandhan",
+          "description": "Enterprise AI traffic is hard to secure because security-relevant information is often inside an otherwise legitimate connection. A developer can send source code to a coding assistant over HTTPS. An",
+          "link": "https://www.freecodecamp.org/news/ai-network-firewalls-for-enterprise-security-architecture/",
+          "publishedOn": "2026-11-23T15:12:49.000Z",
+          "wordCount": 2407,
+          "title": "AI Network Firewalls for Enterprise Security Architecture",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a1dcbb09-9eb5-4c61-99c3-3da86dd82dea.png"
+        },
         {
           "id": "6b009404336f5868385eb26f",
           "author": "Chosen Vincent",

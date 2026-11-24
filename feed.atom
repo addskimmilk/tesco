@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T04:35:59.866Z</updated>
+    <updated>2026-11-24T07:29:07.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the GitHub CLI with GitHub Actions]]></title>
+        <id>6b04590fe116d564954b31ad</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/"/>
+        <updated>2026-11-23T15:17:35.000Z</updated>
+        <summary type="html"><![CDATA[GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package]]></title>
+        <id>6b04581bc6f7393e301ba3cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/"/>
+        <updated>2026-11-23T15:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl]]></summary>
+        <author>
+            <name>Chidiebere Njoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Network Firewalls for Enterprise Security Architecture]]></title>
+        <id>6b0457f1f1e50f6d0a06ec3f</id>
+        <link href="https://www.freecodecamp.org/news/ai-network-firewalls-for-enterprise-security-architecture/"/>
+        <updated>2026-11-23T15:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise AI traffic is hard to secure because security-relevant information is often inside an otherwise legitimate connection. A developer can send source code to a coding assistant over HTTPS. An]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Fallbacks for a Robust Front-End]]></title>
+        <id>https://css-tricks.com/?p=396490</id>
+        <link href="https://css-tricks.com/using-frontend-fallbacks/"/>
+        <updated>2026-11-23T14:21:44.000Z</updated>
+        <summary type="html"><![CDATA[It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.
+Using Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Steve Frenzel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev Material Archive]]></title>
+        <id>https://css-tricks.com/?p=398239</id>
+        <link href="https://css-tricks.com/dev-material-archive/"/>
+        <updated>2026-11-23T14:18:50.000Z</updated>
+        <summary type="html"><![CDATA[A new resource resurrecting lost web-dev articles and posts:
+This is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to 
+…
+Dev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write an API Migration Guide (With a Real Example)]]></title>
         <id>6b009404336f5868385eb26f</id>
