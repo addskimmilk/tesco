@@ -185,16 +185,6 @@
           "wordCount": 2958,
           "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397227",
-          "author": "Geoff Graham",
-          "description": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\nCSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-          "publishedOn": "2026-10-26T15:29:36.000Z",
-          "wordCount": 4028,
-          "title": "CSS-Tricks has a new owner!",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -315,6 +305,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6b05b3498a6cb0ff981c0f3f",
+          "author": "Beau Carnes",
+          "description": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
+          "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
+          "publishedOn": "2026-11-24T15:54:49.000Z",
+          "wordCount": 1588,
+          "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
+          "imageUrl": "https://i.ytimg.com/vi/rCx4SCd4N-s/maxresdefault.jpg"
+        },
         {
           "id": "6b04590fe116d564954b31ad",
           "author": "Rajdeep Singh",
@@ -674,16 +674,6 @@
           "wordCount": 3750,
           "title": "How to Build a Simple Data Analyzer in Python with Pandas",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1d798058-cb3d-4459-8280-320685d7c6d4.png"
-        },
-        {
-          "id": "6adf5af668afba8fc152b63d",
-          "author": "Reetain Raina",
-          "description": "A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin",
-          "link": "https://www.freecodecamp.org/news/how-noise-cancelling-headphones-work/",
-          "publishedOn": "2026-10-26T13:51:50.000Z",
-          "wordCount": 3798,
-          "title": "How Noise-Cancelling Headphones Actually Remove Sound in Real Time",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/920c2029-1812-45e6-91f2-c6566a7eca5c.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-24T07:29:07.004Z</updated>
+    <updated>2026-11-25T05:58:18.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam]]></title>
+        <id>6b05b3498a6cb0ff981c0f3f</id>
+        <link href="https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/"/>
+        <updated>2026-11-24T15:54:49.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the GitHub CLI with GitHub Actions]]></title>
         <id>6b04590fe116d564954b31ad</id>
@@ -626,27 +636,6 @@ What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-m
         <summary type="html"><![CDATA[Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t]]></summary>
         <author>
             <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks has a new owner!]]></title>
-        <id>https://css-tricks.com/?p=397227</id>
-        <link href="https://css-tricks.com/css-tricks-has-a-new-owner/"/>
-        <updated>2026-10-26T15:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.
-CSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Noise-Cancelling Headphones Actually Remove Sound in Real Time]]></title>
-        <id>6adf5af668afba8fc152b63d</id>
-        <link href="https://www.freecodecamp.org/news/how-noise-cancelling-headphones-work/"/>
-        <updated>2026-10-26T13:51:50.000Z</updated>
-        <summary type="html"><![CDATA[A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin]]></summary>
-        <author>
-            <name>Reetain Raina</name>
         </author>
     </entry>
 </feed>
