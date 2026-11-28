@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=398761",
+          "author": "Geoff Graham",
+          "description": "I honestly hadn't thought about \"getting caught\" by light-dark() — particularly when leaning heavily on it for this site — but Martin Underhill explains the user and rendering considerations, making me reflect on my choices as well.\nUsing light-dark() without getting caught out originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-light-dark-without-getting-caught-out/",
+          "publishedOn": "2026-11-27T16:01:31.000Z",
+          "wordCount": 2448,
+          "title": "Using light-dark() without getting caught out",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/12/candles-lightbulb-1024x512.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=398743",
           "author": "Geoff Graham",
           "description": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.\nWe’re going full 2013-meets-2026 with an art-directed piece that …\nRSS Club: Preview Art-Directed Scrollytelling Article originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -195,16 +205,6 @@
           "wordCount": 2786,
           "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397546",
-          "author": "Preethi",
-          "description": "A super scary way to go about tables using other layout techniques, like CSS Grid.\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-frankenstein-table/",
-          "publishedOn": "2026-10-29T13:47:08.000Z",
-          "wordCount": 2191,
-          "title": "The Frankenstein Table",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
         }
       ]
     },
@@ -684,36 +684,6 @@
           "wordCount": 1608,
           "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e9763073-fee0-4569-a772-13af7ce09553.png"
-        },
-        {
-          "id": "6ae36961d5f7580678ebe2d1",
-          "author": "Eva J Patel",
-          "description": "Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand",
-          "link": "https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/",
-          "publishedOn": "2026-10-29T15:42:25.000Z",
-          "wordCount": 23258,
-          "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/edbaff87-7932-42b2-8c28-61bb67972244.png"
-        },
-        {
-          "id": "6ae368ce7483e3ea0090cfe2",
-          "author": "Chinwendu Enyinna",
-          "description": "You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai",
-          "link": "https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/",
-          "publishedOn": "2026-10-29T15:39:58.000Z",
-          "wordCount": 4899,
-          "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e9e06980-6916-4ded-9079-e007e85ff32b.png"
-        },
-        {
-          "id": "6ae266148842cb1aa91f5625",
-          "author": "Sameer Qaiser",
-          "description": "After doing a few basic Python projects, I got a bit bored of programs that just take input and print something back. I wanted to make something that actually gets data from the internet. So, I built",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/",
-          "publishedOn": "2026-10-28T21:16:04.000Z",
-          "wordCount": 2311,
-          "title": "How to Build a Command-Line Weather App with Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b79396ff-d6f7-4e08-a4e0-282b0eb881da.png"
         }
       ]
     }

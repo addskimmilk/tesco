@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://addskimmilk.github.io/tesco/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-27T05:44:28.853Z</updated>
+    <updated>2026-11-28T05:24:28.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://addskimmilk.github.io/tesco/index.html"/>
     <link rel="self" href="https://addskimmilk.github.io/tesco/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using light-dark() without getting caught out]]></title>
+        <id>https://css-tricks.com/?p=398761</id>
+        <link href="https://css-tricks.com/using-light-dark-without-getting-caught-out/"/>
+        <updated>2026-11-27T16:01:31.000Z</updated>
+        <summary type="html"><![CDATA[I honestly hadn't thought about "getting caught" by light-dark() — particularly when leaning heavily on it for this site — but Martin Underhill explains the user and rendering considerations, making me reflect on my choices as well.
+Using light-dark() without getting caught out originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Wearables Can Turn Your Body Into a Dashboard]]></title>
         <id>6b0740e9d9c19e6e465e6cbf</id>
@@ -627,47 +638,6 @@ Guide]]></title>
         <summary type="html"><![CDATA[The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]]]></title>
-        <id>6ae36961d5f7580678ebe2d1</id>
-        <link href="https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/"/>
-        <updated>2026-10-29T15:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand]]></summary>
-        <author>
-            <name>Eva J Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Service Models Explained: IaaS vs PaaS vs SaaS]]></title>
-        <id>6ae368ce7483e3ea0090cfe2</id>
-        <link href="https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/"/>
-        <updated>2026-10-29T15:39:58.000Z</updated>
-        <summary type="html"><![CDATA[You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai]]></summary>
-        <author>
-            <name>Chinwendu Enyinna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Frankenstein Table]]></title>
-        <id>https://css-tricks.com/?p=397546</id>
-        <link href="https://css-tricks.com/the-frankenstein-table/"/>
-        <updated>2026-10-29T13:47:08.000Z</updated>
-        <summary type="html"><![CDATA[A super scary way to go about tables using other layout techniques, like CSS Grid.
-The Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Command-Line Weather App with Python]]></title>
-        <id>6ae266148842cb1aa91f5625</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/"/>
-        <updated>2026-10-28T21:16:04.000Z</updated>
-        <summary type="html"><![CDATA[After doing a few basic Python projects, I got a bit bored of programs that just take input and print something back. I wanted to make something that actually gets data from the internet. So, I built]]></summary>
-        <author>
-            <name>Sameer Qaiser</name>
         </author>
     </entry>
 </feed>
